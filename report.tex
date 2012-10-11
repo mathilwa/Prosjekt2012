@@ -1,0 +1,25 @@
+\documentclass[a4paper,12pt]{report}
+\usepackage[printonlyused]{acronym}
+\usepackage{graphicx}
+\usepackage{cite}
+\usepackage[utf8]{inputenc}
+
+\begin{document}
+\pagenumbering{roman}
+\input{acronyms}
+
+\tableofcontents
+\cleardoublepage
+\pagenumbering{arabic}
+\newpage
+\input{introduction}
+\newpage
+\input{background}
+\newpage
+\input{osterwalderbusinessmodel}
+
+\bibliography{bib}
+\bibliographystyle{plain}
+\addcontentsline{toc}{chapter}{Bibliography}
+\addcontentsline{toc}{chapter}{Appendix A}
+\end{document}
