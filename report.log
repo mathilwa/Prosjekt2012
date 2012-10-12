@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.3)  12 OCT 2012 12:56
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.3)  12 OCT 2012 16:03
 entering extended mode
 **report.tex
 (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.tex
@@ -351,14 +351,14 @@ Package acronym Info: Label `acro:vm' newly defined as it shall be overridden
 although it is yet undefined on input line 2.
 [2
 
-]) [3] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\case.tex
+] [3]) [4] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\case.tex
 Chapter 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--10
 
  []
 
-[4
+[5
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
@@ -370,36 +370,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--15
 
  []
 
-[5]
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 16--18
 
  []
 
-) [6]
+) [7]
 (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\osterwalderbusinessmodel.tex
 Chapter 4.
-<business-model.jpg, id=33, 701.62125pt x 432.11438pt>
+<business-model.jpg, id=36, 701.62125pt x 432.11438pt>
 File: business-model.jpg Graphic file (type jpg)
 
 <use business-model.jpg>
 Package pdftex.def Info: business-model.jpg used on input line 9.
 (pdftex.def)             Requested size: 350.80975pt x 216.05666pt.
- [7
+ [8
 
-] [8 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/business-model.jpg>] [9] 
-<5BuyingStages.png, id=43, 209.1012pt x 166.221pt>
+] [9 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/business-model.jpg>] [10]
+ <5BuyingStages.png, id=47, 209.1012pt x 166.221pt>
 File: 5BuyingStages.png Graphic file (type png)
 
 <use 5BuyingStages.png>
 Package pdftex.def Info: 5BuyingStages.png used on input line 43.
 (pdftex.def)             Requested size: 209.10068pt x 166.22057pt.
- [10 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/5BuyingStages.png>]
+ [11 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/5BuyingStages.png>]
 Overfull \hbox (2.76814pt too wide) in paragraph at lines 59--60
 \OT1/cmr/m/n/12 Infrastructure man-age-ment de-scribes the com-pa-nies ca-pa-bi
 l-i-ties and re-sources
  []
 
-[11] [12] <valuechain.png, id=55, 516.42938pt x 82.05656pt>
+[12] [13] <valuechain.png, id=58, 516.42938pt x 82.05656pt>
 File: valuechain.png Graphic file (type png)
 
 <use valuechain.png>
@@ -410,56 +410,95 @@ Overfull \hbox (23.14406pt too wide) in paragraph at lines 81--82
  [] 
  []
 
-[13 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/valuechain.png>]
+[14 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/valuechain.png>]
 Overfull \hbox (0.10524pt too wide) in paragraph at lines 123--125
 \OT1/cmr/m/n/12 tween two types of pric-ing mech-a-nisms: fixed and dy-namic pr
 ic-ing. TABELL:
  []
 
-) [14] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.bbl [15]
-Underfull \hbox (badness 10000) in paragraph at lines 38--41
+) [15] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.bbl [16]
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+$\OT1/cmtt/m/n/12 2010 / 11 / 03 / eyetoy-[]innovation-[]and-[]beyond / comment
+-[]page-[]2 /$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+[]\OT1/cmr/m/n/12 PlayStation Move: The Ul-ti-mate FAQ.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+$\OT1/cmtt/m/n/12 http : / / blog . us . playstation . com / 2010 / 09 / 07 /$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
+[]\OT1/cmr/m/n/12 Xbox 360 sur-passes 66m sold and kinect passes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
+\OT1/cmr/m/n/12 18m units.  $\OT1/cmtt/m/n/12 http : / / venturebeat . com / 20
+12 / 01 / 09 /$
+ []
+
+
+Overfull \hbox (0.56656pt too wide) in paragraph at lines 49--53
+$\OT1/cmtt/m/n/12 xbox-[]360-[]surpassed-[]66m-[]sold-[]and-[]kinect-[]has-[]so
+ld-[]18m-[]units/$\OT1/cmr/m/n/12 .
+ []
+
+[17
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 61--65
+[]\OT1/cmr/m/n/12 Kinect for Win-dows.  $\OT1/cmtt/m/n/12 http : / / www . micr
+osoft . com / en-[]us /$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
 []\OT1/cmr/m/n/12 Trimtilbud.  $\OT1/cmtt/m/n/12 http : / / www . trondheim . k
 ommune . no / content /$
  []
 
 
-Underfull \hbox (badness 7203) in paragraph at lines 43--49
+Underfull \hbox (badness 7203) in paragraph at lines 90--96
 []\OT1/cmr/m/n/12 Skelton et al.  Exercise-based in-ter-ven-tion: Falls man-age
 -
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--49
+Underfull \hbox (badness 10000) in paragraph at lines 90--96
 \OT1/cmr/m/n/12 ment ex-er-cise (fame) in-ter-ven-tion.  $\OT1/cmtt/m/n/12 http
  : / / www . cdc . gov /$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--49
+Underfull \hbox (badness 10000) in paragraph at lines 90--96
 $\OT1/cmtt/m/n/12 HomeandRecreationalSafety / Falls / compendium / 1 . 8 _ FaME
  . html$\OT1/cmr/m/n/12 .
  []
 
-[16
-
-]) [17] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.aux) ) 
+) [18] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.aux) ) 
 Here is how much of TeX's memory you used:
- 1777 strings out of 494045
- 23068 string characters out of 3148379
- 79882 words of memory out of 3000000
- 5056 multiletter control sequences out of 15000+200000
+ 1793 strings out of 494045
+ 23242 string characters out of 3148379
+ 79914 words of memory out of 3000000
+ 5072 multiletter control sequences out of 15000+200000
  9016 words of font info for 32 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 27i,6n,20p,1432b,262s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmtt12.pfb>
-Output written on report.pdf (20 pages, 160245 bytes).
+ 27i,6n,20p,1752b,262s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmtt12.pfb>
+Output written on report.pdf (21 pages, 168153 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
+ 93 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
