@@ -11,21 +11,21 @@
 \contentsline {subsection}{\numberline {2.2.2}PlayStation EyeToy}{2}
 \contentsline {subsection}{\numberline {2.2.3}PlayStation Move}{2}
 \contentsline {subsection}{\numberline {2.2.4}Nintendo Wii}{2}
-\contentsline {subsection}{\numberline {2.2.5}Kinect}{2}
-\contentsline {chapter}{\numberline {3}Case 1: Prevention for Elderly Afraid of Falling}{3}
-\contentsline {chapter}{\numberline {4}Osterwalder Business Model Ontology}{6}
-\contentsline {section}{\numberline {4.1}Product}{7}
-\contentsline {subsection}{\numberline {4.1.1}Value Proposition}{7}
-\contentsline {section}{\numberline {4.2}Customer Interface}{8}
-\contentsline {subsection}{\numberline {4.2.1}Customer Segments}{8}
-\contentsline {subsection}{\numberline {4.2.2}Channels}{9}
-\contentsline {subsection}{\numberline {4.2.3}Customer Relationships}{10}
-\contentsline {section}{\numberline {4.3}Infrastructure Management}{10}
-\contentsline {subsection}{\numberline {4.3.1}Key Resources}{11}
-\contentsline {subsection}{\numberline {4.3.2}Key Activities}{11}
-\contentsline {subsection}{\numberline {4.3.3}Key Partnerships}{12}
-\contentsline {section}{\numberline {4.4}Financial Aspects}{13}
-\contentsline {subsection}{\numberline {4.4.1}Revenue Streams}{13}
-\contentsline {subsection}{\numberline {4.4.2}Cost Structure}{14}
-\contentsline {chapter}{Bibliography}{15}
-\contentsline {chapter}{Appendix A}{15}
+\contentsline {subsection}{\numberline {2.2.5}Kinect}{3}
+\contentsline {chapter}{\numberline {3}Case 1: Prevention for Elderly Afraid of Falling}{4}
+\contentsline {chapter}{\numberline {4}Osterwalder Business Model Ontology}{7}
+\contentsline {section}{\numberline {4.1}Product}{8}
+\contentsline {subsection}{\numberline {4.1.1}Value Proposition}{8}
+\contentsline {section}{\numberline {4.2}Customer Interface}{9}
+\contentsline {subsection}{\numberline {4.2.1}Customer Segments}{9}
+\contentsline {subsection}{\numberline {4.2.2}Channels}{10}
+\contentsline {subsection}{\numberline {4.2.3}Customer Relationships}{11}
+\contentsline {section}{\numberline {4.3}Infrastructure Management}{11}
+\contentsline {subsection}{\numberline {4.3.1}Key Resources}{12}
+\contentsline {subsection}{\numberline {4.3.2}Key Activities}{12}
+\contentsline {subsection}{\numberline {4.3.3}Key Partnerships}{13}
+\contentsline {section}{\numberline {4.4}Financial Aspects}{14}
+\contentsline {subsection}{\numberline {4.4.1}Revenue Streams}{14}
+\contentsline {subsection}{\numberline {4.4.2}Cost Structure}{15}
+\contentsline {chapter}{Bibliography}{17}
+\contentsline {chapter}{Appendix A}{17}
