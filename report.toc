@@ -14,19 +14,19 @@
 \contentsline {subsection}{\numberline {2.2.5}Wii Balance Board}{4}
 \contentsline {subsection}{\numberline {2.2.6}Kinect}{4}
 \contentsline {chapter}{\numberline {3}Case 1: Prevention for Elderly Afraid of Falling}{5}
-\contentsline {chapter}{\numberline {4}Osterwalder Business Model Ontology}{8}
-\contentsline {section}{\numberline {4.1}Product}{9}
-\contentsline {subsection}{\numberline {4.1.1}Value Proposition}{9}
-\contentsline {section}{\numberline {4.2}Customer Interface}{10}
-\contentsline {subsection}{\numberline {4.2.1}Customer Segments}{10}
-\contentsline {subsection}{\numberline {4.2.2}Channels}{11}
-\contentsline {subsection}{\numberline {4.2.3}Customer Relationships}{12}
-\contentsline {section}{\numberline {4.3}Infrastructure Management}{12}
-\contentsline {subsection}{\numberline {4.3.1}Key Resources}{13}
-\contentsline {subsection}{\numberline {4.3.2}Key Activities}{13}
-\contentsline {subsection}{\numberline {4.3.3}Key Partnerships}{14}
-\contentsline {section}{\numberline {4.4}Financial Aspects}{15}
-\contentsline {subsection}{\numberline {4.4.1}Revenue Streams}{15}
-\contentsline {subsection}{\numberline {4.4.2}Cost Structure}{16}
-\contentsline {chapter}{Bibliography}{18}
-\contentsline {chapter}{Appendix A}{18}
+\contentsline {chapter}{\numberline {4}Osterwalder Business Model Ontology}{9}
+\contentsline {section}{\numberline {4.1}Product}{10}
+\contentsline {subsection}{\numberline {4.1.1}Value Proposition}{10}
+\contentsline {section}{\numberline {4.2}Customer Interface}{11}
+\contentsline {subsection}{\numberline {4.2.1}Customer Segments}{11}
+\contentsline {subsection}{\numberline {4.2.2}Channels}{12}
+\contentsline {subsection}{\numberline {4.2.3}Customer Relationships}{13}
+\contentsline {section}{\numberline {4.3}Infrastructure Management}{13}
+\contentsline {subsection}{\numberline {4.3.1}Key Resources}{14}
+\contentsline {subsection}{\numberline {4.3.2}Key Activities}{14}
+\contentsline {subsection}{\numberline {4.3.3}Key Partnerships}{15}
+\contentsline {section}{\numberline {4.4}Financial Aspects}{16}
+\contentsline {subsection}{\numberline {4.4.1}Revenue Streams}{16}
+\contentsline {subsection}{\numberline {4.4.2}Cost Structure}{17}
+\contentsline {chapter}{Bibliography}{20}
+\contentsline {chapter}{Appendix A}{20}
