@@ -24,9 +24,9 @@
 \contentsline {section}{\numberline {4.3}Infrastructure Management}{15}
 \contentsline {subsection}{\numberline {4.3.1}Key Resources}{16}
 \contentsline {subsection}{\numberline {4.3.2}Key Activities}{16}
-\contentsline {subsection}{\numberline {4.3.3}Key Partnerships}{19}
+\contentsline {subsection}{\numberline {4.3.3}Key Partnerships}{18}
 \contentsline {section}{\numberline {4.4}Financial Aspects}{19}
 \contentsline {subsection}{\numberline {4.4.1}Revenue Streams}{19}
-\contentsline {subsection}{\numberline {4.4.2}Cost Structure}{20}
+\contentsline {subsection}{\numberline {4.4.2}Cost Structure}{19}
 \contentsline {chapter}{Bibliography}{23}
 \contentsline {chapter}{Appendix A}{23}
