@@ -15,7 +15,7 @@
 \contentsline {subsection}{\numberline {2.2.5}Wii Balance Board}{6}
 \contentsline {subsection}{\numberline {2.2.6}Kinect}{6}
 \contentsline {chapter}{\numberline {3}Case 1: Prevention for Elderly Afraid of Falling}{8}
-\contentsline {chapter}{\numberline {4}Osterwalder Business Model Ontology}{12}
+\contentsline {chapter}{\numberline {4}Osterwalder's Business Model Ontology}{12}
 \contentsline {section}{\numberline {4.1}Product}{13}
 \contentsline {subsection}{\numberline {4.1.1}Value Proposition}{13}
 \contentsline {section}{\numberline {4.2}Customer Interface}{14}
