@@ -22,7 +22,7 @@
 \contentsline {subsection}{\numberline {4.2.1}Customer Segments}{14}
 \contentsline {subsection}{\numberline {4.2.2}Channels}{15}
 \contentsline {subsection}{\numberline {4.2.3}Customer Relationships}{16}
-\contentsline {section}{\numberline {4.3}Infrastructure Management}{16}
+\contentsline {section}{\numberline {4.3}Infrastructure Management}{17}
 \contentsline {subsection}{\numberline {4.3.1}Key Resources}{17}
 \contentsline {subsection}{\numberline {4.3.2}Key Activities}{17}
 \contentsline {subsection}{\numberline {4.3.3}Key Partnerships}{19}
