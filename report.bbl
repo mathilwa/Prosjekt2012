@@ -66,12 +66,6 @@ Play{S}tation {M}ove: {T}he {U}ltimate {FAQ}.
   \url{http://blog.us.playstation.com/2010/09/07/playstation-move-the-ultimate-faq/9/}.
 \newblock visited: 9/24/12.
 
-\bibitem{wii}
-Lee E.~F. Graves, Nicola~D. Ridgers, and Gareth Stratton.
-\newblock The contribution of upper limb and total body movement to
-  adolescents’ energy expenditure whilst playing nintendo wii.
-\newblock {\em European Journal of Applied Physiology}, July 2008.
-
 \bibitem{hackingwii}
 J.C. Lee.
 \newblock Hacking the nintendo wii remote.
@@ -94,7 +88,7 @@ What is {W}ii {F}it {P}lus.
 
 \bibitem{taylor2011activity}
 M.J.D. Taylor, D.~McCormick, R.~Impson, T.~Shawis, and M.~Griffin.
-\newblock Activity promoting gaming systems in exercise and rehabilitation.
+\newblock Activity-promoting gaming systems in exercise and rehabilitation.
 \newblock {\em Journal of Rehabilitation Research and Development},
   48(10):1171--1186, 2011.
 
@@ -115,6 +109,19 @@ Kinect for {W}indows.
 \newblock
   \url{http://www.microsoft.com/en-us/kinectforwindows/develop/new.aspx}.
 \newblock visited: 9/23/12.
+
+\bibitem{staiano2011exergames}
+A.E. Staiano and S.L. Calvert.
+\newblock Exergames for physical education courses: Physical, social, and
+  cognitive benefits.
+\newblock {\em Child development perspectives}, 5(2):93--98, 2011.
+
+\bibitem{excell}
+Marie Williams, Roy Soiza, Alison Jenkinson, and Alison Stewart.
+\newblock Exercising with computers in later life (excell) - pilot and
+  feasibility study of the acceptability of the nintendo(r) wiifit in
+  community-dwelling fallers.
+\newblock {\em BMC Research Notes}, 3(1):238, 2010.
 
 \bibitem{otago}
 A~John Campell and M~Clare Robertson.
@@ -173,12 +180,6 @@ E.~Brox, L.F. Luque, G.J. Evertsen, and J.E.G. Hern{\'a}ndez.
 \newblock In {\em Pervasive Computing Technologies for Healthcare
   (PervasiveHealth), 2011 5th International Conference on}, pages 546--549.
   IEEE, 2011.
-
-\bibitem{staiano2011exergames}
-A.E. Staiano and S.L. Calvert.
-\newblock Exergames for physical education courses: Physical, social, and
-  cognitive benefits.
-\newblock {\em Child development perspectives}, 5(2):93--98, 2011.
 
 \bibitem{lange2011development}
 B.~Lange, C.Y. Chang, E.~Suma, B.~Newman, A.S. Rizzo, and M.~Bolas.

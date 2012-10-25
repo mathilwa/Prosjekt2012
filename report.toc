@@ -6,28 +6,29 @@
 \contentsline {section}{\numberline {1.5}Related Work}{2}
 \contentsline {section}{\numberline {1.6}Outline}{2}
 \contentsline {chapter}{\numberline {2}A Background Study}{3}
-\contentsline {section}{\numberline {2.1}Rehabilitation}{3}
+\contentsline {section}{\numberline {2.1}Fall Prevention and Rehabilitation Today}{3}
 \contentsline {section}{\numberline {2.2}Exercise Games}{3}
 \contentsline {subsection}{\numberline {2.2.1}Dance Dance Revolution}{4}
 \contentsline {subsection}{\numberline {2.2.2}PlayStation EyeToy}{4}
 \contentsline {subsection}{\numberline {2.2.3}PlayStation Move}{5}
 \contentsline {subsection}{\numberline {2.2.4}Nintendo Wii}{5}
 \contentsline {subsection}{\numberline {2.2.5}Wii Balance Board}{6}
-\contentsline {subsection}{\numberline {2.2.6}Kinect}{6}
-\contentsline {chapter}{\numberline {3}Case 1: Prevention for Elderly Afraid of Falling}{8}
-\contentsline {chapter}{\numberline {4}Osterwalder's Business Model Ontology}{12}
-\contentsline {section}{\numberline {4.1}Product}{13}
-\contentsline {subsection}{\numberline {4.1.1}Value Proposition}{13}
-\contentsline {section}{\numberline {4.2}Customer Interface}{14}
-\contentsline {subsection}{\numberline {4.2.1}Customer Segments}{14}
-\contentsline {subsection}{\numberline {4.2.2}Channels}{15}
-\contentsline {subsection}{\numberline {4.2.3}Customer Relationships}{16}
-\contentsline {section}{\numberline {4.3}Infrastructure Management}{17}
-\contentsline {subsection}{\numberline {4.3.1}Key Resources}{17}
-\contentsline {subsection}{\numberline {4.3.2}Key Activities}{17}
-\contentsline {subsection}{\numberline {4.3.3}Key Partnerships}{19}
-\contentsline {section}{\numberline {4.4}Financial Aspects}{20}
-\contentsline {subsection}{\numberline {4.4.1}Revenue Streams}{20}
-\contentsline {subsection}{\numberline {4.4.2}Cost Structure}{20}
-\contentsline {chapter}{Bibliography}{25}
-\contentsline {chapter}{Appendix A}{25}
+\contentsline {subsection}{\numberline {2.2.6}Xbox 360 Kinect}{6}
+\contentsline {section}{\numberline {2.3}Using Exergames for Fall Prevention and Rehabilitation: A background Study}{7}
+\contentsline {chapter}{\numberline {3}Case 1: Prevention for Elderly Afraid of Falling}{10}
+\contentsline {chapter}{\numberline {4}Osterwalder's Business Model Ontology}{14}
+\contentsline {section}{\numberline {4.1}Product}{15}
+\contentsline {subsection}{\numberline {4.1.1}Value Proposition}{15}
+\contentsline {section}{\numberline {4.2}Customer Interface}{16}
+\contentsline {subsection}{\numberline {4.2.1}Customer Segments}{16}
+\contentsline {subsection}{\numberline {4.2.2}Channels}{17}
+\contentsline {subsection}{\numberline {4.2.3}Customer Relationships}{18}
+\contentsline {section}{\numberline {4.3}Infrastructure Management}{19}
+\contentsline {subsection}{\numberline {4.3.1}Key Resources}{19}
+\contentsline {subsection}{\numberline {4.3.2}Key Activities}{19}
+\contentsline {subsection}{\numberline {4.3.3}Key Partnerships}{21}
+\contentsline {section}{\numberline {4.4}Financial Aspects}{22}
+\contentsline {subsection}{\numberline {4.4.1}Revenue Streams}{22}
+\contentsline {subsection}{\numberline {4.4.2}Cost Structure}{22}
+\contentsline {chapter}{Bibliography}{27}
+\contentsline {chapter}{Appendix A}{27}
