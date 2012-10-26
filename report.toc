@@ -9,7 +9,7 @@
 \contentsline {section}{\numberline {2.1}Fall Prevention and Rehabilitation Today}{3}
 \contentsline {section}{\numberline {2.2}Exercise Games}{3}
 \contentsline {subsection}{\numberline {2.2.1}Dance Dance Revolution}{4}
-\contentsline {subsection}{\numberline {2.2.2}PlayStation EyeToy}{4}
+\contentsline {subsection}{\numberline {2.2.2}PlayStation EyeToy}{5}
 \contentsline {subsection}{\numberline {2.2.3}PlayStation Move}{5}
 \contentsline {subsection}{\numberline {2.2.4}Nintendo Wii}{5}
 \contentsline {subsection}{\numberline {2.2.5}Wii Balance Board}{6}
