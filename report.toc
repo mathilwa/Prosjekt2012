@@ -15,20 +15,24 @@
 \contentsline {subsection}{\numberline {2.2.5}Wii Balance Board}{6}
 \contentsline {subsection}{\numberline {2.2.6}Xbox 360 Kinect}{6}
 \contentsline {section}{\numberline {2.3}Using Exergames for Fall Prevention and Rehabilitation: A background Study}{7}
-\contentsline {chapter}{\numberline {3}Case 1: Prevention for Elderly Afraid of Falling}{10}
-\contentsline {chapter}{\numberline {4}Osterwalder's Business Model Ontology}{14}
-\contentsline {section}{\numberline {4.1}Product}{15}
-\contentsline {subsection}{\numberline {4.1.1}Value Proposition}{15}
-\contentsline {section}{\numberline {4.2}Customer Interface}{16}
-\contentsline {subsection}{\numberline {4.2.1}Customer Segments}{16}
-\contentsline {subsection}{\numberline {4.2.2}Channels}{17}
-\contentsline {subsection}{\numberline {4.2.3}Customer Relationships}{18}
-\contentsline {section}{\numberline {4.3}Infrastructure Management}{19}
-\contentsline {subsection}{\numberline {4.3.1}Key Resources}{19}
-\contentsline {subsection}{\numberline {4.3.2}Key Activities}{19}
-\contentsline {subsection}{\numberline {4.3.3}Key Partnerships}{21}
-\contentsline {section}{\numberline {4.4}Financial Aspects}{22}
-\contentsline {subsection}{\numberline {4.4.1}Revenue Streams}{22}
-\contentsline {subsection}{\numberline {4.4.2}Cost Structure}{22}
-\contentsline {chapter}{Bibliography}{27}
-\contentsline {chapter}{Appendix A}{27}
+\contentsline {chapter}{\numberline {3}Motivation}{10}
+\contentsline {section}{\numberline {3.1}The Problem of Falls}{10}
+\contentsline {section}{\numberline {3.2}Excisting Prevention Programs}{11}
+\contentsline {section}{\numberline {3.3}Exergames used as a Exercise tool}{12}
+\contentsline {section}{\numberline {3.4}Example Case}{13}
+\contentsline {chapter}{\numberline {4}Osterwalder's Business Model Ontology}{15}
+\contentsline {section}{\numberline {4.1}Product}{16}
+\contentsline {subsection}{\numberline {4.1.1}Value Proposition}{16}
+\contentsline {section}{\numberline {4.2}Customer Interface}{17}
+\contentsline {subsection}{\numberline {4.2.1}Customer Segments}{17}
+\contentsline {subsection}{\numberline {4.2.2}Channels}{18}
+\contentsline {subsection}{\numberline {4.2.3}Customer Relationships}{19}
+\contentsline {section}{\numberline {4.3}Infrastructure Management}{20}
+\contentsline {subsection}{\numberline {4.3.1}Key Resources}{20}
+\contentsline {subsection}{\numberline {4.3.2}Key Activities}{20}
+\contentsline {subsection}{\numberline {4.3.3}Key Partnerships}{22}
+\contentsline {section}{\numberline {4.4}Financial Aspects}{23}
+\contentsline {subsection}{\numberline {4.4.1}Revenue Streams}{23}
+\contentsline {subsection}{\numberline {4.4.2}Cost Structure}{23}
+\contentsline {chapter}{Bibliography}{28}
+\contentsline {chapter}{Appendix A}{28}
