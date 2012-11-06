@@ -7,46 +7,47 @@
 \contentsline {section}{\numberline {1.6}Outline}{2}
 \contentsline {chapter}{\numberline {2}A Background Study}{3}
 \contentsline {section}{\numberline {2.1}Fall Prevention and Rehabilitation Today}{3}
-\contentsline {section}{\numberline {2.2}Exercise Games}{3}
-\contentsline {subsection}{\numberline {2.2.1}Dance Dance Revolution}{4}
-\contentsline {subsection}{\numberline {2.2.2}PlayStation EyeToy}{5}
-\contentsline {subsection}{\numberline {2.2.3}PlayStation Move}{5}
-\contentsline {subsection}{\numberline {2.2.4}Nintendo Wii}{5}
-\contentsline {subsection}{\numberline {2.2.5}Wii Balance Board}{6}
-\contentsline {subsection}{\numberline {2.2.6}Xbox 360 Kinect}{6}
-\contentsline {section}{\numberline {2.3}Using Exergames for Fall Prevention and Rehabilitation: A background Study}{7}
-\contentsline {chapter}{\numberline {3}Motivation}{10}
-\contentsline {section}{\numberline {3.1}The Problem of Falls}{10}
-\contentsline {section}{\numberline {3.2}Excisting Prevention Programs}{11}
-\contentsline {section}{\numberline {3.3}Exergames used as a Exercise tool}{12}
-\contentsline {section}{\numberline {3.4}Example Case}{13}
-\contentsline {chapter}{\numberline {4}Osterwalder's Business Model Ontology}{15}
-\contentsline {section}{\numberline {4.1}Product}{16}
-\contentsline {subsection}{\numberline {4.1.1}Value Proposition}{16}
-\contentsline {section}{\numberline {4.2}Customer Interface}{17}
-\contentsline {subsection}{\numberline {4.2.1}Customer Segments}{17}
-\contentsline {subsection}{\numberline {4.2.2}Channels}{18}
-\contentsline {subsection}{\numberline {4.2.3}Customer Relationships}{19}
-\contentsline {section}{\numberline {4.3}Infrastructure Management}{20}
-\contentsline {subsection}{\numberline {4.3.1}Key Resources}{20}
-\contentsline {subsection}{\numberline {4.3.2}Key Activities}{20}
-\contentsline {subsection}{\numberline {4.3.3}Key Partnerships}{22}
-\contentsline {section}{\numberline {4.4}Financial Aspects}{23}
-\contentsline {subsection}{\numberline {4.4.1}Revenue Streams}{23}
-\contentsline {subsection}{\numberline {4.4.2}Cost Structure}{23}
-\contentsline {chapter}{\numberline {5}Business Model for the Kinect Based Exercise Game}{25}
-\contentsline {section}{\numberline {5.1}Product}{25}
-\contentsline {subsection}{\numberline {5.1.1}Value Proposition}{25}
-\contentsline {section}{\numberline {5.2}Customer Interface}{25}
-\contentsline {subsection}{\numberline {5.2.1}Customer Segments}{25}
-\contentsline {subsection}{\numberline {5.2.2}Channels}{25}
-\contentsline {subsection}{\numberline {5.2.3}Customer Relationships}{25}
-\contentsline {section}{\numberline {5.3}Infrastructure Management}{25}
-\contentsline {subsection}{\numberline {5.3.1}Key Resources}{25}
-\contentsline {subsection}{\numberline {5.3.2}Key Activities}{27}
-\contentsline {subsection}{\numberline {5.3.3}Key Partnerships}{27}
-\contentsline {section}{\numberline {5.4}Financial Aspects}{28}
-\contentsline {subsection}{\numberline {5.4.1}Revenue Streams}{28}
-\contentsline {subsection}{\numberline {5.4.2}Cost Structure}{28}
-\contentsline {chapter}{Bibliography}{32}
-\contentsline {chapter}{Appendix A}{32}
+\contentsline {section}{\numberline {2.2}Video games in general}{4}
+\contentsline {section}{\numberline {2.3}Exercise Games}{5}
+\contentsline {subsection}{\numberline {2.3.1}Dance Dance Revolution}{6}
+\contentsline {subsection}{\numberline {2.3.2}PlayStation EyeToy}{6}
+\contentsline {subsection}{\numberline {2.3.3}PlayStation Move}{6}
+\contentsline {subsection}{\numberline {2.3.4}Nintendo Wii}{7}
+\contentsline {subsection}{\numberline {2.3.5}Wii Balance Board}{8}
+\contentsline {subsection}{\numberline {2.3.6}Xbox 360 Kinect}{8}
+\contentsline {section}{\numberline {2.4}Using Exergames for Fall Prevention and Rehabilitation: A background Study}{9}
+\contentsline {chapter}{\numberline {3}Motivation}{12}
+\contentsline {section}{\numberline {3.1}The Problem of Falls}{12}
+\contentsline {section}{\numberline {3.2}Excisting Prevention Programs}{13}
+\contentsline {section}{\numberline {3.3}Exergames used as a Exercise tool}{14}
+\contentsline {section}{\numberline {3.4}Example Case}{15}
+\contentsline {chapter}{\numberline {4}Osterwalder's Business Model Ontology}{17}
+\contentsline {section}{\numberline {4.1}Product}{18}
+\contentsline {subsection}{\numberline {4.1.1}Value Proposition}{18}
+\contentsline {section}{\numberline {4.2}Customer Interface}{19}
+\contentsline {subsection}{\numberline {4.2.1}Customer Segments}{19}
+\contentsline {subsection}{\numberline {4.2.2}Channels}{20}
+\contentsline {subsection}{\numberline {4.2.3}Customer Relationships}{21}
+\contentsline {section}{\numberline {4.3}Infrastructure Management}{22}
+\contentsline {subsection}{\numberline {4.3.1}Key Resources}{22}
+\contentsline {subsection}{\numberline {4.3.2}Key Activities}{22}
+\contentsline {subsection}{\numberline {4.3.3}Key Partnerships}{24}
+\contentsline {section}{\numberline {4.4}Financial Aspects}{25}
+\contentsline {subsection}{\numberline {4.4.1}Revenue Streams}{25}
+\contentsline {subsection}{\numberline {4.4.2}Cost Structure}{25}
+\contentsline {chapter}{\numberline {5}Business Model for the Kinect Based Exercise Game}{27}
+\contentsline {section}{\numberline {5.1}Product}{27}
+\contentsline {subsection}{\numberline {5.1.1}Value Proposition}{27}
+\contentsline {section}{\numberline {5.2}Customer Interface}{27}
+\contentsline {subsection}{\numberline {5.2.1}Customer Segments}{27}
+\contentsline {subsection}{\numberline {5.2.2}Channels}{27}
+\contentsline {subsection}{\numberline {5.2.3}Customer Relationships}{27}
+\contentsline {section}{\numberline {5.3}Infrastructure Management}{27}
+\contentsline {subsection}{\numberline {5.3.1}Key Resources}{27}
+\contentsline {subsection}{\numberline {5.3.2}Key Activities}{29}
+\contentsline {subsection}{\numberline {5.3.3}Key Partnerships}{29}
+\contentsline {section}{\numberline {5.4}Financial Aspects}{30}
+\contentsline {subsection}{\numberline {5.4.1}Revenue Streams}{30}
+\contentsline {subsection}{\numberline {5.4.2}Cost Structure}{30}
+\contentsline {chapter}{Bibliography}{34}
+\contentsline {chapter}{Appendix A}{34}
