@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.3)  2 NOV 2012 14:08
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.3)  6 NOV 2012 15:17
 entering extended mode
 **report.tex
 (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.tex
@@ -577,8 +577,57 @@ File: coststructure.png Graphic file (type png)
 Package pdftex.def Info: coststructure.png used on input line 131.
 (pdftex.def)             Requested size: 340.87395pt x 150.56268pt.
 
-[23]) (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.bbl [24 <C:/Users
-/kineaasj/Documents/GitHub/Prosjekt2012/coststructure.png>]
+[23]) [24 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/coststructure.png>]
+(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\business-model-of-case.tex
+Chapter 5.
+[25
+
+]
+Overfull \hbox (61.13556pt too wide) in paragraph at lines 18--35
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
+
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+[27]) (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.bbl [28]
 Underfull \hbox (badness 7832) in paragraph at lines 33--37
 []\OT1/cmr/m/n/12 Dance dance rev-o-lu-tion hits 6.5 mil-lion in sales.  $\OT1/
 cmtt/m/n/12 http :$
@@ -608,7 +657,7 @@ $\OT1/cmtt/m/n/12 playstation . com / 2010 / 09 / 07 / playstation -[] move -[]
  the -[] ultimate -[]$
  []
 
-[25
+[29
 
 ]
 Underfull \hbox (badness 4927) in paragraph at lines 96--100
@@ -627,7 +676,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 108--112
 osoft . com / en -[] us /$
  []
 
-[26]
+[30]
 Underfull \hbox (badness 10000) in paragraph at lines 145--148
 []\OT1/cmr/m/n/12 Trimtilbud.  $\OT1/cmtt/m/n/12 http : / / www . trondheim . k
 ommune . no / content /$
@@ -651,7 +700,7 @@ $\OT1/cmtt/m/n/12 HomeandRecreationalSafety / Falls / compendium / 1 . 8 _ FaME
  . html$\OT1/cmr/m/n/12 .
  []
 
-[27]) [28] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\appendix.tex
+[31]) [32] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\appendix.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--41
 
  []
@@ -752,15 +801,15 @@ Overfull \hbox (26.45078pt too wide) in paragraph at lines 6--41
 rre sprsmal angaende
  []
 
-[29
+[33
 
-] [30] [31]) [32]
+] [34] [35]) [36]
 (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.aux) ) 
 Here is how much of TeX's memory you used:
- 1851 strings out of 494045
- 24416 string characters out of 3148379
- 88025 words of memory out of 3000000
- 5125 multiletter control sequences out of 15000+200000
+ 1857 strings out of 494045
+ 24632 string characters out of 3148379
+ 88036 words of memory out of 3000000
+ 5128 multiletter control sequences out of 15000+200000
  9016 words of font info for 32 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  27i,8n,20p,2163b,262s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -772,9 +821,9 @@ blic/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
 y10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on report.pdf (35 pages, 242659 bytes).
+Output written on report.pdf (39 pages, 250807 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
+ 170 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
