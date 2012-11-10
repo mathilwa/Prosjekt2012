@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  10 NOV 2012 19:31
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  10 NOV 2012 19:35
 entering extended mode
 **report.tex
 (C:\Users\Line\Documents\GitHub\Prosjekt2012\report.tex
@@ -607,84 +607,95 @@ Package pdftex.def Info: coststructure.png used on input line 131.
 Chapter 5.
 [27
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 11--23
+] <channels.png, id=112, 703.12688pt x 219.06844pt>
+File: channels.png Graphic file (type png)
+ <use channels.png>
+Package pdftex.def Info: channels.png used on input line 16.
+(pdftex.def)             Requested size: 492.18546pt x 153.34685pt.
+
+Overfull \hbox (102.18546pt too wide) in paragraph at lines 16--17
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--30
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--23
+Underfull \hbox (badness 10000) in paragraph at lines 11--30
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--23
+Underfull \hbox (badness 10000) in paragraph at lines 11--30
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--23
+Underfull \hbox (badness 10000) in paragraph at lines 11--30
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--23
+Underfull \hbox (badness 10000) in paragraph at lines 11--30
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--23
+Underfull \hbox (badness 10000) in paragraph at lines 11--30
 
  []
 
-[28] [29] [30] [31]
-Overfull \hbox (61.13556pt too wide) in paragraph at lines 35--52
+[28] [29 <C:/Users/Line/Documents/GitHub/Prosjekt2012/channels.png>] [30]
+[31]
+Overfull \hbox (61.13556pt too wide) in paragraph at lines 42--59
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--59
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--59
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--59
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
 
  []
 
-[32] <valuechaincase.png, id=128, 551.81157pt x 91.84312pt>
+[32] <valuechaincase.png, id=130, 551.81157pt x 91.84312pt>
 File: valuechaincase.png Graphic file (type png)
 
 <use valuechaincase.png>
-Package pdftex.def Info: valuechaincase.png used on input line 66.
+Package pdftex.def Info: valuechaincase.png used on input line 73.
 (pdftex.def)             Requested size: 386.26547pt x 64.28973pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
@@ -876,27 +887,30 @@ Overfull \hbox (26.45078pt too wide) in paragraph at lines 8--43
 
 [40
 
-] [41] [42]) [43] (C:\Users\Line\Documents\GitHub\Prosjekt2012\report.aux) ) 
+] [41] [42]) [43] (C:\Users\Line\Documents\GitHub\Prosjekt2012\report.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 1879 strings out of 494045
- 25023 string characters out of 3147584
+ 1886 strings out of 494045
+ 25130 string characters out of 3147584
  87958 words of memory out of 3000000
- 5149 multiletter control sequences out of 15000+200000
+ 5155 multiletter control sequences out of 15000+200000
  9016 words of font info for 32 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  27i,8n,20p,2163b,266s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:
-/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progr
-am Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program File
-s (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)
-/Miktex/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/Miktex/
-fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/Miktex/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/pu
-blic/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/a
-msfonts/cm/cmtt12.pfb>
-Output written on report.pdf (46 pages, 275017 bytes).
+<C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/
+Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program
+ Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files 
+(x86)/Miktex/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/Mi
+ktex/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/Miktex/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Miktex/fonts/typ
+e1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/Miktex/fonts/type1/pub
+lic/amsfonts/cm/cmtt12.pfb>
+Output written on report.pdf (46 pages, 288410 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
+ 195 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
