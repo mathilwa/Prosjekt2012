@@ -56,8 +56,8 @@ Education~Database Online.
 
 \bibitem{videogameforcast}
 Forbes.
-\newblock New reports forecast global video game industry will reach 82 billion
-  by 2017.
+\newblock New reports forecast global video game industry will reach \$82
+  billion by 2017.
 \newblock \url{http://www.vg.no}.
 \newblock visited: 02/11/12.
 
@@ -256,5 +256,16 @@ Alexander Osterwalder.
 \newblock {\em The Business Model Ontology: A Proposition in a Design Science
   Approach}.
 \newblock PhD thesis, Universite de Lausanne, 2004.
+
+\bibitem{interview}
+Michael~D. Myers and Michael Newman.
+\newblock The qualitative interview in is research: Examining the craft.
+\newblock {\em Information and Organization}, 17(1):2 -- 26, 2007.
+
+\bibitem{interview2}
+Gerd Lilledahl, Atle Wehn~Hegnes, Tone Opdahl, Henrik Gi{æ}ver, Finn Johansen,
+  Hilde R{ø}d-Larsen, and Tove Thag{å}rd.
+\newblock Kvalitativ metode.
+\newblock Forelesningsnotat, Sosiologi hovedfag UiO.
 
 \end{thebibliography}

@@ -5,4 +5,9 @@ I was expecting a `,' or a `}'---line 89 of file bib.bib
  : year={2012}
  :            ",
 I'm skipping whatever remains of this entry
-(There was 1 error message)
+I was expecting a `,' or a `}'---line 309 of file bib.bib
+ : 
+ : year="2000",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+(There were 2 error messages)
