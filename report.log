@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.3)  12 NOV 2012 17:26
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.3)  13 NOV 2012 15:03
 entering extended mode
 **report.tex
 (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.tex
@@ -563,45 +563,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
-<valuechain.png, id=109, 516.42938pt x 82.05656pt>
-File: valuechain.png Graphic file (type png)
- <use valuechain.png>
-Package pdftex.def Info: valuechain.png used on input line 74.
-(pdftex.def)             Requested size: 413.14406pt x 65.64532pt.
+<valuechainnew.png, id=109, 609.77812pt x 51.94406pt>
+File: valuechainnew.png Graphic file (type png)
+ <use valuechainnew.png>
+Package pdftex.def Info: valuechainnew.png used on input line 75.
+(pdftex.def)             Requested size: 426.84177pt x 36.36058pt.
 
-Overfull \hbox (57.14406pt too wide) in paragraph at lines 74--75
+Overfull \hbox (70.84177pt too wide) in paragraph at lines 75--76
  [] 
  []
 
-[27 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/valuechain.png>]
-<valueshop.png, id=114, 374.14781pt x 199.49532pt>
-File: valueshop.png Graphic file (type png)
- <use valueshop.png>
-Package pdftex.def Info: valueshop.png used on input line 90.
-(pdftex.def)             Requested size: 299.31863pt x 159.59645pt.
+[27 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/valuechainnew.png>]
+<valueshopnew.png, id=115, 366.61969pt x 181.42781pt>
+File: valueshopnew.png Graphic file (type png)
+ <use valueshopnew.png>
+Package pdftex.def Info: valueshopnew.png used on input line 91.
+(pdftex.def)             Requested size: 293.29614pt x 145.14244pt.
 
-<valuenetwork.png, id=115, 566.115pt x 256.70906pt>
-File: valuenetwork.png Graphic file (type png)
- <use valuenetwork.png>
-Package pdftex.def Info: valuenetwork.png used on input line 103.
-(pdftex.def)             Requested size: 283.05681pt x 128.3542pt.
+<valuenetworknew.png, id=116, 376.40625pt x 166.37157pt>
+File: valuenetworknew.png Graphic file (type png)
+
+<use valuenetworknew.png>
+Package pdftex.def Info: valuenetworknew.png used on input line 104.
+(pdftex.def)             Requested size: 263.48257pt x 116.45929pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[28 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/valueshop.png>] [29 <C:/Us
-ers/kineaasj/Documents/GitHub/Prosjekt2012/valuenetwork.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 120--123
+[28 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/valueshopnew.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 121--124
 
  []
 
-[30] <coststructure.png, id=125, 426.09187pt x 188.20313pt>
+[29 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/valuenetworknew.png>]
+<coststructure.png, id=124, 426.09187pt x 188.20313pt>
 File: coststructure.png Graphic file (type png)
-
-<use coststructure.png>
-Package pdftex.def Info: coststructure.png used on input line 131.
+ <use coststructure.png>
+Package pdftex.def Info: coststructure.png used on input line 132.
 (pdftex.def)             Requested size: 340.87395pt x 150.56268pt.
-) [31 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/coststructure.png>]
+
+[30]) [31 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/coststructure.png>]
 (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\discussionInterview.tex
 Chapter 5.
 
@@ -676,7 +677,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--40
 Chapter 6.
 [40
 
-] [41] <channels.png, id=161, 703.12688pt x 219.06844pt>
+] [41] <channels.png, id=163, 703.12688pt x 219.06844pt>
 File: channels.png Graphic file (type png)
  <use channels.png>
 Package pdftex.def Info: channels.png used on input line 16.
@@ -737,7 +738,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--66
 
  []
 
-[47] <valuechaincase.png, id=182, 551.81157pt x 91.84312pt>
+[47] <valuechaincase.png, id=184, 551.81157pt x 91.84312pt>
 File: valuechaincase.png Graphic file (type png)
 
 <use valuechaincase.png>
@@ -975,7 +976,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--43
 (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.aux) ) 
 Here is how much of TeX's memory you used:
  1908 strings out of 494045
- 25536 string characters out of 3148379
+ 25581 string characters out of 3148379
  88122 words of memory out of 3000000
  5171 multiletter control sequences out of 15000+200000
  10535 words of font info for 37 fonts, out of 3000000 for 9000
@@ -990,9 +991,9 @@ onts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 r9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
 C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on report.pdf (65 pages, 341670 bytes).
+Output written on report.pdf (65 pages, 350478 bytes).
 PDF statistics:
- 259 PDF objects out of 1000 (max. 8388607)
+ 261 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
