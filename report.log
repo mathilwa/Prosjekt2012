@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.3)  13 NOV 2012 15:03
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.3)  14 NOV 2012 11:52
 entering extended mode
 **report.tex
 (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.tex
@@ -340,6 +340,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ] [3])
 \tf@toc=\write3
  [4]
+(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.lof)
+\tf@lof=\write4
+ [5
+
+]
+(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.lot)
+\tf@lot=\write5
+ [6
+
+]
 (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\introduction.tex
 Chapter 1.
 [1
@@ -492,125 +502,145 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--24
 [18]) [19]
 (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\osterwalderbusinessmodel.tex
 Chapter 4.
-<osterwaldersbmmodified.png, id=82, 716.6775pt x 384.6872pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+
+ []
+
+[20
+
+] [21] <osterwaldersbmmodified.png, id=95, 716.6775pt x 384.6872pt>
 File: osterwaldersbmmodified.png Graphic file (type png)
 
 <use osterwaldersbmmodified.png>
-Package pdftex.def Info: osterwaldersbmmodified.png used on input line 9.
-(pdftex.def)             Requested size: 430.00983pt x 230.81409pt.
+Package pdftex.def Info: osterwaldersbmmodified.png used on input line 10.
+(pdftex.def)             Requested size: 716.67577pt x 384.68625pt.
 
-Overfull \hbox (74.00983pt too wide) in paragraph at lines 9--10
- [] 
- []
+
+LaTeX Warning: Float too large for page by 87.82062pt on input line 12.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 17--19
-
- []
-
-[21 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/osterwaldersbmmodified.png
->]
-Underfull \hbox (badness 10000) in paragraph at lines 25--27
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
 
  []
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 29--31
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--31
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
 
  []
 
-[23] <kjopskjede.png, id=98, 703.12688pt x 219.06844pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+[23] <kjopskjede.png, id=103, 703.12688pt x 219.06844pt>
 File: kjopskjede.png Graphic file (type png)
  <use kjopskjede.png>
-Package pdftex.def Info: kjopskjede.png used on input line 36.
+Package pdftex.def Info: kjopskjede.png used on input line 38.
 (pdftex.def)             Requested size: 421.87938pt x 131.44206pt.
 
-Overfull \hbox (65.87938pt too wide) in paragraph at lines 36--37
- [] 
- []
-
-<channeltypes.png, id=99, 502.87875pt x 204.765pt>
-File: channeltypes.png Graphic file (type png)
- <use channeltypes.png>
-Package pdftex.def Info: channeltypes.png used on input line 44.
-(pdftex.def)             Requested size: 402.30354pt x 163.8122pt.
-
-Overfull \hbox (46.30354pt too wide) in paragraph at lines 44--45
+Overfull \hbox (65.87938pt too wide) in paragraph at lines 38--39
  [] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[24 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/kjopskjede.png>] [25 <C:/U
-sers/kineaasj/Documents/GitHub/Prosjekt2012/channeltypes.png>] [26]
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
+<channeltypes.png, id=104, 502.87875pt x 204.765pt>
+File: channeltypes.png Graphic file (type png)
+ <use channeltypes.png>
+Package pdftex.def Info: channeltypes.png used on input line 46.
+(pdftex.def)             Requested size: 402.30354pt x 163.8122pt.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
-
- []
-
-<valuechainnew.png, id=109, 609.77812pt x 51.94406pt>
-File: valuechainnew.png Graphic file (type png)
- <use valuechainnew.png>
-Package pdftex.def Info: valuechainnew.png used on input line 75.
-(pdftex.def)             Requested size: 426.84177pt x 36.36058pt.
-
-Overfull \hbox (70.84177pt too wide) in paragraph at lines 75--76
+Overfull \hbox (46.30354pt too wide) in paragraph at lines 46--47
  [] 
  []
 
-[27 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/valuechainnew.png>]
-<valueshopnew.png, id=115, 366.61969pt x 181.42781pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[24] [25]
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+[26] <valuechainnew.png, id=115, 609.77812pt x 51.94406pt>
+File: valuechainnew.png Graphic file (type png)
+
+<use valuechainnew.png>
+Package pdftex.def Info: valuechainnew.png used on input line 77.
+(pdftex.def)             Requested size: 426.84177pt x 36.36058pt.
+
+Overfull \hbox (70.84177pt too wide) in paragraph at lines 77--78
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<valueshopnew.png, id=116, 366.61969pt x 181.42781pt>
 File: valueshopnew.png Graphic file (type png)
  <use valueshopnew.png>
-Package pdftex.def Info: valueshopnew.png used on input line 91.
+Package pdftex.def Info: valueshopnew.png used on input line 93.
 (pdftex.def)             Requested size: 293.29614pt x 145.14244pt.
 
-<valuenetworknew.png, id=116, 376.40625pt x 166.37157pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<valuenetworknew.png, id=117, 376.40625pt x 166.37157pt>
 File: valuenetworknew.png Graphic file (type png)
 
 <use valuenetworknew.png>
-Package pdftex.def Info: valuenetworknew.png used on input line 104.
+Package pdftex.def Info: valuenetworknew.png used on input line 106.
 (pdftex.def)             Requested size: 263.48257pt x 116.45929pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[28 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/valueshopnew.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 121--124
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 123--126
 
  []
 
-[29 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/valuenetworknew.png>]
-<coststructure.png, id=124, 426.09187pt x 188.20313pt>
+[28] <coststructure.png, id=124, 426.09187pt x 188.20313pt>
 File: coststructure.png Graphic file (type png)
- <use coststructure.png>
-Package pdftex.def Info: coststructure.png used on input line 132.
+
+<use coststructure.png>
+Package pdftex.def Info: coststructure.png used on input line 134.
 (pdftex.def)             Requested size: 340.87395pt x 150.56268pt.
 
-[30]) [31 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/coststructure.png>]
-(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\discussionInterview.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [29] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\discussionInterview.tex
+[30 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/osterwaldersbmmodified.png
+>] [31 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/kjopskjede.png> <C:/Use
+rs/kineaasj/Documents/GitHub/Prosjekt2012/channeltypes.png>] [32 <C:/Users/kine
+aasj/Documents/GitHub/Prosjekt2012/valuechainnew.png> <C:/Users/kineaasj/Docume
+nts/GitHub/Prosjekt2012/valueshopnew.png>] [33 <C:/Users/kineaasj/Documents/Git
+Hub/Prosjekt2012/valuenetworknew.png> <C:/Users/kineaasj/Documents/GitHub/Prosj
+ekt2012/coststructure.png>]
 Chapter 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 9--11
 
  []
 
-[32
+[34
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 13--19
@@ -622,62 +652,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--19
 
  []
 
-[33] [34]
-Underfull \hbox (badness 10000) in paragraph at lines 28--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--34
-
- []
-
 [35] [36]
-Underfull \hbox (badness 10000) in paragraph at lines 35--40
+Underfull \hbox (badness 10000) in paragraph at lines 28--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--40
+Underfull \hbox (badness 10000) in paragraph at lines 28--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--40
+Underfull \hbox (badness 10000) in paragraph at lines 28--40
 
  []
 
-[37] [38]) [39]
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--40
+
+ []
+
+[37] [38] [39] [40] [41]) [42]
 (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\business-model-of-case.tex
 Chapter 6.
-[40
+[43
 
-] [41] <channels.png, id=163, 703.12688pt x 219.06844pt>
+] [44] <channels.png, id=179, 703.12688pt x 219.06844pt>
 File: channels.png Graphic file (type png)
  <use channels.png>
 Package pdftex.def Info: channels.png used on input line 16.
@@ -717,8 +747,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--30
 
  []
 
-[42 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/channels.png>] [43]
-[44] [45] [46]
+[45 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/channels.png>] [46]
+[47] [48] [49]
 Overfull \hbox (66.50519pt too wide) in paragraph at lines 42--59
  [][] 
  []
@@ -738,7 +768,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--66
 
  []
 
-[47] <valuechaincase.png, id=184, 551.81157pt x 91.84312pt>
+[50] <valuechaincase.png, id=200, 551.81157pt x 91.84312pt>
 File: valuechaincase.png Graphic file (type png)
 
 <use valuechaincase.png>
@@ -783,8 +813,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
-[48] [49 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/valuechaincase.png>]
-[50]) (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.bbl [51]
+[51] [52 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/valuechaincase.png>]
+[53]) (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.bbl [54]
 Underfull \hbox (badness 6608) in paragraph at lines 33--38
 []\OT1/cmr/m/n/10.95 About.com In-ven-tors.  Com-puter and video game his-tory.
 
@@ -796,7 +826,7 @@ $\OT1/cmtt/m/n/10.95 http : / / inventors . about . com / library / inventors /
  blcomputer _$
  []
 
-[52
+[55
 
 ]
 Underfull \hbox (badness 5787) in paragraph at lines 90--94
@@ -816,7 +846,7 @@ $\OT1/cmtt/m/n/10.95 com / 2010 / 11 / 03 / eyetoy -[] innovation -[] and -[] b
 eyond / comment -[] page -[]$
  []
 
-[53]
+[56]
 Underfull \hbox (badness 5475) in paragraph at lines 121--125
 []\OT1/cmr/m/n/10.95 PlayStation Move: The Ul-ti-mate FAQ.  $\OT1/cmtt/m/n/10.9
 5 http : / / blog . us .$
@@ -845,7 +875,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 165--169
 . microsoft . com / en -[]$
  []
 
-[54]
+[57]
 Underfull \hbox (badness 10000) in paragraph at lines 202--205
 []\OT1/cmr/m/n/10.95 Trimtilbud.  $\OT1/cmtt/m/n/10.95 http : / / www . trondhe
 im . kommune . no / content /$
@@ -869,7 +899,19 @@ $\OT1/cmtt/m/n/10.95 HomeandRecreationalSafety / Falls / compendium / 1 . 8 _ F
 aME . html$\OT1/cmr/m/n/10.95 .
  []
 
-[55]) [56] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\appendix.tex
+[58]
+Underfull \hbox (badness 4726) in paragraph at lines 272--276
+[]\OT1/cmr/m/n/10.95 Radmannens forslag til handlings- og konomi-plan 2013-20
+16
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 272--276
+\OT1/cmr/m/n/10.95 - bud-sjett 2013.  $\OT1/cmtt/m/n/10.95 http : / / www . tro
+ndheim . kommune . no / content /$
+ []
+
+) [59] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\appendix.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--43
 
  []
@@ -970,30 +1012,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--43
 
  []
 
-[57
+[60
 
-] [58] [59] [60]) [61]
-(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.aux) ) 
+] [61] [62] [63]) [64]
+(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 1908 strings out of 494045
- 25581 string characters out of 3148379
- 88122 words of memory out of 3000000
- 5171 multiletter control sequences out of 15000+200000
+ 1916 strings out of 494045
+ 25841 string characters out of 3148379
+ 99126 words of memory out of 3000000
+ 5173 multiletter control sequences out of 15000+200000
  10535 words of font info for 37 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 27i,8n,20p,2163b,266s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-r9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on report.pdf (65 pages, 350478 bytes).
+ 27i,8n,21p,2456b,279s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pf
+b>
+Output written on report.pdf (70 pages, 356086 bytes).
 PDF statistics:
- 261 PDF objects out of 1000 (max. 8388607)
+ 277 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -22,38 +22,38 @@
 \contentsline {section}{\numberline {3.3}Exergames used as a Exercise tool}{17}
 \contentsline {section}{\numberline {3.4}Example Case}{18}
 \contentsline {chapter}{\numberline {4}Osterwalder's Business Model Ontology}{20}
-\contentsline {section}{\numberline {4.1}Product}{21}
-\contentsline {subsection}{\numberline {4.1.1}Value Proposition}{21}
-\contentsline {section}{\numberline {4.2}Customer Interface}{22}
+\contentsline {section}{\numberline {4.1}Product}{22}
+\contentsline {subsection}{\numberline {4.1.1}Value Proposition}{22}
+\contentsline {section}{\numberline {4.2}Customer Interface}{23}
 \contentsline {subsection}{\numberline {4.2.1}Customer Segments}{23}
 \contentsline {subsection}{\numberline {4.2.2}Channels}{23}
 \contentsline {subsection}{\numberline {4.2.3}Customer Relationships}{25}
 \contentsline {section}{\numberline {4.3}Infrastructure Management}{26}
 \contentsline {subsection}{\numberline {4.3.1}Key Resources}{26}
-\contentsline {subsection}{\numberline {4.3.2}Key Activities}{27}
-\contentsline {subsection}{\numberline {4.3.3}Key Partnerships}{28}
-\contentsline {section}{\numberline {4.4}Financial Aspects}{29}
-\contentsline {subsection}{\numberline {4.4.1}Revenue Streams}{30}
-\contentsline {subsection}{\numberline {4.4.2}Cost Structure}{30}
-\contentsline {chapter}{\numberline {5}Information Gathering}{32}
-\contentsline {section}{\numberline {5.1}First Phase}{32}
-\contentsline {section}{\numberline {5.2}Qualitative Research}{32}
-\contentsline {subsection}{\numberline {5.2.1}Interview Methods}{33}
-\contentsline {subsection}{\numberline {5.2.2}Possible Pitfalls}{34}
-\contentsline {section}{\numberline {5.3}Interview Discussion}{35}
-\contentsline {chapter}{\numberline {6}Business Model for the Kinect Based Exercise Game}{40}
-\contentsline {section}{\numberline {6.1}Product}{40}
-\contentsline {subsection}{\numberline {6.1.1}Value Proposition}{40}
-\contentsline {section}{\numberline {6.2}Customer Interface}{41}
-\contentsline {subsection}{\numberline {6.2.1}Customer Segments}{41}
-\contentsline {subsection}{\numberline {6.2.2}Channels}{42}
-\contentsline {subsection}{\numberline {6.2.3}Customer Relationships}{45}
-\contentsline {section}{\numberline {6.3}Infrastructure Management}{45}
-\contentsline {subsection}{\numberline {6.3.1}Key Resources}{45}
-\contentsline {subsection}{\numberline {6.3.2}Key Activities}{48}
-\contentsline {subsection}{\numberline {6.3.3}Key Partnerships}{48}
-\contentsline {section}{\numberline {6.4}Financial Aspects}{50}
-\contentsline {subsection}{\numberline {6.4.1}Revenue Streams}{50}
-\contentsline {subsection}{\numberline {6.4.2}Cost Structure}{51}
-\contentsline {chapter}{Bibliography}{56}
-\contentsline {chapter}{Appendix A}{56}
+\contentsline {subsection}{\numberline {4.3.2}Key Activities}{26}
+\contentsline {subsection}{\numberline {4.3.3}Key Partnerships}{27}
+\contentsline {section}{\numberline {4.4}Financial Aspects}{28}
+\contentsline {subsection}{\numberline {4.4.1}Revenue Streams}{28}
+\contentsline {subsection}{\numberline {4.4.2}Cost Structure}{29}
+\contentsline {chapter}{\numberline {5}Information Gathering}{34}
+\contentsline {section}{\numberline {5.1}First Phase}{34}
+\contentsline {section}{\numberline {5.2}Qualitative Research}{34}
+\contentsline {subsection}{\numberline {5.2.1}Interview Methods}{35}
+\contentsline {subsection}{\numberline {5.2.2}Possible Pitfalls}{36}
+\contentsline {section}{\numberline {5.3}Interview Discussion}{37}
+\contentsline {chapter}{\numberline {6}Business Model for the Kinect Based Exercise Game}{43}
+\contentsline {section}{\numberline {6.1}Product}{43}
+\contentsline {subsection}{\numberline {6.1.1}Value Proposition}{43}
+\contentsline {section}{\numberline {6.2}Customer Interface}{44}
+\contentsline {subsection}{\numberline {6.2.1}Customer Segments}{44}
+\contentsline {subsection}{\numberline {6.2.2}Channels}{45}
+\contentsline {subsection}{\numberline {6.2.3}Customer Relationships}{48}
+\contentsline {section}{\numberline {6.3}Infrastructure Management}{48}
+\contentsline {subsection}{\numberline {6.3.1}Key Resources}{48}
+\contentsline {subsection}{\numberline {6.3.2}Key Activities}{51}
+\contentsline {subsection}{\numberline {6.3.3}Key Partnerships}{51}
+\contentsline {section}{\numberline {6.4}Financial Aspects}{53}
+\contentsline {subsection}{\numberline {6.4.1}Revenue Streams}{53}
+\contentsline {subsection}{\numberline {6.4.2}Cost Structure}{54}
+\contentsline {chapter}{Bibliography}{59}
+\contentsline {chapter}{Appendix A}{59}
