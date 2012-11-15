@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.3)  14 NOV 2012 16:09
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.3)  15 NOV 2012 15:57
 entering extended mode
 **report.tex
 (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.tex
@@ -352,81 +352,101 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ]
 (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\introduction.tex
 Chapter 1.
-[1
 
-
-]
-Overfull \hbox (2.90186pt too wide) in paragraph at lines 17--18
+Overfull \hbox (2.90186pt too wide) in paragraph at lines 16--17
 \OT1/cmr/m/n/10.95 This project as-sign-ment is based on an EU-funded project c
 alled "GameUp".
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
-) [2] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\background.tex
+[1
+
+
+]) [2] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\background.tex
 Chapter 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--6
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
 
  []
 
 [3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 8--12
+Underfull \hbox (badness 10000) in paragraph at lines 9--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--12
+Underfull \hbox (badness 10000) in paragraph at lines 9--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--12
+Underfull \hbox (badness 10000) in paragraph at lines 9--14
 
  []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--14
 
  []
 
-[5] [6] [7] [8] [9]
+[4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
+
+ []
+
+[6] [7] [8] [9]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 43.
+(Font)              <9> on input line 46.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 43.
+(Font)              <5> on input line 46.
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
 [][]\OT1/cmr/m/n/9 The Falls Ef-fi-cacy Scale - In-ter-na-tional (FES-I)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--45
+Underfull \hbox (badness 10000) in paragraph at lines 39--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--45
+Underfull \hbox (badness 10000) in paragraph at lines 39--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--45
+Underfull \hbox (badness 10000) in paragraph at lines 39--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--45
+Underfull \hbox (badness 10000) in paragraph at lines 39--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--45
+Underfull \hbox (badness 10000) in paragraph at lines 39--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--48
 
  []
 
@@ -682,131 +702,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--40
 
  []
 
-[37] [38] [39] [40] [41]) [42]
-(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\business-model-of-case.tex
-Chapter 6.
-[43
-
-] [44] <channels.png, id=179, 703.12688pt x 219.06844pt>
-File: channels.png Graphic file (type png)
- <use channels.png>
-Package pdftex.def Info: channels.png used on input line 15.
-(pdftex.def)             Requested size: 703.12515pt x 219.06789pt.
-
-
-LaTeX Warning: Float too large for page by 70.72275pt on input line 18.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--30
-
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[45] [46] [47]
-
-LaTeX Warning: Reference `tab:Resources' on page 48 undefined on input line 37.
-
-
-[48]
-Overfull \hbox (66.50519pt too wide) in paragraph at lines 42--59
- [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--66
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--66
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--66
-
- []
-
-[49]
-
-LaTeX Warning: Reference `fig:ValueChainCase' on page 50 undefined on input lin
-e 67.
-
-<valuechaincase.png, id=196, 551.81157pt x 91.84312pt>
-File: valuechaincase.png Graphic file (type png)
-
-<use valuechaincase.png>
-Package pdftex.def Info: valuechaincase.png used on input line 73.
-(pdftex.def)             Requested size: 386.26547pt x 64.28973pt.
-
-Overfull \hbox (30.26547pt too wide) in paragraph at lines 73--74
- [] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
-
-Overfull \hbox (4.04251pt too wide) in paragraph at lines 77--78
-\OT1/cmr/m/n/10.95 If pro-fes-sion-als, phys-io-ther-a-pists be-lieves in this,
- then the gov-ern-ment should
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
-[50] [51] [52]) (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.bbl
-[53] [54 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/channels.png>]
-[55 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/valuechaincase.png>]
+[37] [38] [39] [40] [41] [42]) [43]
+(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.bbl
 Underfull \hbox (badness 6608) in paragraph at lines 33--38
 []\OT1/cmr/m/n/10.95 About.com In-ven-tors.  Com-puter and video game his-tory.
 
@@ -818,7 +715,7 @@ $\OT1/cmtt/m/n/10.95 http : / / inventors . about . com / library / inventors /
  blcomputer _$
  []
 
-[56
+[44
 
 ]
 Underfull \hbox (badness 5787) in paragraph at lines 90--94
@@ -838,7 +735,7 @@ $\OT1/cmtt/m/n/10.95 com / 2010 / 11 / 03 / eyetoy -[] innovation -[] and -[] b
 eyond / comment -[] page -[]$
  []
 
-[57]
+[45]
 Underfull \hbox (badness 5475) in paragraph at lines 121--125
 []\OT1/cmr/m/n/10.95 PlayStation Move: The Ul-ti-mate FAQ.  $\OT1/cmtt/m/n/10.9
 5 http : / / blog . us .$
@@ -867,7 +764,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 165--169
 . microsoft . com / en -[]$
  []
 
-[58]
+[46]
 Underfull \hbox (badness 10000) in paragraph at lines 202--205
 []\OT1/cmr/m/n/10.95 Trimtilbud.  $\OT1/cmtt/m/n/10.95 http : / / www . trondhe
 im . kommune . no / content /$
@@ -891,7 +788,7 @@ $\OT1/cmtt/m/n/10.95 HomeandRecreationalSafety / Falls / compendium / 1 . 8 _ F
 aME . html$\OT1/cmr/m/n/10.95 .
  []
 
-[59]
+[47]
 Underfull \hbox (badness 4726) in paragraph at lines 272--276
 []\OT1/cmr/m/n/10.95 Radmannens forslag til handlings- og konomi-plan 2013-20
 16
@@ -903,7 +800,7 @@ Underfull \hbox (badness 1721) in paragraph at lines 272--276
 ndheim . kommune . no / content /$
  []
 
-) [60] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\appendix.tex
+) [48] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\appendix.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--43
 
  []
@@ -1004,25 +901,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--43
 
  []
 
-[61
+[49
 
-] [62] [63] [64]) [65]
+] [50] [51] [52]) [53]
 (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.aux)
-
-LaTeX Warning: There were undefined references.
-
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 1916 strings out of 494045
- 25841 string characters out of 3148379
- 98103 words of memory out of 3000000
- 5173 multiletter control sequences out of 15000+200000
+ 1898 strings out of 494045
+ 25400 string characters out of 3148379
+ 103383 words of memory out of 3000000
+ 5160 multiletter control sequences out of 15000+200000
  10535 words of font info for 37 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 27i,9n,21p,2456b,271s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,8n,21p,2732b,269s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
@@ -1032,9 +926,9 @@ blic/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pf
 b>
-Output written on report.pdf (71 pages, 357213 bytes).
+Output written on report.pdf (59 pages, 318359 bytes).
 PDF statistics:
- 280 PDF objects out of 1000 (max. 8388607)
+ 239 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

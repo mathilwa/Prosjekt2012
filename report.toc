@@ -9,12 +9,12 @@
 \contentsline {section}{\numberline {2.1}Fall Prevention and Rehabilitation Today}{3}
 \contentsline {section}{\numberline {2.2}Video games in general}{4}
 \contentsline {section}{\numberline {2.3}Exercise Games}{6}
-\contentsline {subsection}{\numberline {2.3.1}Dance Dance Revolution}{6}
+\contentsline {subsection}{\numberline {2.3.1}Dance Dance Revolution}{7}
 \contentsline {subsection}{\numberline {2.3.2}PlayStation EyeToy}{7}
-\contentsline {subsection}{\numberline {2.3.3}PlayStation Move}{7}
+\contentsline {subsection}{\numberline {2.3.3}PlayStation Move}{8}
 \contentsline {subsection}{\numberline {2.3.4}Nintendo Wii}{8}
 \contentsline {subsection}{\numberline {2.3.5}Wii Balance Board}{9}
-\contentsline {subsection}{\numberline {2.3.6}Xbox 360 Kinect}{9}
+\contentsline {subsection}{\numberline {2.3.6}Xbox 360 Kinect}{10}
 \contentsline {section}{\numberline {2.4}Using Exergames for Fall Prevention and Rehabilitation: A background Study}{10}
 \contentsline {chapter}{\numberline {3}Motivation}{14}
 \contentsline {section}{\numberline {3.1}The Problem of Falls}{14}
@@ -41,19 +41,5 @@
 \contentsline {subsection}{\numberline {5.2.1}Interview Methods}{35}
 \contentsline {subsection}{\numberline {5.2.2}Possible Pitfalls}{36}
 \contentsline {section}{\numberline {5.3}Interview Discussion}{37}
-\contentsline {chapter}{\numberline {6}Business Model for the Kinect Based Exercise Game}{43}
-\contentsline {section}{\numberline {6.1}Product}{43}
-\contentsline {subsection}{\numberline {6.1.1}Value Proposition}{43}
-\contentsline {section}{\numberline {6.2}Customer Interface}{44}
-\contentsline {subsection}{\numberline {6.2.1}Customer Segments}{44}
-\contentsline {subsection}{\numberline {6.2.2}Channels}{45}
-\contentsline {subsection}{\numberline {6.2.3}Customer Relationships}{47}
-\contentsline {section}{\numberline {6.3}Infrastructure Management}{48}
-\contentsline {subsection}{\numberline {6.3.1}Key Resources}{48}
-\contentsline {subsection}{\numberline {6.3.2}Key Activities}{50}
-\contentsline {subsection}{\numberline {6.3.3}Key Partnerships}{50}
-\contentsline {section}{\numberline {6.4}Financial Aspects}{52}
-\contentsline {subsection}{\numberline {6.4.1}Revenue Streams}{52}
-\contentsline {subsection}{\numberline {6.4.2}Cost Structure}{53}
-\contentsline {chapter}{Bibliography}{60}
-\contentsline {chapter}{Appendix A}{60}
+\contentsline {chapter}{Bibliography}{48}
+\contentsline {chapter}{Appendix A}{48}
