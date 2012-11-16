@@ -10,8 +10,4 @@ I was expecting a `,' or a `}'---line 309 of file bib.bib
  : year="2000",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 315 of file bib.bib
- : howpublished="\url{http://www.trondheim.kommune.no/content/1117713664/Budsjett-2013}"
- :                                                                                      .
-I'm skipping whatever remains of this entry
-(There were 3 error messages)
+(There were 2 error messages)

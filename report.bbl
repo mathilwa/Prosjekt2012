@@ -54,6 +54,18 @@ Education~Database Online.
 \newblock \url{http://www.onlineeducation.net/videogame}.
 \newblock visited: 02/11/12.
 
+\bibitem{ssb2010}
+Norsk mediebarometer 2010.
+\newblock Spill, tekst-tv og telefon.
+\newblock \url{http://www.ssb.no/medie/sa121/spill-tekst.pdf}, 2011.
+\newblock visited: 16/11/12.
+
+\bibitem{ssb2011}
+Norsk mediebarometer 2011.
+\newblock Spill, tekst-tv og telefon.
+\newblock \url{http://www.ssb.no/medie/sa128/spill_tekst.pdf}, 2011.
+\newblock visited: 16/11/12.
+
 \bibitem{videogameforcast}
 Forbes.
 \newblock New reports forecast global video game industry will reach \$82
@@ -245,17 +257,17 @@ B.~Lange, C.Y. Chang, E.~Suma, B.~Newman, A.S. Rizzo, and M.~Bolas.
 \newblock In {\em Engineering in Medicine and Biology Society, EMBC, 2011
   Annual International Conference of the IEEE}, pages 1831--1834. IEEE, 2011.
 
-\bibitem{osterwalder}
-Alexander Osterwalder and Yves Pigneur.
-\newblock {\em Business Model Generation: A Handbook for Visionaries, Game
-  Changers, and Challangers}.
-\newblock John Wiley \& Sons, Inc., Hoboken, New Jersey, 2010.
-
 \bibitem{osterwalderthesis}
 Alexander Osterwalder.
 \newblock {\em The Business Model Ontology: A Proposition in a Design Science
   Approach}.
 \newblock PhD thesis, Universite de Lausanne, 2004.
+
+\bibitem{osterwalder}
+Alexander Osterwalder and Yves Pigneur.
+\newblock {\em Business Model Generation: A Handbook for Visionaries, Game
+  Changers, and Challangers}.
+\newblock John Wiley \& Sons, Inc., Hoboken, New Jersey, 2010.
 
 \bibitem{interview2}
 Gerd Lilledahl, Atle Wehn~Hegnes, Tone Opdahl, Henrik Gi{æ}ver, Finn Johansen,
@@ -273,5 +285,6 @@ R{å}dmannens forslag til handlings- og {ø}konomiplan 2013-2016 - budsjett
   2013.
 \newblock
   \url{http://www.trondheim.kommune.no/content/1117713664/Budsjett-2013}, 2012.
+\newblock visited: 13/11/12.
 
 \end{thebibliography}
