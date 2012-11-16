@@ -9,9 +9,9 @@
 \contentsline {section}{\numberline {2.1}Fall Prevention and Rehabilitation Today}{3}
 \contentsline {section}{\numberline {2.2}Video games in general}{4}
 \contentsline {section}{\numberline {2.3}Exercise Games}{7}
-\contentsline {subsection}{\numberline {2.3.1}Dance Dance Revolution}{7}
+\contentsline {subsection}{\numberline {2.3.1}Dance Dance Revolution}{8}
 \contentsline {subsection}{\numberline {2.3.2}PlayStation EyeToy}{8}
-\contentsline {subsection}{\numberline {2.3.3}PlayStation Move}{8}
+\contentsline {subsection}{\numberline {2.3.3}PlayStation Move}{9}
 \contentsline {subsection}{\numberline {2.3.4}Nintendo Wii}{9}
 \contentsline {subsection}{\numberline {2.3.5}Wii Balance Board}{10}
 \contentsline {subsection}{\numberline {2.3.6}Xbox 360 Kinect}{10}
