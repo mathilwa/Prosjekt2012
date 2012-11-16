@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  16 NOV 2012 18:45
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  16 NOV 2012 19:14
 entering extended mode
 **report.tex
 (C:\Users\Line\Documents\GitHub\Prosjekt2012\report.tex
@@ -376,81 +376,76 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--7
 [3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 9--14
+Underfull \hbox (badness 10000) in paragraph at lines 9--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--14
+Underfull \hbox (badness 10000) in paragraph at lines 9--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--14
+Underfull \hbox (badness 10000) in paragraph at lines 9--13
 
  []
 
 [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 15--17
+Underfull \hbox (badness 10000) in paragraph at lines 32--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--22
+Underfull \hbox (badness 10000) in paragraph at lines 32--35
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--22
-
- []
-
-[6] [7] [8] [9]
+[6] [7] [8] [9] [10]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 49.
+(Font)              <9> on input line 62.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 49.
+(Font)              <5> on input line 62.
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
 [][]\OT1/cmr/m/n/9 The Falls Ef-fi-cacy Scale - In-ter-na-tional (FES-I)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--51
+Underfull \hbox (badness 10000) in paragraph at lines 55--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--51
+Underfull \hbox (badness 10000) in paragraph at lines 55--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--51
+Underfull \hbox (badness 10000) in paragraph at lines 55--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--51
+Underfull \hbox (badness 10000) in paragraph at lines 55--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--51
+Underfull \hbox (badness 10000) in paragraph at lines 55--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--51
+Underfull \hbox (badness 10000) in paragraph at lines 55--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--51
+Underfull \hbox (badness 10000) in paragraph at lines 55--64
 
  []
 
-[10] [11] [12] [13]) [14] (C:\Users\Line\Documents\GitHub\Prosjekt2012\case.tex
+[11] [12] [13]) [14] (C:\Users\Line\Documents\GitHub\Prosjekt2012\case.tex
 Chapter 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
@@ -1009,25 +1004,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--43
 [64
 
 ] [65] [66] [67]) [68]
-(C:\Users\Line\Documents\GitHub\Prosjekt2012\report.aux) ) 
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\report.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 1913 strings out of 494045
- 25759 string characters out of 3147584
- 104242 words of memory out of 3000000
- 5170 multiletter control sequences out of 15000+200000
+ 1917 strings out of 494045
+ 25823 string characters out of 3147584
+ 103252 words of memory out of 3000000
+ 5174 multiletter control sequences out of 15000+200000
  10535 words of font info for 37 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  27i,9n,21p,2732b,273s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x8
-6)/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/Mik
-tex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/Miktex/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/Miktex/fonts/typ
-e1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/Miktex/fonts/type1/publi
-c/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfon
-ts/cm/cmr9.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmti10.p
-fb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on report.pdf (74 pages, 363099 bytes).
+<C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
+Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
+m Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
+ (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/M
+iktex/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/Miktex/fo
+nts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/Miktex/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/publ
+ic/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/ams
+fonts/cm/cmtt10.pfb>
+Output written on report.pdf (74 pages, 363200 bytes).
 PDF statistics:
  291 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
