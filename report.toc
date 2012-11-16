@@ -8,52 +8,52 @@
 \contentsline {chapter}{\numberline {2}A Background Study}{3}
 \contentsline {section}{\numberline {2.1}Fall Prevention and Rehabilitation Today}{3}
 \contentsline {section}{\numberline {2.2}Video games in general}{4}
-\contentsline {section}{\numberline {2.3}Exercise Games}{7}
-\contentsline {subsection}{\numberline {2.3.1}Dance Dance Revolution}{7}
-\contentsline {subsection}{\numberline {2.3.2}PlayStation EyeToy}{8}
-\contentsline {subsection}{\numberline {2.3.3}PlayStation Move}{8}
-\contentsline {subsection}{\numberline {2.3.4}Nintendo Wii}{9}
-\contentsline {subsection}{\numberline {2.3.5}Wii Balance Board}{10}
-\contentsline {subsection}{\numberline {2.3.6}Xbox 360 Kinect}{10}
-\contentsline {section}{\numberline {2.4}Using Exergames for Fall Prevention and Rehabilitation: A background Study}{11}
-\contentsline {chapter}{\numberline {3}Motivation}{15}
-\contentsline {section}{\numberline {3.1}The Problem of Falls}{15}
-\contentsline {section}{\numberline {3.2}Existing Prevention Programs}{16}
-\contentsline {section}{\numberline {3.3}Exergames used as a Exercise tool}{18}
-\contentsline {section}{\numberline {3.4}Example Case}{19}
-\contentsline {chapter}{\numberline {4}Osterwalder's Business Model Ontology}{21}
-\contentsline {section}{\numberline {4.1}Product}{24}
-\contentsline {subsection}{\numberline {4.1.1}Value Proposition}{24}
-\contentsline {section}{\numberline {4.2}Customer Interface}{25}
-\contentsline {subsection}{\numberline {4.2.1}Customer Segments}{25}
-\contentsline {subsection}{\numberline {4.2.2}Channels}{25}
-\contentsline {subsection}{\numberline {4.2.3}Customer Relationships}{28}
-\contentsline {section}{\numberline {4.3}Infrastructure Management}{29}
-\contentsline {subsection}{\numberline {4.3.1}Key Resources}{29}
-\contentsline {subsection}{\numberline {4.3.2}Key Activities}{30}
-\contentsline {subsection}{\numberline {4.3.3}Key Partnerships}{31}
-\contentsline {section}{\numberline {4.4}Financial Aspects}{32}
-\contentsline {subsection}{\numberline {4.4.1}Revenue Streams}{32}
-\contentsline {subsection}{\numberline {4.4.2}Cost Structure}{33}
-\contentsline {chapter}{\numberline {5}Information Gathering}{35}
-\contentsline {section}{\numberline {5.1}First Phase}{35}
-\contentsline {section}{\numberline {5.2}Qualitative Research}{35}
-\contentsline {subsection}{\numberline {5.2.1}Interview Methods}{36}
-\contentsline {subsection}{\numberline {5.2.2}Possible Pitfalls}{37}
-\contentsline {section}{\numberline {5.3}Interview Discussion}{38}
-\contentsline {chapter}{\numberline {6}Business Model for the Kinect Based Exercise Game}{45}
-\contentsline {section}{\numberline {6.1}Product}{45}
-\contentsline {subsection}{\numberline {6.1.1}Value Proposition}{46}
-\contentsline {section}{\numberline {6.2}Customer Interface}{46}
-\contentsline {subsection}{\numberline {6.2.1}Customer Segments}{47}
-\contentsline {subsection}{\numberline {6.2.2}Channels}{47}
-\contentsline {subsection}{\numberline {6.2.3}Customer Relationships}{51}
-\contentsline {section}{\numberline {6.3}Infrastructure Management}{51}
-\contentsline {subsection}{\numberline {6.3.1}Key Resources}{51}
-\contentsline {subsection}{\numberline {6.3.2}Key Activities}{53}
-\contentsline {subsection}{\numberline {6.3.3}Key Partnerships}{54}
-\contentsline {section}{\numberline {6.4}Financial Aspects}{55}
-\contentsline {subsection}{\numberline {6.4.1}Revenue Streams}{55}
-\contentsline {subsection}{\numberline {6.4.2}Cost Structure}{56}
-\contentsline {chapter}{Bibliography}{63}
-\contentsline {chapter}{Appendix A}{63}
+\contentsline {section}{\numberline {2.3}Exercise Games}{8}
+\contentsline {subsection}{\numberline {2.3.1}Dance Dance Revolution}{9}
+\contentsline {subsection}{\numberline {2.3.2}PlayStation EyeToy}{9}
+\contentsline {subsection}{\numberline {2.3.3}PlayStation Move}{10}
+\contentsline {subsection}{\numberline {2.3.4}Nintendo Wii}{10}
+\contentsline {subsection}{\numberline {2.3.5}Wii Balance Board}{11}
+\contentsline {subsection}{\numberline {2.3.6}Xbox 360 Kinect}{12}
+\contentsline {section}{\numberline {2.4}Using Exergames for Fall Prevention and Rehabilitation: A background Study}{12}
+\contentsline {chapter}{\numberline {3}Motivation}{16}
+\contentsline {section}{\numberline {3.1}The Problem of Falls}{16}
+\contentsline {section}{\numberline {3.2}Existing Prevention Programs}{17}
+\contentsline {section}{\numberline {3.3}Exergames used as a Exercise tool}{19}
+\contentsline {section}{\numberline {3.4}Example Case}{20}
+\contentsline {chapter}{\numberline {4}Osterwalder's Business Model Ontology}{22}
+\contentsline {section}{\numberline {4.1}Product}{25}
+\contentsline {subsection}{\numberline {4.1.1}Value Proposition}{25}
+\contentsline {section}{\numberline {4.2}Customer Interface}{26}
+\contentsline {subsection}{\numberline {4.2.1}Customer Segments}{26}
+\contentsline {subsection}{\numberline {4.2.2}Channels}{26}
+\contentsline {subsection}{\numberline {4.2.3}Customer Relationships}{29}
+\contentsline {section}{\numberline {4.3}Infrastructure Management}{30}
+\contentsline {subsection}{\numberline {4.3.1}Key Resources}{30}
+\contentsline {subsection}{\numberline {4.3.2}Key Activities}{31}
+\contentsline {subsection}{\numberline {4.3.3}Key Partnerships}{32}
+\contentsline {section}{\numberline {4.4}Financial Aspects}{33}
+\contentsline {subsection}{\numberline {4.4.1}Revenue Streams}{33}
+\contentsline {subsection}{\numberline {4.4.2}Cost Structure}{34}
+\contentsline {chapter}{\numberline {5}Information Gathering}{36}
+\contentsline {section}{\numberline {5.1}First Phase}{36}
+\contentsline {section}{\numberline {5.2}Qualitative Research}{36}
+\contentsline {subsection}{\numberline {5.2.1}Interview Methods}{37}
+\contentsline {subsection}{\numberline {5.2.2}Possible Pitfalls}{38}
+\contentsline {section}{\numberline {5.3}Interview Discussion}{39}
+\contentsline {chapter}{\numberline {6}Business Model for the Kinect Based Exercise Game}{46}
+\contentsline {section}{\numberline {6.1}Product}{46}
+\contentsline {subsection}{\numberline {6.1.1}Value Proposition}{47}
+\contentsline {section}{\numberline {6.2}Customer Interface}{47}
+\contentsline {subsection}{\numberline {6.2.1}Customer Segments}{48}
+\contentsline {subsection}{\numberline {6.2.2}Channels}{48}
+\contentsline {subsection}{\numberline {6.2.3}Customer Relationships}{52}
+\contentsline {section}{\numberline {6.3}Infrastructure Management}{52}
+\contentsline {subsection}{\numberline {6.3.1}Key Resources}{52}
+\contentsline {subsection}{\numberline {6.3.2}Key Activities}{54}
+\contentsline {subsection}{\numberline {6.3.3}Key Partnerships}{55}
+\contentsline {section}{\numberline {6.4}Financial Aspects}{56}
+\contentsline {subsection}{\numberline {6.4.1}Revenue Streams}{56}
+\contentsline {subsection}{\numberline {6.4.2}Cost Structure}{57}
+\contentsline {chapter}{Bibliography}{64}
+\contentsline {chapter}{Appendix A}{64}
