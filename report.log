@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  16 NOV 2012 20:21
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  17 NOV 2012 09:24
 entering extended mode
 **report.tex
 (C:\Users\Line\Documents\GitHub\Prosjekt2012\report.tex
@@ -380,103 +380,96 @@ File: consolewarsall.png Graphic file (type png)
 
 <use consolewarsall.png>
 Package pdftex.def Info: consolewarsall.png used on input line 14.
-(pdftex.def)             Requested size: 542.77412pt x 172.84456pt.
+(pdftex.def)             Requested size: 387.6975pt x 123.46094pt.
 
-Overfull \hbox (186.77412pt too wide) in paragraph at lines 14--15
+Overfull \hbox (31.6975pt too wide) in paragraph at lines 14--15
  [] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--20
-
- []
-
-[4] [5 <C:/Users/Line/Documents/GitHub/Prosjekt2012/consolewarsall.png>]
-<gamersus.png, id=41, 361.35pt x 216.81pt>
+<gamersus.png, id=35, 361.35pt x 216.81pt>
 File: gamersus.png Graphic file (type png)
  <use gamersus.png>
 Package pdftex.def Info: gamersus.png used on input line 24.
 (pdftex.def)             Requested size: 252.94327pt x 151.76596pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 9--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--28
+
+ []
+
+[4] [5 <C:/Users/Line/Documents/GitHub/Prosjekt2012/consolewarsall.png>]
 <gamersnorway.png, id=42, 362.10281pt x 215.30438pt>
 File: gamersnorway.png Graphic file (type png)
  <use gamersnorway.png>
 Package pdftex.def Info: gamersnorway.png used on input line 32.
 (pdftex.def)             Requested size: 253.47023pt x 150.71204pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 38--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--41
+
+ []
+
 [6] [7 <C:/Users/Line/Documents/GitHub/Prosjekt2012/gamersus.png> <C:/Users/Lin
-e/Documents/GitHub/Prosjekt2012/gamersnorway.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 41--44
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--44
-
- []
-
-[8] [9] [10] [11]
+e/Documents/GitHub/Prosjekt2012/gamersnorway.png>] [8] [9] [10] [11]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 71.
+(Font)              <9> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 71.
+(Font)              <5> on input line 68.
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
 [][]\OT1/cmr/m/n/9 The Falls Ef-fi-cacy Scale - In-ter-na-tional (FES-I)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--73
+Underfull \hbox (badness 10000) in paragraph at lines 61--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--73
+Underfull \hbox (badness 10000) in paragraph at lines 61--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--73
+Underfull \hbox (badness 10000) in paragraph at lines 61--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--73
+Underfull \hbox (badness 10000) in paragraph at lines 61--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--73
+Underfull \hbox (badness 10000) in paragraph at lines 61--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--73
+Underfull \hbox (badness 10000) in paragraph at lines 61--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--73
+Underfull \hbox (badness 10000) in paragraph at lines 61--70
 
  []
 
@@ -1039,29 +1032,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--43
 [65
 
 ] [66] [67] [68]) [69]
-(C:\Users\Line\Documents\GitHub\Prosjekt2012\report.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\report.aux) ) 
 Here is how much of TeX's memory you used:
- 1935 strings out of 494045
- 26169 string characters out of 3147584
- 104434 words of memory out of 3000000
- 5189 multiletter control sequences out of 15000+200000
+ 1934 strings out of 494045
+ 26150 string characters out of 3147584
+ 103434 words of memory out of 3000000
+ 5188 multiletter control sequences out of 15000+200000
  10535 words of font info for 37 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  27i,9n,21p,2732b,273s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
-Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
-m Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
- (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/M
-iktex/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/Miktex/fo
-nts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/Miktex/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/publ
-ic/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/ams
-fonts/cm/cmtt10.pfb>
-Output written on report.pdf (75 pages, 552854 bytes).
+<C:/Program Files (x8
+6)/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/Mik
+tex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/Miktex/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/Miktex/fonts/typ
+e1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/Miktex/fonts/type1/publi
+c/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfon
+ts/cm/cmr9.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmti10.p
+fb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on report.pdf (75 pages, 552826 bytes).
 PDF statistics:
  297 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
