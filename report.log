@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  17 NOV 2012 11:09
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  17 NOV 2012 12:08
 entering extended mode
 **report.tex
 (C:\Users\Line\Documents\GitHub\Prosjekt2012\report.tex
@@ -297,7 +297,11 @@ Now handling font encoding U ...
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-(C:\Users\Line\Documents\GitHub\Prosjekt2012\report.aux)
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\report.aux
+
+LaTeX Warning: Label `fig:ConsoleWarsAll' multiply defined.
+
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
@@ -310,8 +314,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count89
 \scratchdimen=\dimen105
@@ -379,115 +382,119 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--7
 File: consolewarsall.png Graphic file (type png)
 
 <use consolewarsall.png>
-Package pdftex.def Info: consolewarsall.png used on input line 14.
+Package pdftex.def Info: consolewarsall.png used on input line 15.
 (pdftex.def)             Requested size: 387.6975pt x 123.46094pt.
 
-Overfull \hbox (31.6975pt too wide) in paragraph at lines 14--15
+Overfull \hbox (31.6975pt too wide) in paragraph at lines 15--16
  [] 
  []
 
 <gamersus.png, id=35, 361.35pt x 216.81pt>
 File: gamersus.png Graphic file (type png)
  <use gamersus.png>
-Package pdftex.def Info: gamersus.png used on input line 24.
+Package pdftex.def Info: gamersus.png used on input line 25.
 (pdftex.def)             Requested size: 252.94327pt x 151.76596pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--28
+Underfull \hbox (badness 10000) in paragraph at lines 9--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--28
+Underfull \hbox (badness 10000) in paragraph at lines 9--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--28
+Underfull \hbox (badness 10000) in paragraph at lines 9--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--28
+Underfull \hbox (badness 10000) in paragraph at lines 9--29
 
  []
 
-[4] [5 <C:/Users/Line/Documents/GitHub/Prosjekt2012/consolewarsall.png>]
-<gamersnorway.png, id=42, 362.10281pt x 208.52907pt>
+[4]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5] [6 <C:/Users/Line/Documents/GitHub/Prosjekt2012/consolewarsall.png>]
+<gamersnorway.png, id=45, 362.10281pt x 208.52907pt>
 File: gamersnorway.png Graphic file (type png)
  <use gamersnorway.png>
-Package pdftex.def Info: gamersnorway.png used on input line 32.
+Package pdftex.def Info: gamersnorway.png used on input line 33.
 (pdftex.def)             Requested size: 253.47023pt x 145.96935pt.
 
 
-LaTeX Warning: Citation `folketall2012' on page 6 undefined on input line 33.
+LaTeX Warning: Citation `folketall2012' on page 7 undefined on input line 34.
 
 
-LaTeX Warning: Citation `folketall2012' on page 6 undefined on input line 33.
+LaTeX Warning: Citation `folketall2012' on page 7 undefined on input line 34.
 
-<gamestatisticsnorway.png, id=43, 356.83313pt x 215.30438pt>
+<gamestatisticsnorway.png, id=46, 356.83313pt x 215.30438pt>
 File: gamestatisticsnorway.png Graphic file (type png)
 
 <use gamestatisticsnorway.png>
-Package pdftex.def Info: gamestatisticsnorway.png used on input line 40.
+Package pdftex.def Info: gamestatisticsnorway.png used on input line 41.
 (pdftex.def)             Requested size: 321.14684pt x 193.77214pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--49
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--49
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
 
  []
 
-[6] [7 <C:/Users/Line/Documents/GitHub/Prosjekt2012/gamersus.png> <C:/Users/Lin
-e/Documents/GitHub/Prosjekt2012/gamersnorway.png>] [8 <C:/Users/Line/Documents/
-GitHub/Prosjekt2012/gamestatisticsnorway.png>] [9] [10] [11] [12]
+[7 <C:/Users/Line/Documents/GitHub/Prosjekt2012/gamersus.png>] [8 <C:/Users/Lin
+e/Documents/GitHub/Prosjekt2012/gamersnorway.png> <C:/Users/Line/Documents/GitH
+ub/Prosjekt2012/gamestatisticsnorway.png>] [9] [10] [11]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 76.
+(Font)              <9> on input line 77.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 76.
+(Font)              <5> on input line 77.
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
 [][]\OT1/cmr/m/n/9 The Falls Ef-fi-cacy Scale - In-ter-na-tional (FES-I)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--78
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--78
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--78
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--78
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--78
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--78
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--78
+Underfull \hbox (badness 10000) in paragraph at lines 70--79
 
  []
 
-[13] [14] [15]) [16] (C:\Users\Line\Documents\GitHub\Prosjekt2012\case.tex
+[12] [13] [14] [15]) [16] (C:\Users\Line\Documents\GitHub\Prosjekt2012\case.tex
 Chapter 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
@@ -1050,11 +1057,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--43
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
  1942 strings out of 494045
  26356 string characters out of 3147584
- 103536 words of memory out of 3000000
+ 103575 words of memory out of 3000000
  5195 multiletter control sequences out of 15000+200000
  10535 words of font info for 37 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
@@ -1068,7 +1078,7 @@ nts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/Miktex/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/publ
 ic/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/ams
 fonts/cm/cmtt10.pfb>
-Output written on report.pdf (76 pages, 557260 bytes).
+Output written on report.pdf (76 pages, 557546 bytes).
 PDF statistics:
  301 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
