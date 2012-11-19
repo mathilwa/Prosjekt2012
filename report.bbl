@@ -42,16 +42,29 @@ Time.
 \newblock \url{http://www.time.com/time/interactive/0,31813,2029221,00.html}.
 \newblock visited: 02/11/12.
 
-\bibitem{statistics2010}
-Entertaintment Software~Rating Board.
-\newblock How much do you know about video games?
-\newblock \url{http://www.esrb.org/about/video-game-industry-statistics.jsp}.
-\newblock visited: 02/11/12.
-
 \bibitem{statistics2012}
 Education~Database Online.
 \newblock Videogame statistics.
 \newblock \url{http://www.onlineeducation.net/videogame}.
+\newblock visited: 02/11/12.
+
+\bibitem{videogameforcast}
+Forbes.
+\newblock New reports forecast global video game industry will reach \$82
+  billion by 2017.
+\newblock \url{http://www.vg.no}.
+\newblock visited: 02/11/12.
+
+\bibitem{aboutdfcint}
+DFC Intelligence.
+\newblock Dfc intelligence.
+\newblock \url{http://www.dfcint.com/index.php}.
+\newblock visited: 06/11/12.
+
+\bibitem{statistics2010}
+Entertaintment Software~Rating Board.
+\newblock How much do you know about video games?
+\newblock \url{http://www.esrb.org/about/video-game-industry-statistics.jsp}.
 \newblock visited: 02/11/12.
 
 \bibitem{ssb2010}
@@ -66,18 +79,12 @@ Norsk mediebarometer 2011.
 \newblock \url{http://www.ssb.no/medie/sa128/spill_tekst.pdf}, 2011.
 \newblock visited: 16/11/12.
 
-\bibitem{videogameforcast}
-Forbes.
-\newblock New reports forecast global video game industry will reach \$82
-  billion by 2017.
-\newblock \url{http://www.vg.no}.
-\newblock visited: 02/11/12.
-
-\bibitem{aboutdfcint}
-DFC Intelligence.
-\newblock Dfc intelligence.
-\newblock \url{http://www.dfcint.com/index.php}.
-\newblock visited: 06/11/12.
+\bibitem{folketall2012}
+Statistisk sentralbyr{å}.
+\newblock Folkemengd, etter alder og fylke. absolutte tal. 1. januar 2012.
+\newblock \url{http://www.ssb.no/folkemengde/arkiv/tab-2012-02-23-01.html},
+  2012.
+\newblock visited: 17/11/12.
 
 \bibitem{gamingforhealth}
 A.~Laikari.
@@ -286,5 +293,41 @@ R{å}dmannens forslag til handlings- og {ø}konomiplan 2013-2016 - budsjett
 \newblock
   \url{http://www.trondheim.kommune.no/content/1117713664/Budsjett-2013}, 2012.
 \newblock visited: 13/11/12.
+
+\bibitem{tekna}
+Tekna.
+\newblock Teknas l{ø}nnsstatistikk 2011.
+\newblock \url{http://www.tekna.no/lonn}, 2012.
+\newblock visited: 19/11/12.
+
+\bibitem{altinn}
+Altinn.
+\newblock Arbeidsgiverguiden.
+\newblock
+  \url{https://www.altinn.no/global/starte%20og%20drive%20bedrift/guider/arbeidsgiverguiden.pdf}.
+\newblock visited: 19/11/12.
+
+\bibitem{pricekinect}
+Komplett.no.
+\newblock
+  \url{http://www.komplett.no/k/ki.aspx?sku=752181&cks=ASS&assoc=D17C9206-4ABF-4D73-94BE-9D52E5984D4D}.
+\newblock visited: 19/11/12.
+
+\bibitem{priceprojector}
+Lefdal elektromarked.
+\newblock
+  \url{http://www.lefdal.com/product/tv-lyd-bilde/projektor-lerret/PPX2450/philips-picopix-projektor-ppx-2450}.
+\newblock visited: 19/11/12.
+
+\bibitem{pricescreen}
+Lefdal elektromarked.
+\newblock \url{
+  http://www.lefdal.com/product/tv-lyd-bilde/projektor-lerret/MOUNTCS90M/media-mount-cinema-90-lerret}.
+\newblock visited: 19/11/12.
+
+\bibitem{priceserver}
+Go{G}rid.
+\newblock \url{http://www.gogrid.com/products/infrastructure-cloud-servers}.
+\newblock visited: 19/11/12.
 
 \end{thebibliography}
