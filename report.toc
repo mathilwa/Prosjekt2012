@@ -18,7 +18,7 @@
 \contentsline {subsection}{\numberline {3.3.2}PlayStation EyeToy}{16}
 \contentsline {subsection}{\numberline {3.3.3}PlayStation Move}{16}
 \contentsline {subsection}{\numberline {3.3.4}Nintendo Wii}{17}
-\contentsline {subsection}{\numberline {3.3.5}Wii Balance Board}{18}
+\contentsline {subsection}{\numberline {3.3.5}Wii Balance Board}{17}
 \contentsline {subsection}{\numberline {3.3.6}Xbox 360 Kinect}{18}
 \contentsline {section}{\numberline {3.4}Using Exergames for Fall Prevention and Rehabilitation: A background Study}{19}
 \contentsline {chapter}{\numberline {4}Osterwalder's Business Model Ontology}{23}
