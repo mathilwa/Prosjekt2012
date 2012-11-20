@@ -54,6 +54,6 @@
 \contentsline {subsection}{\numberline {6.3.3}Key Partnerships}{56}
 \contentsline {section}{\numberline {6.4}Financial Aspects}{57}
 \contentsline {subsection}{\numberline {6.4.1}Revenue Streams}{57}
-\contentsline {subsection}{\numberline {6.4.2}Cost Structure}{59}
-\contentsline {chapter}{Bibliography}{70}
-\contentsline {chapter}{Appendix A}{70}
+\contentsline {subsection}{\numberline {6.4.2}Cost Structure}{63}
+\contentsline {chapter}{Bibliography}{74}
+\contentsline {chapter}{Appendix A}{74}
