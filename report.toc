@@ -55,5 +55,7 @@
 \contentsline {section}{\numberline {6.4}Financial Aspects}{57}
 \contentsline {subsection}{\numberline {6.4.1}Revenue Streams}{57}
 \contentsline {subsection}{\numberline {6.4.2}Cost Structure}{64}
-\contentsline {chapter}{Bibliography}{75}
-\contentsline {chapter}{Appendix A}{75}
+\contentsline {chapter}{\numberline {7}Miscellaneous}{70}
+\contentsline {section}{\numberline {7.1}Security aspects}{70}
+\contentsline {chapter}{Bibliography}{77}
+\contentsline {chapter}{Appendix A}{77}
