@@ -46,17 +46,17 @@
 \contentsline {subsection}{\numberline {6.1.1}Value Proposition}{48}
 \contentsline {section}{\numberline {6.2}Customer Interface}{48}
 \contentsline {subsection}{\numberline {6.2.1}Customer Segments}{49}
-\contentsline {subsection}{\numberline {6.2.2}Channels}{49}
+\contentsline {subsection}{\numberline {6.2.2}Channels}{50}
 \contentsline {subsection}{\numberline {6.2.3}Customer Relationships}{53}
-\contentsline {section}{\numberline {6.3}Infrastructure Management}{53}
-\contentsline {subsection}{\numberline {6.3.1}Key Resources}{53}
-\contentsline {subsection}{\numberline {6.3.2}Key Activities}{55}
-\contentsline {subsection}{\numberline {6.3.3}Key Partnerships}{56}
-\contentsline {section}{\numberline {6.4}Financial Aspects}{57}
-\contentsline {subsection}{\numberline {6.4.1}Revenue Streams}{57}
-\contentsline {subsection}{\numberline {6.4.2}Cost Structure}{66}
-\contentsline {chapter}{\numberline {7}Miscellaneous}{72}
-\contentsline {section}{\numberline {7.1}Security aspects}{72}
-\contentsline {section}{\numberline {7.2}NAV Hjelpemiddelsentralen}{74}
-\contentsline {chapter}{Bibliography}{80}
-\contentsline {chapter}{Appendix A}{80}
+\contentsline {section}{\numberline {6.3}Infrastructure Management}{54}
+\contentsline {subsection}{\numberline {6.3.1}Key Resources}{54}
+\contentsline {subsection}{\numberline {6.3.2}Key Activities}{56}
+\contentsline {subsection}{\numberline {6.3.3}Key Partnerships}{57}
+\contentsline {section}{\numberline {6.4}Financial Aspects}{58}
+\contentsline {subsection}{\numberline {6.4.1}Revenue Streams}{58}
+\contentsline {subsection}{\numberline {6.4.2}Cost Structure}{67}
+\contentsline {chapter}{\numberline {7}Miscellaneous}{73}
+\contentsline {section}{\numberline {7.1}Security aspects}{73}
+\contentsline {section}{\numberline {7.2}NAV Hjelpemiddelsentralen}{75}
+\contentsline {chapter}{Bibliography}{81}
+\contentsline {chapter}{Appendix A}{81}
