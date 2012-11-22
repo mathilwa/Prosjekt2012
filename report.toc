@@ -11,6 +11,7 @@
 \contentsline {section}{\numberline {2.3}Example Case}{6}
 \contentsline {chapter}{\numberline {3}A Background Study}{9}
 \contentsline {section}{\numberline {3.1}Fall Prevention and Rehabilitation Today}{9}
+<<<<<<< HEAD
 \contentsline {section}{\numberline {3.2}Video games in general}{11}
 \contentsline {section}{\numberline {3.3}Exercise Games}{15}
 \contentsline {section}{\numberline {3.4}Exergames used as a Exercise tool}{15}
@@ -41,6 +42,37 @@
 \contentsline {subsection}{\numberline {5.2.1}Interview Methods}{39}
 \contentsline {subsection}{\numberline {5.2.2}Possible Pitfalls}{40}
 \contentsline {section}{\numberline {5.3}Interview Discussion}{41}
+=======
+\contentsline {section}{\numberline {3.2}Video games in general}{10}
+\contentsline {section}{\numberline {3.3}Exercise Games}{13}
+\contentsline {subsection}{\numberline {3.3.1}Dance Dance Revolution}{15}
+\contentsline {subsection}{\numberline {3.3.2}PlayStation EyeToy}{16}
+\contentsline {subsection}{\numberline {3.3.3}PlayStation Move}{16}
+\contentsline {subsection}{\numberline {3.3.4}Nintendo Wii}{17}
+\contentsline {subsection}{\numberline {3.3.5}Wii Balance Board}{18}
+\contentsline {subsection}{\numberline {3.3.6}Microsoft Kinect for Xbox 360 and Windows}{18}
+\contentsline {section}{\numberline {3.4}Using Exergames for Fall Prevention and Rehabilitation: A background Study}{19}
+\contentsline {chapter}{\numberline {4}Osterwalder's Business Model Ontology}{23}
+\contentsline {section}{\numberline {4.1}Product}{26}
+\contentsline {subsection}{\numberline {4.1.1}Value Proposition}{26}
+\contentsline {section}{\numberline {4.2}Customer Interface}{27}
+\contentsline {subsection}{\numberline {4.2.1}Customer Segments}{27}
+\contentsline {subsection}{\numberline {4.2.2}Channels}{27}
+\contentsline {subsection}{\numberline {4.2.3}Customer Relationships}{30}
+\contentsline {section}{\numberline {4.3}Infrastructure Management}{31}
+\contentsline {subsection}{\numberline {4.3.1}Key Resources}{31}
+\contentsline {subsection}{\numberline {4.3.2}Key Activities}{32}
+\contentsline {subsection}{\numberline {4.3.3}Key Partnerships}{33}
+\contentsline {section}{\numberline {4.4}Financial Aspects}{34}
+\contentsline {subsection}{\numberline {4.4.1}Revenue Streams}{34}
+\contentsline {subsection}{\numberline {4.4.2}Cost Structure}{35}
+\contentsline {chapter}{\numberline {5}Information Gathering}{37}
+\contentsline {section}{\numberline {5.1}First Phase}{37}
+\contentsline {section}{\numberline {5.2}Qualitative Research}{37}
+\contentsline {subsection}{\numberline {5.2.1}Interview Methods}{38}
+\contentsline {subsection}{\numberline {5.2.2}Possible Pitfalls}{39}
+\contentsline {section}{\numberline {5.3}Interview Discussion}{40}
+>>>>>>> 71989f85de44d02bedc44c3b8b9c3a5a0d677641
 \contentsline {chapter}{\numberline {6}Business Model for the Microsoft Kinect Based Exercise Game}{47}
 \contentsline {section}{\numberline {6.1}Product}{47}
 \contentsline {subsection}{\numberline {6.1.1}Value Proposition}{48}
@@ -54,9 +86,9 @@
 \contentsline {subsection}{\numberline {6.3.3}Key Partnerships}{57}
 \contentsline {section}{\numberline {6.4}Financial Aspects}{58}
 \contentsline {subsection}{\numberline {6.4.1}Revenue Streams}{58}
-\contentsline {subsection}{\numberline {6.4.2}Cost Structure}{67}
-\contentsline {chapter}{\numberline {7}Miscellaneous}{73}
-\contentsline {section}{\numberline {7.1}Security aspects}{73}
-\contentsline {section}{\numberline {7.2}NAV Hjelpemiddelsentralen}{75}
-\contentsline {chapter}{Bibliography}{81}
-\contentsline {chapter}{Appendix A}{81}
+\contentsline {subsection}{\numberline {6.4.2}Cost Structure}{68}
+\contentsline {chapter}{\numberline {7}Miscellaneous}{74}
+\contentsline {section}{\numberline {7.1}Security aspects}{74}
+\contentsline {section}{\numberline {7.2}NAV Hjelpemiddelsentralen}{76}
+\contentsline {chapter}{Bibliography}{82}
+\contentsline {chapter}{Appendix A}{82}
