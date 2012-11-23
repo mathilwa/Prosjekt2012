@@ -63,5 +63,6 @@
 \contentsline {chapter}{\numberline {8}Miscellaneous}{78}
 \contentsline {section}{\numberline {8.1}Security aspects}{78}
 \contentsline {section}{\numberline {8.2}NAV Hjelpemiddelsentralen}{80}
+\contentsline {section}{\numberline {8.3}Discussion}{80}
 \contentsline {chapter}{Bibliography}{87}
 \contentsline {chapter}{Appendix A}{87}
