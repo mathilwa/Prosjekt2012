@@ -60,9 +60,9 @@
 \contentsline {section}{\numberline {7.4}Financial Aspects}{62}
 \contentsline {subsection}{\numberline {7.4.1}Cost Structure}{62}
 \contentsline {subsection}{\numberline {7.4.2}Revenue Streams}{67}
-\contentsline {chapter}{\numberline {8}Miscellaneous}{76}
-\contentsline {section}{\numberline {8.1}Security aspects}{76}
-\contentsline {section}{\numberline {8.2}NAV Hjelpemiddelsentralen}{78}
-\contentsline {section}{\numberline {8.3}Discussion}{78}
-\contentsline {chapter}{Bibliography}{86}
-\contentsline {chapter}{Appendix A}{86}
+\contentsline {chapter}{\numberline {8}Miscellaneous}{77}
+\contentsline {section}{\numberline {8.1}Security aspects}{77}
+\contentsline {section}{\numberline {8.2}NAV Hjelpemiddelsentralen}{79}
+\contentsline {section}{\numberline {8.3}Discussion}{79}
+\contentsline {chapter}{Bibliography}{88}
+\contentsline {chapter}{Appendix A}{88}
