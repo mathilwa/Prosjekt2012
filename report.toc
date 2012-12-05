@@ -53,16 +53,16 @@
 \contentsline {subsection}{\numberline {7.2.1}Customer Segments}{52}
 \contentsline {subsection}{\numberline {7.2.2}Channels}{54}
 \contentsline {subsection}{\numberline {7.2.3}Customer Relationships}{57}
-\contentsline {section}{\numberline {7.3}Infrastructure Management}{57}
+\contentsline {section}{\numberline {7.3}Infrastructure Management}{58}
 \contentsline {subsection}{\numberline {7.3.1}Key Resources}{58}
 \contentsline {subsection}{\numberline {7.3.2}Key Activities}{60}
 \contentsline {subsection}{\numberline {7.3.3}Key Partnerships}{61}
 \contentsline {section}{\numberline {7.4}Financial Aspects}{62}
 \contentsline {subsection}{\numberline {7.4.1}Revenue Streams}{62}
-\contentsline {subsection}{\numberline {7.4.2}Cost Structure}{72}
-\contentsline {chapter}{\numberline {8}Miscellaneous}{78}
-\contentsline {section}{\numberline {8.1}Security aspects}{78}
-\contentsline {section}{\numberline {8.2}NAV Hjelpemiddelsentralen}{80}
-\contentsline {section}{\numberline {8.3}Discussion}{80}
-\contentsline {chapter}{Bibliography}{88}
-\contentsline {chapter}{Appendix A}{88}
+\contentsline {subsection}{\numberline {7.4.2}Cost Structure}{70}
+\contentsline {chapter}{\numberline {8}Miscellaneous}{77}
+\contentsline {section}{\numberline {8.1}Security aspects}{77}
+\contentsline {section}{\numberline {8.2}NAV Hjelpemiddelsentralen}{79}
+\contentsline {section}{\numberline {8.3}Discussion}{79}
+\contentsline {chapter}{Bibliography}{87}
+\contentsline {chapter}{Appendix A}{87}
