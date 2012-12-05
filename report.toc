@@ -53,7 +53,7 @@
 \contentsline {subsection}{\numberline {7.2.1}Customer Segments}{52}
 \contentsline {subsection}{\numberline {7.2.2}Channels}{54}
 \contentsline {subsection}{\numberline {7.2.3}Customer Relationships}{57}
-\contentsline {section}{\numberline {7.3}Infrastructure Management}{58}
+\contentsline {section}{\numberline {7.3}Infrastructure Management}{57}
 \contentsline {subsection}{\numberline {7.3.1}Key Resources}{58}
 \contentsline {subsection}{\numberline {7.3.2}Key Activities}{60}
 \contentsline {subsection}{\numberline {7.3.3}Key Partnerships}{61}
