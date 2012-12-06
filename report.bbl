@@ -312,30 +312,6 @@ Michael~D. Myers and Michael Newman.
 \newblock The qualitative interview in is research: Examining the craft.
 \newblock {\em Information and Organization}, 17(1):2 -- 26, 2007.
 
-\bibitem{elkjopwii}
-Elkj{ø}p.
-\newblock \url{http://www.elkjop.no/search?WFSimpleSearch_NameOrID=wii}.
-\newblock visited: 05/12/12.
-
-\bibitem{elkjopkinect}
-Elkj{ø}p.
-\newblock \url{http://www.elkjop.no/search?WFSimpleSearch_NameOrID=kinect}.
-\newblock visited: 05/12/12.
-
-\bibitem{stretchpulley}
-AlfaCareAS.
-\newblock Flexexertube 1,4m.
-\newblock
-  \url{http://www.alfacare.no/produkter/treningsutstyr/elastikk/flex_exer_tube}.
-\newblock visited: 05/12/12.
-
-\bibitem{treadmill}
-AlfaCareAS.
-\newblock Abilica sportsart t670.
-\newblock
-  \url{http://www.alfacare.no/produkter/treningsutstyr/kondisjon/tredemoller/abilica_sportsart_T670}.
-\newblock visited: 05/12/12.
-
 \bibitem{pricekinect}
 Komplett.no.
 \newblock
@@ -377,5 +353,29 @@ Carl Shapiro and Hal~R. Varian.
 \newblock {\em Information {Rules} {-} A {S}trategic {G}uide to the {N}etwork
   {E}conomy}.
 \newblock Hardward {B}usiness {S}chool {P}ress, 1999.
+
+\bibitem{elkjopwii}
+Elkj{ø}p.
+\newblock \url{http://www.elkjop.no/search?WFSimpleSearch_NameOrID=wii}.
+\newblock visited: 05/12/12.
+
+\bibitem{elkjopkinect}
+Elkj{ø}p.
+\newblock \url{http://www.elkjop.no/search?WFSimpleSearch_NameOrID=kinect}.
+\newblock visited: 05/12/12.
+
+\bibitem{stretchpulley}
+AlfaCareAS.
+\newblock Flexexertube 1,4m.
+\newblock
+  \url{http://www.alfacare.no/produkter/treningsutstyr/elastikk/flex_exer_tube}.
+\newblock visited: 05/12/12.
+
+\bibitem{treadmill}
+AlfaCareAS.
+\newblock Abilica sportsart t670.
+\newblock
+  \url{http://www.alfacare.no/produkter/treningsutstyr/kondisjon/tredemoller/abilica_sportsart_T670}.
+\newblock visited: 05/12/12.
 
 \end{thebibliography}
