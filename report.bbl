@@ -148,6 +148,11 @@ Statistisk sentralbyr{å}.
   2012.
 \newblock visited: 17/11/12.
 
+\bibitem{promotingexercise}
+Hayeon Song, Wei Peng, and Kwan~Min Lee.
+\newblock Promoting exercise self-efficacy with an exergame.
+\newblock {\em Journal of Health Communication}, 16(2):148--162, 2011.
+
 \bibitem{gamingforhealth}
 A.~Laikari.
 \newblock Exergaming-gaming for health: A bridge between real world and virtual
@@ -160,19 +165,6 @@ B.~Chamberlin and R.~Gallagher.
 \newblock Exergames: Using video games to promote physical activity.
 \newblock In {\em Children, Youth and Families At Risk Conference, San Antonio,
   TX}, 2008.
-
-\bibitem{promotingexercise}
-Hayeon Song, Wei Peng, and Kwan~Min Lee.
-\newblock Promoting exercise self-efficacy with an exergame.
-\newblock {\em Journal of Health Communication}, 16(2):148--162, 2011.
-
-\bibitem{garcia2012exergames}
-J.A. GARCIA, N.K. Felix, D.~Schoene, S.T. Smith, and Y.~Pisan.
-\newblock Exergames for the elderly: Towards an embedded kinect-based clinical
-  test of falls risk.
-\newblock In {\em Health Informatics: Building a Healthcare Future Through
-  Trusted Information-Selected Papers from the 20th Australian National Health
-  Informatics Conference (Hic 2012)}, pages 51--57. Ios PressInc, 2012.
 
 \bibitem{exergamesforelderly}
 E.~Brox, L.F. Luque, G.J. Evertsen, and J.E.G. Hern{\'a}ndez.
@@ -218,12 +210,6 @@ Eye{T}oy, {I}nnovation and {B}eyond.
 \newblock
   \url{http://blog.us.playstation.com/2010/11/03/eyetoy-innovation-and-beyond/comment-page-2/#comment-478157}.
 \newblock visited: 24/09/12.
-
-\bibitem{eyetoyrehab}
-Debbie Rand, Rachel Kizony, and Patrice (Tamar)~L. Weiss.
-\newblock The {S}ony {P}laystation {II} {E}ye{T}oy: Low-{C}ost {V}irtual
-  {R}eality for {U}se in {R}ehabilitation.
-\newblock {\em Journal of Neurologic Physical Therapy}, 2008.
 
 \bibitem{comparison}
 Kazumoto Tanaka, Jim Parker, Graham Baradoy, Dwayne Sheehan, John~R. Holash,
@@ -288,6 +274,13 @@ Marie Williams, Roy Soiza, Alison Jenkinson, and Alison Stewart.
   feasibility study of the acceptability of the nintendo(r) wiifit in
   community-dwelling fallers.
 \newblock {\em BMC Research Notes}, 3(1):238, 2010.
+
+\bibitem{fes}
+Lucy Yardley, Nina Beyer, Klaus Hauer, Gertrudis Kempen, Chantal Piot-Ziegler,
+  and Chris Todd.
+\newblock Development and initial validation of the falls efficacy
+  scale-international (fes-i).
+\newblock {\em Age and Ageing}, 34(6), 2005.
 
 \bibitem{osterwalderthesis}
 Alexander Osterwalder.
