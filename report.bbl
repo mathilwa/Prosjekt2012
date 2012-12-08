@@ -302,8 +302,8 @@ Gerd Lilledahl, Atle Wehn~Hegnes, Tone Opdahl, Henrik Gi{æ}ver, Finn Johansen,
 
 \bibitem{interview}
 Michael~D. Myers and Michael Newman.
-\newblock The qualitative interview in is research: Examining the craft.
-\newblock {\em Information and Organization}, 17(1):2 -- 26, 2007.
+\newblock The qualitative interview in {IS} research: Examining the craft.
+\newblock {\em Information and Organization}, 17(1), 2007.
 
 \bibitem{pricekinect}
 Komplett.no.
@@ -370,5 +370,10 @@ AlfaCareAS.
 \newblock
   \url{http://www.alfacare.no/produkter/treningsutstyr/kondisjon/tredemoller/abilica_sportsart_T670}.
 \newblock visited: 05/12/12.
+
+\bibitem{scurve}
+Everett~M. Rogers.
+\newblock {\em Diffusion of {I}nnovations}.
+\newblock A Division of Simon \& Schuster Inc., 4 edition, 1995.
 
 \end{thebibliography}

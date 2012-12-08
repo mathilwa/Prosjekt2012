@@ -11,18 +11,18 @@
 \contentsline {chapter}{\numberline {3}Health Politics in Norway Today}{7}
 \contentsline {section}{\numberline {3.1}Samhandlingsreformen}{8}
 \contentsline {section}{\numberline {3.2}Welfare Technology}{9}
-\contentsline {section}{\numberline {3.3}Fall Prevention and Rehabilitation Today}{9}
-\contentsline {section}{\numberline {3.4}Existing Prevention Programs}{10}
+\contentsline {section}{\numberline {3.3}Fall Prevention and Rehabilitation Today}{10}
+\contentsline {section}{\numberline {3.4}Existing Prevention Programs}{11}
 \contentsline {chapter}{\numberline {4}Technological Aspects}{15}
 \contentsline {section}{\numberline {4.1}Computer and Video Games}{16}
-\contentsline {section}{\numberline {4.2}Exercise Games}{18}
+\contentsline {section}{\numberline {4.2}Exercise Games}{20}
 \contentsline {subsection}{\numberline {4.2.1}Dance Dance Revolution}{21}
-\contentsline {subsection}{\numberline {4.2.2}PlayStation EyeToy}{21}
+\contentsline {subsection}{\numberline {4.2.2}PlayStation EyeToy}{22}
 \contentsline {subsection}{\numberline {4.2.3}PlayStation Move}{22}
-\contentsline {subsection}{\numberline {4.2.4}Nintendo Wii}{22}
+\contentsline {subsection}{\numberline {4.2.4}Nintendo Wii}{23}
 \contentsline {subsection}{\numberline {4.2.5}Wii Fit Plus}{23}
-\contentsline {subsection}{\numberline {4.2.6}Microsoft Kinect for Xbox 360 and Windows}{23}
-\contentsline {section}{\numberline {4.3}Using Exergames for Fall Prevention and Rehabilitation: A background Study}{24}
+\contentsline {subsection}{\numberline {4.2.6}Microsoft Kinect for Xbox 360 and Windows}{24}
+\contentsline {section}{\numberline {4.3}Using Exergames for Fall Prevention and Rehabilitation: A background Study}{25}
 \contentsline {chapter}{\numberline {5}Osterwalder's Business Model Ontology}{29}
 \contentsline {section}{\numberline {5.1}Product}{32}
 \contentsline {subsection}{\numberline {5.1.1}Value Proposition}{32}
@@ -55,10 +55,11 @@
 \contentsline {subsection}{\numberline {7.3.3}Key Partnerships}{65}
 \contentsline {section}{\numberline {7.4}Financial Aspects}{65}
 \contentsline {subsection}{\numberline {7.4.1}Cost Structure}{66}
-\contentsline {subsection}{\numberline {7.4.2}Revenue Streams}{71}
-\contentsline {chapter}{\numberline {8}Discussion}{83}
-\contentsline {section}{\numberline {8.1}Security aspects}{83}
-\contentsline {section}{\numberline {8.2}NAV Hjelpemiddelsentralen}{85}
-\contentsline {section}{\numberline {8.3}Discussion}{85}
-\contentsline {chapter}{Bibliography}{95}
-\contentsline {chapter}{Appendix A}{95}
+\contentsline {subsection}{\numberline {7.4.2}Revenue Streams}{73}
+\contentsline {subsection}{\numberline {7.4.3}Financial Analysis}{83}
+\contentsline {chapter}{\numberline {8}Discussion}{87}
+\contentsline {section}{\numberline {8.1}Security aspects}{87}
+\contentsline {section}{\numberline {8.2}NAV Hjelpemiddelsentralen}{89}
+\contentsline {section}{\numberline {8.3}Discussion}{89}
+\contentsline {chapter}{Bibliography}{99}
+\contentsline {chapter}{Appendix A}{99}
