@@ -110,6 +110,38 @@ Education~Database Online.
 \newblock \url{http://www.onlineeducation.net/videogame}.
 \newblock visited: 02/11/12.
 
+\bibitem{nintendolife}
+nintendolife.
+\newblock Nintendo reveals console and software sales statistics.
+\newblock
+  \url{http://www.nintendolife.com/news/2012/04/nintendo_reveals_console_and_software_sales_statistics}.
+\newblock visited: 08/12/12.
+
+\bibitem{microsoftxbox}
+Microsoft~Investor Relations.
+\newblock Earnings release fy13 q1.
+\newblock
+  \url{http://www.microsoft.com/investor/EarningsAndFinancials/Earnings/Kpi/FY13/Q1/Detail.aspx}.
+\newblock visited: 08/12/12.
+
+\bibitem{vgchartzxbox}
+VGChartz.
+\newblock The top-selling xbox 360 games.
+\newblock \url{http://www.vgchartz.com/platform/7/xbox-360/}.
+\newblock visited: 08/11/12.
+
+\bibitem{vgchartzwii}
+VGChartz.
+\newblock The top-selling wii games.
+\newblock \url{http://www.vgchartz.com/platform/2/wii/}.
+\newblock visited: 08/12/12.
+
+\bibitem{vgchartzhardware}
+VGChartz.
+\newblock Platform totals.
+\newblock \url{http://www.vgchartz.com/analysis/platform_totals/}.
+\newblock visited: 08/12/12.
+
 \bibitem{videogameforcast}
 Forbes.
 \newblock New reports forecast global video game industry will reach \$82
@@ -129,6 +161,13 @@ Entertaintment Software~Rating Board.
 \newblock \url{http://www.esrb.org/about/video-game-industry-statistics.jsp}.
 \newblock visited: 02/11/12.
 
+\bibitem{statistics2012real}
+Entertainment~Software Association.
+\newblock 2012 sales, demographic and usage data. essential facts about the
+  computer and video game industry.
+\newblock \url{http://www.theesa.com/facts/pdfs/ESA_EF_2012.pdf}.
+\newblock visited: 05/12/12.
+
 \bibitem{ssb2010}
 Norsk mediebarometer 2010.
 \newblock Spill, tekst-tv og telefon.
@@ -140,13 +179,6 @@ Norsk mediebarometer 2011.
 \newblock Spill, tekst-tv og telefon.
 \newblock \url{http://www.ssb.no/medie/sa128/spill_tekst.pdf}, 2011.
 \newblock visited: 16/11/12.
-
-\bibitem{folketall2012}
-Statistisk sentralbyr{å}.
-\newblock Folkemengd, etter alder og fylke. absolutte tal. 1. januar 2012.
-\newblock \url{http://www.ssb.no/folkemengde/arkiv/tab-2012-02-23-01.html},
-  2012.
-\newblock visited: 17/11/12.
 
 \bibitem{promotingexercise}
 Hayeon Song, Wei Peng, and Kwan~Min Lee.
@@ -289,6 +321,14 @@ Lucy Yardley, Nina Beyer, Klaus Hauer, Gertrudis Kempen, Chantal Piot-Ziegler,
 \newblock Development and initial validation of the falls efficacy
   scale-international (fes-i).
 \newblock {\em Age and Ageing}, 34(6), 2005.
+
+\bibitem{garcia2012exergames}
+J.A. GARCIA, N.K. Felix, D.~Schoene, S.T. Smith, and Y.~Pisan.
+\newblock Exergames for the elderly: Towards an embedded kinect-based clinical
+  test of falls risk.
+\newblock In {\em Health Informatics: Building a Healthcare Future Through
+  Trusted Information-Selected Papers from the 20th Australian National Health
+  Informatics Conference (Hic 2012)}, pages 51--57. Ios PressInc, 2012.
 
 \bibitem{osterwalderthesis}
 Alexander Osterwalder.
