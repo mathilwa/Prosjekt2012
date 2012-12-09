@@ -56,7 +56,7 @@
 \contentsline {section}{\numberline {7.4}Financial Aspects}{69}
 \contentsline {subsection}{\numberline {7.4.1}Cost Structure}{70}
 \contentsline {subsection}{\numberline {7.4.2}Revenue Streams}{77}
-\contentsline {subsection}{\numberline {7.4.3}Financial Analysis}{81}
+\contentsline {subsection}{\numberline {7.4.3}Financial Analysis}{79}
 \contentsline {chapter}{\numberline {8}Discussion}{91}
 \contentsline {section}{\numberline {8.1}Security aspects}{91}
 \contentsline {section}{\numberline {8.2}NAV Hjelpemiddelsentralen}{93}

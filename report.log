@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  9 DEC 2012 14:09
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  9 DEC 2012 16:44
 entering extended mode
 **report.tex
 (C:\Users\Line\Documents\GitHub\Prosjekt2012\report.tex
@@ -1109,63 +1109,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 184--194
  []
 
 [74] [75]
-Overfull \hbox (29.23392pt too wide) in paragraph at lines 197--207
+Overfull \hbox (39.72758pt too wide) in paragraph at lines 197--207
  [][] 
  []
 
-<revenuestreamlicense.png, id=299, 525.46312pt x 332.74312pt>
-File: revenuestreamlicense.png Graphic file (type png)
 
-<use revenuestreamlicense.png>
-Package pdftex.def Info: revenuestreamlicense.png used on input line 241.
-(pdftex.def)             Requested size: 420.37106pt x 266.19484pt.
-
-Overfull \hbox (64.37106pt too wide) in paragraph at lines 241--242
- [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 227--247
+Underfull \hbox (badness 10000) in paragraph at lines 227--236
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--247
+Underfull \hbox (badness 10000) in paragraph at lines 227--236
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--247
+Underfull \hbox (badness 10000) in paragraph at lines 227--236
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--247
+Underfull \hbox (badness 10000) in paragraph at lines 227--236
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--247
+Underfull \hbox (badness 10000) in paragraph at lines 227--236
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--247
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 227--247
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 227--247
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 227--247
+Underfull \hbox (badness 10000) in paragraph at lines 227--236
 
  []
 
@@ -1176,100 +1150,126 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 3780) has occurred while \output is active []
 
  [77]
-[78] [79] [80 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamlicense
-.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
+[78]
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
 
  []
 
-[81] <scurve.png, id=320, 718.18312pt x 562.35094pt>
+[79] <scurve.png, id=311, 718.18312pt x 562.35094pt>
 File: scurve.png Graphic file (type png)
  <use scurve.png>
-Package pdftex.def Info: scurve.png used on input line 253.
+Package pdftex.def Info: scurve.png used on input line 242.
 (pdftex.def)             Requested size: 287.26816pt x 224.93639pt.
 
-<revenuestreamprice.png, id=321, 561.59813pt x 306.39468pt>
+<revenuestreamprice.png, id=312, 561.59813pt x 306.39468pt>
 File: revenuestreamprice.png Graphic file (type png)
 
 <use revenuestreamprice.png>
-Package pdftex.def Info: revenuestreamprice.png used on input line 264.
+Package pdftex.def Info: revenuestreamprice.png used on input line 253.
 (pdftex.def)             Requested size: 449.27911pt x 245.11607pt.
 
-Overfull \hbox (93.27911pt too wide) in paragraph at lines 264--265
+Overfull \hbox (93.27911pt too wide) in paragraph at lines 253--254
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--268
+Underfull \hbox (badness 10000) in paragraph at lines 248--257
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--268
+Underfull \hbox (badness 10000) in paragraph at lines 248--257
 
  []
 
-[82] [83 <C:/Users/Line/Documents/GitHub/Prosjekt2012/scurve.png>]
-<fixedlowprice.png, id=328, 480.29437pt x 288.3272pt>
+[80 <C:/Users/Line/Documents/GitHub/Prosjekt2012/scurve.png>]
+<fixedlowprice.png, id=316, 480.29437pt x 288.3272pt>
 File: fixedlowprice.png Graphic file (type png)
  <use fixedlowprice.png>
-Package pdftex.def Info: fixedlowprice.png used on input line 273.
+Package pdftex.def Info: fixedlowprice.png used on input line 262.
 (pdftex.def)             Requested size: 336.20375pt x 201.82765pt.
 
-<revenuestreamquantity.png, id=329, 595.47469pt x 341.77687pt>
+<revenuestreamquantity.png, id=317, 595.47469pt x 341.77687pt>
 File: revenuestreamquantity.png Graphic file (type png)
 
 <use revenuestreamquantity.png>
-Package pdftex.def Info: revenuestreamquantity.png used on input line 283.
+Package pdftex.def Info: revenuestreamquantity.png used on input line 272.
 (pdftex.def)             Requested size: 416.82944pt x 239.24217pt.
 
-Overfull \hbox (60.82944pt too wide) in paragraph at lines 283--284
+Overfull \hbox (60.82944pt too wide) in paragraph at lines 272--273
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 269--287
+Underfull \hbox (badness 10000) in paragraph at lines 258--276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 269--287
+Underfull \hbox (badness 10000) in paragraph at lines 258--276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 269--287
+Underfull \hbox (badness 10000) in paragraph at lines 258--276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 269--287
+Underfull \hbox (badness 10000) in paragraph at lines 258--276
 
  []
 
-[84] [85 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamprice.png>]
+[81] [82 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamprice.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [86 <C:/Users/Line/Documents/GitHub/Prosjekt2012/fixedlowprice.png>]
-<relationpriceandunits.png, id=339, 808.52063pt x 505.89pt>
+ [83 <C:/Users/Line/Documents/GitHub/Prosjekt2012/fixedlowprice.png>]
+<relationpriceandunits.png, id=328, 733.23938pt x 500.62032pt>
 File: relationpriceandunits.png Graphic file (type png)
 
 <use relationpriceandunits.png>
-Package pdftex.def Info: relationpriceandunits.png used on input line 290.
-(pdftex.def)             Requested size: 485.11612pt x 303.53633pt.
+Package pdftex.def Info: relationpriceandunits.png used on input line 279.
+(pdftex.def)             Requested size: 439.94702pt x 300.37451pt.
 
-Overfull \hbox (129.11612pt too wide) in paragraph at lines 290--291
+Overfull \hbox (83.94702pt too wide) in paragraph at lines 279--280
 [][] 
  []
 
-) [87] [88 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamquantity.p
-ng>] [89 <C:/Users/Line/Documents/GitHub/Prosjekt2012/relationpriceandunits.png
->] [90
+<revenuestreamlicense.png, id=329, 525.46312pt x 332.74312pt>
+File: revenuestreamlicense.png Graphic file (type png)
+
+<use revenuestreamlicense.png>
+Package pdftex.def Info: revenuestreamlicense.png used on input line 288.
+(pdftex.def)             Requested size: 420.37106pt x 266.19484pt.
+
+Overfull \hbox (64.37106pt too wide) in paragraph at lines 288--289
+ [] 
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 283--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--33
+
+ []
+
+[84] [85 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamquantity.png
+>] [86 <C:/Users/Line/Documents/GitHub/Prosjekt2012/relationpriceandunits.png>]
+[87] [88 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamlicense.png>
+] [89] [90
 
 ] (C:\Users\Line\Documents\GitHub\Prosjekt2012\discussion.tex
 Chapter 8.
@@ -1652,7 +1652,7 @@ c/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfon
 ts/cm/cmr9.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmti10.p
 fb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on report.pdf (119 pages, 687418 bytes).
+Output written on report.pdf (119 pages, 686075 bytes).
 PDF statistics:
  449 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
