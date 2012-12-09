@@ -174,18 +174,18 @@ E.~Brox, L.F. Luque, G.J. Evertsen, and J.E.G. Hern{\'a}ndez.
   (PervasiveHealth), 2011 5th International Conference on}, pages 546--549.
   IEEE, 2011.
 
-\bibitem{staiano2011exergames}
-A.E. Staiano and S.L. Calvert.
-\newblock Exergames for physical education courses: Physical, social, and
-  cognitive benefits.
-\newblock {\em Child development perspectives}, 5(2):93--98, 2011.
-
 \bibitem{lange2011development}
 B.~Lange, C.Y. Chang, E.~Suma, B.~Newman, A.S. Rizzo, and M.~Bolas.
 \newblock Development and evaluation of low cost game-based balance
   rehabilitation tool using the microsoft kinect sensor.
 \newblock In {\em Engineering in Medicine and Biology Society, EMBC, 2011
   Annual International Conference of the IEEE}, pages 1831--1834. IEEE, 2011.
+
+\bibitem{staiano2011exergames}
+A.E. Staiano and S.L. Calvert.
+\newblock Exergames for physical education courses: Physical, social, and
+  cognitive benefits.
+\newblock {\em Child development perspectives}, 5(2):93--98, 2011.
 
 \bibitem{bogost2005rhetoric}
 I.~Bogost.
@@ -267,6 +267,14 @@ Kinect for {W}indows.
 \newblock
   \url{http://www.microsoft.com/en-us/kinectforwindows/develop/new.aspx}.
 \newblock visited: 23/09/12.
+
+\bibitem{roleofvideogames}
+Brian~A. Primack, Mary~V. Carroll, Megan McNamara, Mary~Lou Klem, Brandy King,
+  Michael Rich, Chun~W. Chan, and Smita Nayak.
+\newblock Role of video games in improving health-related outcomes: A
+  systematic review.
+\newblock {\em American journal of preventive medicine}, 42(6):630--638, June
+  2012.
 
 \bibitem{excell}
 Marie Williams, Roy Soiza, Alison Jenkinson, and Alison Stewart.
