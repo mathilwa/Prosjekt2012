@@ -15,51 +15,51 @@
 \contentsline {section}{\numberline {3.4}Existing Prevention Programs}{11}
 \contentsline {chapter}{\numberline {4}Technological Aspects}{15}
 \contentsline {section}{\numberline {4.1}Computer and Video Games}{16}
-\contentsline {section}{\numberline {4.2}Exercise Games}{20}
-\contentsline {subsection}{\numberline {4.2.1}Dance Dance Revolution}{21}
+\contentsline {section}{\numberline {4.2}Exercise Games}{19}
+\contentsline {subsection}{\numberline {4.2.1}Dance Dance Revolution}{22}
 \contentsline {subsection}{\numberline {4.2.2}PlayStation EyeToy}{22}
-\contentsline {subsection}{\numberline {4.2.3}PlayStation Move}{22}
-\contentsline {subsection}{\numberline {4.2.4}Nintendo Wii}{22}
-\contentsline {subsection}{\numberline {4.2.5}Wii Fit Plus}{23}
+\contentsline {subsection}{\numberline {4.2.3}PlayStation Move}{23}
+\contentsline {subsection}{\numberline {4.2.4}Nintendo Wii}{23}
+\contentsline {subsection}{\numberline {4.2.5}Wii Fit Plus}{24}
 \contentsline {subsection}{\numberline {4.2.6}Microsoft Kinect for Xbox 360 and Windows}{24}
-\contentsline {section}{\numberline {4.3}Using Exergames for Fall Prevention and Rehabilitation: A background Study}{24}
-\contentsline {chapter}{\numberline {5}Osterwalder's Business Model Ontology}{31}
-\contentsline {section}{\numberline {5.1}Product}{34}
-\contentsline {subsection}{\numberline {5.1.1}Value Proposition}{34}
-\contentsline {section}{\numberline {5.2}Customer Interface}{35}
-\contentsline {subsection}{\numberline {5.2.1}Customer Segments}{35}
-\contentsline {subsection}{\numberline {5.2.2}Channels}{35}
-\contentsline {subsection}{\numberline {5.2.3}Customer Relationships}{38}
-\contentsline {section}{\numberline {5.3}Infrastructure Management}{39}
-\contentsline {subsection}{\numberline {5.3.1}Key Resources}{39}
-\contentsline {subsection}{\numberline {5.3.2}Key Activities}{40}
-\contentsline {subsection}{\numberline {5.3.3}Key Partnerships}{41}
-\contentsline {section}{\numberline {5.4}Financial Aspects}{42}
-\contentsline {subsection}{\numberline {5.4.1}Revenue Streams}{42}
-\contentsline {subsection}{\numberline {5.4.2}Cost Structure}{43}
-\contentsline {chapter}{\numberline {6}Information Gathering}{45}
-\contentsline {section}{\numberline {6.1}Qualitative Research}{45}
-\contentsline {subsection}{\numberline {6.1.1}Interview Methods}{46}
-\contentsline {subsection}{\numberline {6.1.2}Possible Pitfalls}{47}
-\contentsline {section}{\numberline {6.2}Interview Discussion}{48}
-\contentsline {chapter}{\numberline {7}Business Model for the Microsoft Kinect Based Exercise Game}{55}
-\contentsline {section}{\numberline {7.1}Product}{55}
-\contentsline {subsection}{\numberline {7.1.1}Value Proposition}{56}
-\contentsline {section}{\numberline {7.2}Customer Interface}{57}
-\contentsline {subsection}{\numberline {7.2.1}Customer Segments}{57}
-\contentsline {subsection}{\numberline {7.2.2}Channels}{59}
-\contentsline {subsection}{\numberline {7.2.3}Customer Relationships}{62}
-\contentsline {section}{\numberline {7.3}Infrastructure Management}{63}
-\contentsline {subsection}{\numberline {7.3.1}Key Resources}{63}
-\contentsline {subsection}{\numberline {7.3.2}Key Activities}{65}
-\contentsline {subsection}{\numberline {7.3.3}Key Partnerships}{67}
-\contentsline {section}{\numberline {7.4}Financial Aspects}{67}
-\contentsline {subsection}{\numberline {7.4.1}Cost Structure}{68}
-\contentsline {subsection}{\numberline {7.4.2}Revenue Streams}{75}
-\contentsline {subsection}{\numberline {7.4.3}Financial Analysis}{85}
-\contentsline {chapter}{\numberline {8}Discussion}{89}
-\contentsline {section}{\numberline {8.1}Security aspects}{89}
-\contentsline {section}{\numberline {8.2}NAV Hjelpemiddelsentralen}{91}
-\contentsline {section}{\numberline {8.3}Discussion}{91}
-\contentsline {chapter}{Bibliography}{101}
-\contentsline {chapter}{Appendix A}{101}
+\contentsline {section}{\numberline {4.3}Using Exergames for Fall Prevention and Rehabilitation: A background Study}{25}
+\contentsline {chapter}{\numberline {5}Osterwalder's Business Model Ontology}{33}
+\contentsline {section}{\numberline {5.1}Product}{36}
+\contentsline {subsection}{\numberline {5.1.1}Value Proposition}{36}
+\contentsline {section}{\numberline {5.2}Customer Interface}{37}
+\contentsline {subsection}{\numberline {5.2.1}Customer Segments}{37}
+\contentsline {subsection}{\numberline {5.2.2}Channels}{37}
+\contentsline {subsection}{\numberline {5.2.3}Customer Relationships}{40}
+\contentsline {section}{\numberline {5.3}Infrastructure Management}{41}
+\contentsline {subsection}{\numberline {5.3.1}Key Resources}{41}
+\contentsline {subsection}{\numberline {5.3.2}Key Activities}{42}
+\contentsline {subsection}{\numberline {5.3.3}Key Partnerships}{43}
+\contentsline {section}{\numberline {5.4}Financial Aspects}{44}
+\contentsline {subsection}{\numberline {5.4.1}Revenue Streams}{44}
+\contentsline {subsection}{\numberline {5.4.2}Cost Structure}{45}
+\contentsline {chapter}{\numberline {6}Information Gathering}{47}
+\contentsline {section}{\numberline {6.1}Qualitative Research}{47}
+\contentsline {subsection}{\numberline {6.1.1}Interview Methods}{48}
+\contentsline {subsection}{\numberline {6.1.2}Possible Pitfalls}{49}
+\contentsline {section}{\numberline {6.2}Interview Discussion}{50}
+\contentsline {chapter}{\numberline {7}Business Model for the Microsoft Kinect Based Exercise Game}{57}
+\contentsline {section}{\numberline {7.1}Product}{57}
+\contentsline {subsection}{\numberline {7.1.1}Value Proposition}{58}
+\contentsline {section}{\numberline {7.2}Customer Interface}{59}
+\contentsline {subsection}{\numberline {7.2.1}Customer Segments}{59}
+\contentsline {subsection}{\numberline {7.2.2}Channels}{61}
+\contentsline {subsection}{\numberline {7.2.3}Customer Relationships}{64}
+\contentsline {section}{\numberline {7.3}Infrastructure Management}{65}
+\contentsline {subsection}{\numberline {7.3.1}Key Resources}{65}
+\contentsline {subsection}{\numberline {7.3.2}Key Activities}{67}
+\contentsline {subsection}{\numberline {7.3.3}Key Partnerships}{69}
+\contentsline {section}{\numberline {7.4}Financial Aspects}{69}
+\contentsline {subsection}{\numberline {7.4.1}Cost Structure}{70}
+\contentsline {subsection}{\numberline {7.4.2}Revenue Streams}{77}
+\contentsline {subsection}{\numberline {7.4.3}Financial Analysis}{87}
+\contentsline {chapter}{\numberline {8}Discussion}{91}
+\contentsline {section}{\numberline {8.1}Security aspects}{91}
+\contentsline {section}{\numberline {8.2}NAV Hjelpemiddelsentralen}{93}
+\contentsline {section}{\numberline {8.3}Discussion}{93}
+\contentsline {chapter}{Bibliography}{103}
+\contentsline {chapter}{Appendix A}{103}

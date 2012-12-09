@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  9 DEC 2012 10:56
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  9 DEC 2012 11:39
 entering extended mode
 **report.tex
 (C:\Users\Line\Documents\GitHub\Prosjekt2012\report.tex
@@ -527,43 +527,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
-<consolewarsall.png, id=82, 775.39688pt x 246.9225pt>
-File: consolewarsall.png Graphic file (type png)
- <use consolewarsall.png>
-Package pdftex.def Info: consolewarsall.png used on input line 12.
-(pdftex.def)             Requested size: 387.6975pt x 123.46094pt.
+<consolewarwii.png, id=82, 691.83469pt x 84.315pt>
+File: consolewarwii.png Graphic file (type png)
+ <use consolewarwii.png>
+Package pdftex.def Info: consolewarwii.png used on input line 12.
+(pdftex.def)             Requested size: 345.91649pt x 42.15738pt.
 
-Overfull \hbox (31.6975pt too wide) in paragraph at lines 12--13
- [] 
- []
-
-<gamersusnorway.png, id=83, 758.835pt x 249.93375pt>
-File: gamersusnorway.png Graphic file (type png)
- <use gamersusnorway.png>
-Package pdftex.def Info: gamersusnorway.png used on input line 22.
-(pdftex.def)             Requested size: 379.41658pt x 124.96657pt.
-
-Overfull \hbox (23.41658pt too wide) in paragraph at lines 22--23
- [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--26
+Underfull \hbox (badness 10000) in paragraph at lines 6--16
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--26
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--26
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--26
+Underfull \hbox (badness 10000) in paragraph at lines 6--16
 
  []
 
@@ -573,108 +548,177 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [15
 
 ]
-[16] [17 <C:/Users/Line/Documents/GitHub/Prosjekt2012/consolewarsall.png>]
-<gamestatisticsnorway.png, id=95, 388.45125pt x 224.33812pt>
+[16] <xboxwiisales.png, id=91, 550.30594pt x 408.77719pt>
+File: xboxwiisales.png Graphic file (type png)
+
+<use xboxwiisales.png>
+Package pdftex.def Info: xboxwiisales.png used on input line 20.
+(pdftex.def)             Requested size: 385.21153pt x 286.14207pt.
+
+Overfull \hbox (29.21153pt too wide) in paragraph at lines 20--21
+ [] 
+ []
+
+
+LaTeX Warning: Citation `microsoftxbox' on page 17 undefined on input line 21.
+
+
+LaTeX Warning: Citation `vgchartzxbox' on page 17 undefined on input line 21.
+
+
+LaTeX Warning: Citation `vgchartzwii' on page 17 undefined on input line 21.
+
+
+LaTeX Warning: Citation `vgchartzhardware' on page 17 undefined on input line 2
+1.
+
+
+LaTeX Warning: Citation `nintendolife' on page 17 undefined on input line 21.
+
+
+LaTeX Warning: Citation `microsoftxbox' on page 17 undefined on input line 21.
+
+
+LaTeX Warning: Citation `vgchartzxbox' on page 17 undefined on input line 21.
+
+
+LaTeX Warning: Citation `vgchartzwii' on page 17 undefined on input line 21.
+
+
+LaTeX Warning: Citation `vgchartzhardware' on page 17 undefined on input line 2
+1.
+
+
+LaTeX Warning: Citation `nintendolife' on page 17 undefined on input line 21.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<gamersusnorway.png, id=92, 758.835pt x 249.93375pt>
+File: gamersusnorway.png Graphic file (type png)
+ <use gamersusnorway.png>
+Package pdftex.def Info: gamersusnorway.png used on input line 30.
+(pdftex.def)             Requested size: 379.41658pt x 124.96657pt.
+
+Overfull \hbox (23.41658pt too wide) in paragraph at lines 30--31
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--34
+
+ []
+
+[17 <C:/Users/Line/Documents/GitHub/Prosjekt2012/consolewarwii.png>]
+Underfull \vbox (badness 6675) has occurred while \output is active []
+
+ [18 <C:/Users/Line/Documents/GitHub/Prosjekt2012/xboxwiisales.png>]
+<gamestatisticsnorway.png, id=100, 388.45125pt x 224.33812pt>
 File: gamestatisticsnorway.png Graphic file (type png)
 
 <use gamestatisticsnorway.png>
-Package pdftex.def Info: gamestatisticsnorway.png used on input line 30.
+Package pdftex.def Info: gamestatisticsnorway.png used on input line 38.
 (pdftex.def)             Requested size: 349.60287pt x 201.90244pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--40
+Underfull \hbox (badness 10000) in paragraph at lines 44--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--40
+Underfull \hbox (badness 10000) in paragraph at lines 44--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--40
+Underfull \hbox (badness 10000) in paragraph at lines 44--48
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18 <C:/Users/Line/Documents/GitHub/Prosjekt2012/gamersusnorway.png>] [19 <C:/
-Users/Line/Documents/GitHub/Prosjekt2012/gamestatisticsnorway.png>] [20]
+[19 <C:/Users/Line/Documents/GitHub/Prosjekt2012/gamersusnorway.png>] [20 <C:/U
+sers/Line/Documents/GitHub/Prosjekt2012/gamestatisticsnorway.png>] [21]
 Package acronym Info: Label `acro:ddr' newly defined as it shall be overridden
-although it is yet undefined on input line 41.
- [21] [22]
-Underfull \hbox (badness 10000) in paragraph at lines 57--59
+although it is yet undefined on input line 49.
+
+[22] [23]
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
 
  []
 
-
-Underfull \vbox (badness 7012) has occurred while \output is active []
-
- [23]
+[24]
 Package acronym Info: Label `acro:ee' newly defined as it shall be overridden
-although it is yet undefined on input line 63.
+although it is yet undefined on input line 71.
 Package acronym Info: Label `acro:ascm' newly defined as it shall be overridden
 
-although it is yet undefined on input line 63.
+although it is yet undefined on input line 71.
 Package acronym Info: Label `acro:bbs' newly defined as it shall be overridden
-although it is yet undefined on input line 67.
+although it is yet undefined on input line 75.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 67.
+(Font)              <9> on input line 75.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 67.
+(Font)              <5> on input line 75.
 Package acronym Info: Label `acro:fesi' newly defined as it shall be overridden
 
-although it is yet undefined on input line 67.
+although it is yet undefined on input line 75.
 
 
-LaTeX Warning: Citation `garcia2012exergames' on page 24 undefined on input lin
-e 69.
+LaTeX Warning: Citation `garcia2012exergames' on page 25 undefined on input lin
+e 77.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--71
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--71
+Underfull \hbox (badness 10000) in paragraph at lines 69--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--71
+Underfull \hbox (badness 10000) in paragraph at lines 69--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--71
+Underfull \hbox (badness 10000) in paragraph at lines 69--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--71
+Underfull \hbox (badness 10000) in paragraph at lines 69--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--71
+Underfull \hbox (badness 10000) in paragraph at lines 69--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--71
+Underfull \hbox (badness 10000) in paragraph at lines 69--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--71
+Underfull \hbox (badness 10000) in paragraph at lines 69--79
 
  []
 
-[24] [25] [26]
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--79
+
+ []
+
+[25] [26] [27]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27]
-[28] [29]) [30]
+ [28]
+Underfull \vbox (badness 1546) has occurred while \output is active []
+
+ [29]
+[30]) [31] [32
+
+]
 (C:\Users\Line\Documents\GitHub\Prosjekt2012\osterwalderbusinessmodel.tex
 Chapter 5.
 
@@ -685,11 +729,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
 Underfull \vbox (badness 2698) has occurred while \output is active []
 
- [31
-
+ [33
 
 ]
-<osterwaldersbmmodified.png, id=145, 716.6775pt x 384.6872pt>
+<osterwaldersbmmodified.png, id=154, 716.6775pt x 384.6872pt>
 File: osterwaldersbmmodified.png Graphic file (type png)
 
 <use osterwaldersbmmodified.png>
@@ -699,13 +742,13 @@ Package pdftex.def Info: osterwaldersbmmodified.png used on input line 8.
 
 LaTeX Warning: Float too large for page by 80.20813pt on input line 11.
 
-[32] [33 <C:/Users/Line/Documents/GitHub/Prosjekt2012/osterwaldersbmmodified.pn
+[34] [35 <C:/Users/Line/Documents/GitHub/Prosjekt2012/osterwaldersbmmodified.pn
 g>]
 Underfull \hbox (badness 10000) in paragraph at lines 18--20
 
  []
 
-[34]
+[36]
 Underfull \hbox (badness 10000) in paragraph at lines 25--27
 
  []
@@ -720,7 +763,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--31
 
  []
 
-[35] <kjopskjede.png, id=160, 703.12688pt x 219.06844pt>
+[37] <kjopskjede.png, id=168, 703.12688pt x 219.06844pt>
 File: kjopskjede.png Graphic file (type png)
  <use kjopskjede.png>
 Package pdftex.def Info: kjopskjede.png used on input line 34.
@@ -729,15 +772,15 @@ Package pdftex.def Info: kjopskjede.png used on input line 34.
 
 LaTeX Warning: Float too large for page by 0.41667pt on input line 38.
 
-<channeltypes.png, id=161, 502.87875pt x 204.765pt>
+<channeltypes.png, id=169, 502.87875pt x 204.765pt>
 File: channeltypes.png Graphic file (type png)
  <use channeltypes.png>
 Package pdftex.def Info: channeltypes.png used on input line 42.
 (pdftex.def)             Requested size: 352.01273pt x 143.3345pt.
 
-[36] [37 <C:/Users/Line/Documents/GitHub/Prosjekt2012/kjopskjede.png>] [38 <C:/
+[38] [39 <C:/Users/Line/Documents/GitHub/Prosjekt2012/kjopskjede.png>] [40 <C:/
 Users/Line/Documents/GitHub/Prosjekt2012/channeltypes.png>]
-<valuechainnew.png, id=171, 609.77812pt x 51.94406pt>
+<valuechainnew.png, id=180, 609.77812pt x 51.94406pt>
 File: valuechainnew.png Graphic file (type png)
  <use valuechainnew.png>
 Package pdftex.def Info: valuechainnew.png used on input line 71.
@@ -757,14 +800,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--77
 
  []
 
-[39] [40 <C:/Users/Line/Documents/GitHub/Prosjekt2012/valuechainnew.png>]
-<valueshopnew.png, id=180, 366.61969pt x 181.42781pt>
+[41] [42 <C:/Users/Line/Documents/GitHub/Prosjekt2012/valuechainnew.png>]
+<valueshopnew.png, id=188, 366.61969pt x 181.42781pt>
 File: valueshopnew.png Graphic file (type png)
  <use valueshopnew.png>
 Package pdftex.def Info: valueshopnew.png used on input line 81.
 (pdftex.def)             Requested size: 293.29614pt x 145.14244pt.
 
-<valuenetworknew.png, id=181, 376.40625pt x 166.37157pt>
+<valuenetworknew.png, id=189, 376.40625pt x 166.37157pt>
 File: valuenetworknew.png Graphic file (type png)
 
 <use valuenetworknew.png>
@@ -775,17 +818,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--96
 
  []
 
-[41 <C:/Users/Line/Documents/GitHub/Prosjekt2012/valueshopnew.png>]
+[43 <C:/Users/Line/Documents/GitHub/Prosjekt2012/valueshopnew.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 110--112
 
  []
 
-[42 <C:/Users/Line/Documents/GitHub/Prosjekt2012/valuenetworknew.png>]
+[44 <C:/Users/Line/Documents/GitHub/Prosjekt2012/valuenetworknew.png>]
 Overfull \hbox (23.91385pt too wide) in paragraph at lines 115--126
  [][] 
  []
 
-[43]) [44] (C:\Users\Line\Documents\GitHub\Prosjekt2012\discussionInterview.tex
+[45]) [46] (C:\Users\Line\Documents\GitHub\Prosjekt2012\discussionInterview.tex
 Chapter 6.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
@@ -803,7 +846,7 @@ Overfull \hbox (2.9171pt too wide) in paragraph at lines 8--10
 he older pa-tient group.
  []
 
-[45
+[47
 
 
 ]
@@ -816,7 +859,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--18
 
  []
 
-[46] [47]
+[48] [49]
 Underfull \hbox (badness 10000) in paragraph at lines 28--41
 
  []
@@ -876,7 +919,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--41
 
  []
 
-[48] [49] [50] [51] [52]) [53] [54
+[50] [51] [52] [53] [54]) [55] [56
 
 ]
 (C:\Users\Line\Documents\GitHub\Prosjekt2012\business-model-of-case.tex
@@ -886,7 +929,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
-[55
+[57
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 8--10
@@ -896,7 +939,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
 Underfull \vbox (badness 1297) has occurred while \output is active []
 
- [56]
+ [58]
 Underfull \hbox (badness 10000) in paragraph at lines 13--23
 
  []
@@ -921,7 +964,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--23
 
  []
 
-[57] <channels.png, id=237, 703.12688pt x 219.06844pt>
+[59] <channels.png, id=245, 703.12688pt x 219.06844pt>
 File: channels.png Graphic file (type png)
  <use channels.png>
 Package pdftex.def Info: channels.png used on input line 29.
@@ -975,12 +1018,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--43
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [58]
+ [60]
 Underfull \vbox (badness 3780) has occurred while \output is active []
 
- [59]
-[60 <C:/Users/Line/Documents/GitHub/Prosjekt2012/channels.png>] [61] [62]
-[63]
+ [61]
+[62 <C:/Users/Line/Documents/GitHub/Prosjekt2012/channels.png>] [63] [64]
+[65]
 Underfull \hbox (badness 10000) in paragraph at lines 80--84
 
  []
@@ -998,8 +1041,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--84
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [64]
-[65] <valuechaincase.png, id=264, 551.81157pt x 91.84312pt>
+ [66]
+[67] <valuechaincase.png, id=272, 551.81157pt x 91.84312pt>
 File: valuechaincase.png Graphic file (type png)
 
 <use valuechaincase.png>
@@ -1010,7 +1053,7 @@ Overfull \hbox (30.26547pt too wide) in paragraph at lines 91--92
  [] 
  []
 
-[66 <C:/Users/Line/Documents/GitHub/Prosjekt2012/valuechaincase.png>]
+[68 <C:/Users/Line/Documents/GitHub/Prosjekt2012/valuechaincase.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 118--124
 
  []
@@ -1030,7 +1073,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 118--124
 
  []
 
-[67]
+[69]
 Package acronym Info: Label `acro:sdk' newly defined as it shall be overridden
 although it is yet undefined on input line 134.
 Package acronym Info: Label `acro:fte' newly defined as it shall be overridden
@@ -1067,31 +1110,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--183
 
  []
 
-[68]
+[70]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [69]
-[70] [71]
-Underfull \hbox (badness 10000) in paragraph at lines 184--194
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 184--194
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 184--194
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 184--194
-
- []
-
+ [71]
 [72] [73]
+Underfull \hbox (badness 10000) in paragraph at lines 184--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--194
+
+ []
+
+[74] [75]
 Overfull \hbox (29.23392pt too wide) in paragraph at lines 197--207
  [][] 
  []
@@ -1124,11 +1167,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 227--231
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [74]
+ [76]
 Underfull \vbox (badness 3780) has occurred while \output is active []
 
- [75]
-<revenuestreamprice.png, id=297, 561.59813pt x 306.39468pt>
+ [77]
+<revenuestreamprice.png, id=305, 561.59813pt x 306.39468pt>
 File: revenuestreamprice.png Graphic file (type png)
 
 <use revenuestreamprice.png>
@@ -1139,13 +1182,13 @@ Overfull \hbox (93.27911pt too wide) in paragraph at lines 236--237
  [] 
  []
 
-<fixedlowprice.png, id=298, 480.29437pt x 288.3272pt>
+<fixedlowprice.png, id=306, 480.29437pt x 288.3272pt>
 File: fixedlowprice.png Graphic file (type png)
  <use fixedlowprice.png>
 Package pdftex.def Info: fixedlowprice.png used on input line 246.
 (pdftex.def)             Requested size: 336.20375pt x 201.82765pt.
 
-<revenuestreamquantity.png, id=299, 595.47469pt x 341.77687pt>
+<revenuestreamquantity.png, id=307, 595.47469pt x 341.77687pt>
 File: revenuestreamquantity.png Graphic file (type png)
 
 <use revenuestreamquantity.png>
@@ -1186,12 +1229,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 232--260
 
  []
 
-[76]
+[78]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [77 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamprice.png>] [78]
- [79 <C:/Users/Line/Documents/GitHub/Prosjekt2012/fixedlowprice.png>]
-<relationpriceandunits.png, id=312, 808.52063pt x 505.89pt>
+ [79 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamprice.png>] [80]
+ [81 <C:/Users/Line/Documents/GitHub/Prosjekt2012/fixedlowprice.png>]
+<relationpriceandunits.png, id=321, 808.52063pt x 505.89pt>
 File: relationpriceandunits.png Graphic file (type png)
 
 <use relationpriceandunits.png>
@@ -1202,7 +1245,7 @@ Overfull \hbox (129.11612pt too wide) in paragraph at lines 263--264
 [][] 
  []
 
-<revenuestreamlicense.png, id=313, 525.46312pt x 332.74312pt>
+<revenuestreamlicense.png, id=322, 525.46312pt x 332.74312pt>
 File: revenuestreamlicense.png Graphic file (type png)
 
 <use revenuestreamlicense.png>
@@ -1233,9 +1276,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 267--280
 
  []
 
-[80] [81 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamquantity.png
->] [82 <C:/Users/Line/Documents/GitHub/Prosjekt2012/relationpriceandunits.png>]
-[83] [84 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamlicense.png>
+[82] [83 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamquantity.png
+>] [84 <C:/Users/Line/Documents/GitHub/Prosjekt2012/relationpriceandunits.png>]
+[85] [86 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamlicense.png>
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 282--283
 
@@ -1246,13 +1289,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 282--283
 
  []
 
-[85] <scurve.png, id=336, 718.18312pt x 562.35094pt>
+[87] <scurve.png, id=345, 718.18312pt x 562.35094pt>
 File: scurve.png Graphic file (type png)
  <use scurve.png>
 Package pdftex.def Info: scurve.png used on input line 286.
 (pdftex.def)             Requested size: 287.26816pt x 224.93639pt.
-) [86]
-[87 <C:/Users/Line/Documents/GitHub/Prosjekt2012/scurve.png>] [88
+) [88]
+[89 <C:/Users/Line/Documents/GitHub/Prosjekt2012/scurve.png>] [90
 
 ]
 (C:\Users\Line\Documents\GitHub\Prosjekt2012\discussion.tex
@@ -1282,12 +1325,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--10
 
  []
 
-[89
+[91
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [90])
+ [92])
 Underfull \hbox (badness 10000) in paragraph at lines 15--35
 
  []
@@ -1307,7 +1350,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--35
 
  []
 
-[91] [92] [93] [94
+[93] [94] [95] [96
 
 ] (C:\Users\Line\Documents\GitHub\Prosjekt2012\report.bbl
 Underfull \hbox (badness 4726) in paragraph at lines 32--37
@@ -1333,7 +1376,7 @@ $\OT1/cmtt/m/n/10.95 regpubl / stmeld / 2010 -[] 2011 / meld -[] st -[] 16 -[]
 20102011 / 2 . html ? id =$
  []
 
-[95
+[97
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 64--67
@@ -1371,7 +1414,7 @@ $\OT1/cmtt/m/n/10.95 http : / / inventors . about . com / library / inventors /
  blcomputer _$
  []
 
-[96] [97]
+[98] [99]
 Underfull \hbox (badness 5787) in paragraph at lines 197--201
 []\OT1/cmr/m/n/10.95 Dance dance rev-o-lu-tion hits 6.5 mil-lion in sales.  $\O
 T1/cmtt/m/n/10.95 http :$
@@ -1401,7 +1444,7 @@ $\OT1/cmtt/m/n/10.95 playstation . com / 2010 / 09 / 07 / playstation -[] move
 -[] the -[] ultimate -[]$
  []
 
-[98]
+[100]
 Underfull \hbox (badness 3312) in paragraph at lines 254--258
 []\OT1/cmr/m/n/10.95 Xbox 360 sur-passes 66m sold and kinect passes 18m units.
  []
@@ -1418,7 +1461,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 266--270
 . microsoft . com / en -[]$
  []
 
-[99]
+[101]
 Underfull \hbox (badness 10000) in paragraph at lines 317--321
 []\OT1/cmr/m/n/10.95 Komplett.no.  $\OT1/cmtt/m/n/10.95 http : / / www . komple
 tt . no / k / ki . aspx ? sku =$
@@ -1460,7 +1503,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 348--351
 m / products / infrastructure -[]$
  []
 
-[100]
+[102]
 Underfull \hbox (badness 10000) in paragraph at lines 359--362
 []\OT1/cmr/m/n/10.95 Elkjp.  $\OT1/cmtt/m/n/10.95 http : / / www . elkjop . no
  / search ? WFSimpleSearch _$
@@ -1490,7 +1533,7 @@ $\OT1/cmtt/m/n/10.95 produkter / treningsutstyr / kondisjon / tredemoller / abi
 lica _$
  []
 
-) [101] [102
+) [103] [104
 
 ] (C:\Users\Line\Documents\GitHub\Prosjekt2012\appendix.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--43
@@ -1593,19 +1636,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--43
 
  []
 
-[103
+[105
 
-] [104] [105] [106]) [107]
+] [106] [107] [108]) [109]
 (C:\Users\Line\Documents\GitHub\Prosjekt2012\report.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 2067 strings out of 494045
- 28359 string characters out of 3147584
- 101932 words of memory out of 3000000
- 5310 multiletter control sequences out of 15000+200000
+ 2079 strings out of 494045
+ 28561 string characters out of 3147584
+ 101743 words of memory out of 3000000
+ 5321 multiletter control sequences out of 15000+200000
  10535 words of font info for 37 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  27i,9n,21p,2661b,271s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1618,9 +1664,9 @@ nts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/Miktex/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/publ
 ic/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/ams
 fonts/cm/cmtt10.pfb>
-Output written on report.pdf (117 pages, 764245 bytes).
+Output written on report.pdf (119 pages, 678324 bytes).
 PDF statistics:
- 441 PDF objects out of 1000 (max. 8388607)
+ 449 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
