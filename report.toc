@@ -15,13 +15,13 @@
 \contentsline {section}{\numberline {3.4}Existing Prevention Programs}{11}
 \contentsline {chapter}{\numberline {4}Technological Aspects}{15}
 \contentsline {section}{\numberline {4.1}Computer and Video Games}{16}
-\contentsline {section}{\numberline {4.2}Exercise Games}{19}
+\contentsline {section}{\numberline {4.2}Exercise Games}{21}
 \contentsline {subsection}{\numberline {4.2.1}Dance Dance Revolution}{22}
-\contentsline {subsection}{\numberline {4.2.2}PlayStation EyeToy}{22}
+\contentsline {subsection}{\numberline {4.2.2}PlayStation EyeToy}{23}
 \contentsline {subsection}{\numberline {4.2.3}PlayStation Move}{23}
 \contentsline {subsection}{\numberline {4.2.4}Nintendo Wii}{23}
 \contentsline {subsection}{\numberline {4.2.5}Wii Fit Plus}{24}
-\contentsline {subsection}{\numberline {4.2.6}Microsoft Kinect for Xbox 360 and Windows}{24}
+\contentsline {subsection}{\numberline {4.2.6}Microsoft Kinect for Xbox 360 and Windows}{25}
 \contentsline {section}{\numberline {4.3}Using Exergames for Fall Prevention and Rehabilitation: A background Study}{25}
 \contentsline {chapter}{\numberline {5}Osterwalder's Business Model Ontology}{33}
 \contentsline {section}{\numberline {5.1}Product}{36}
@@ -56,7 +56,7 @@
 \contentsline {section}{\numberline {7.4}Financial Aspects}{69}
 \contentsline {subsection}{\numberline {7.4.1}Cost Structure}{70}
 \contentsline {subsection}{\numberline {7.4.2}Revenue Streams}{77}
-\contentsline {subsection}{\numberline {7.4.3}Financial Analysis}{87}
+\contentsline {subsection}{\numberline {7.4.3}Financial Analysis}{88}
 \contentsline {chapter}{\numberline {8}Discussion}{91}
 \contentsline {section}{\numberline {8.1}Security aspects}{91}
 \contentsline {section}{\numberline {8.2}NAV Hjelpemiddelsentralen}{93}
