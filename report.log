@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.3)  10 DEC 2012 17:50
+=======
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  10 DEC 2012 17:58
+>>>>>>> mathidle
 entering extended mode
 **report.tex
 (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.tex
@@ -1399,6 +1403,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 235--50
 
  []
 
+<<<<<<< HEAD
 [79] [80] [81] [82 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/scurve.png>
 ] [83 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/scurve2.png>] [84 <C:/Us
 ers/kineaasj/Documents/GitHub/Prosjekt2012/revenuestreamprice.png>] [85]
@@ -1416,6 +1421,22 @@ ce.png>]
 ng>] [96
 
 ] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\discussion.tex
+=======
+[79] [80] [81] [82] [83 <C:/Users/Line/Documents/GitHub/Prosjekt2012/scurve.png
+>] [84 <C:/Users/Line/Documents/GitHub/Prosjekt2012/scurve2.png>] [85 <C:/Users
+/Line/Documents/GitHub/Prosjekt2012/revenuestreamprice.png>] [86] [87 <C:/Users
+/Line/Documents/GitHub/Prosjekt2012/fixedlowprice.png>] [88] [89 <C:/Users/Line
+/Documents/GitHub/Prosjekt2012/revenuestreamquantity.png>] [90 <C:/Users/Line/D
+ocuments/GitHub/Prosjekt2012/relationpriceandunits.png>] [91 <C:/Users/Line/Doc
+uments/GitHub/Prosjekt2012/profitfixed.png>]
+Underfull \vbox (badness 1052) has occurred while \output is active []
+
+ [92 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamlicense.png>] [9
+3 <C:/Users/Line/Documents/GitHub/Prosjekt2012/usagewithwithoutstartprice.png>]
+ [94]
+[95] [96 <C:/Users/Line/Documents/GitHub/Prosjekt2012/profitusagefee.png>]
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\discussion.tex
+>>>>>>> mathidle
 Chapter 8.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--20
@@ -1511,6 +1532,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--20
 Underfull \vbox (badness 6078) has occurred while \output is active []
 
  [97
+
 
 ]
 [98] [99] [100] [101] [102]) [103] [104
@@ -2193,6 +2215,7 @@ Package pdftex.def Info: appendixlonn.png used on input line 193.
 s/kineaasj/Documents/GitHub/Prosjekt2012/appendixlonn.png>]
 (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.aux) ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  2196 strings out of 494045
  30564 string characters out of 3148379
  114028 words of memory out of 3000000
@@ -2210,6 +2233,25 @@ r9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
 C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
 Output written on report.pdf (152 pages, 1005893 bytes).
+=======
+ 2189 strings out of 494045
+ 30422 string characters out of 3147584
+ 115320 words of memory out of 3000000
+ 5414 multiletter control sequences out of 15000+200000
+ 10535 words of font info for 37 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 27i,9n,21p,3237b,271s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
+Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
+m Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
+ (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/M
+iktex/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/Miktex/fo
+nts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/Miktex/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/publ
+ic/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/ams
+fonts/cm/cmtt10.pfb>
+Output written on report.pdf (152 pages, 1006731 bytes).
+>>>>>>> mathidle
 PDF statistics:
  570 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
