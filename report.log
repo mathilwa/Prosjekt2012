@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  10 DEC 2012 16:23
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  10 DEC 2012 17:58
 entering extended mode
 **report.tex
 (C:\Users\Line\Documents\GitHub\Prosjekt2012\report.tex
@@ -1394,22 +1394,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 235--50
 
  []
 
-[79] [80] [81] [82 <C:/Users/Line/Documents/GitHub/Prosjekt2012/scurve.png>]
-[83 <C:/Users/Line/Documents/GitHub/Prosjekt2012/scurve2.png>] [84 <C:/Users/Li
-ne/Documents/GitHub/Prosjekt2012/revenuestreamprice.png>] [85] [86 <C:/Users/Li
-ne/Documents/GitHub/Prosjekt2012/fixedlowprice.png>] [87] [88 <C:/Users/Line/Do
-cuments/GitHub/Prosjekt2012/revenuestreamquantity.png>] [89 <C:/Users/Line/Docu
-ments/GitHub/Prosjekt2012/relationpriceandunits.png>] [90 <C:/Users/Line/Docume
-nts/GitHub/Prosjekt2012/profitfixed.png>]
+[79] [80] [81] [82] [83 <C:/Users/Line/Documents/GitHub/Prosjekt2012/scurve.png
+>] [84 <C:/Users/Line/Documents/GitHub/Prosjekt2012/scurve2.png>] [85 <C:/Users
+/Line/Documents/GitHub/Prosjekt2012/revenuestreamprice.png>] [86] [87 <C:/Users
+/Line/Documents/GitHub/Prosjekt2012/fixedlowprice.png>] [88] [89 <C:/Users/Line
+/Documents/GitHub/Prosjekt2012/revenuestreamquantity.png>] [90 <C:/Users/Line/D
+ocuments/GitHub/Prosjekt2012/relationpriceandunits.png>] [91 <C:/Users/Line/Doc
+uments/GitHub/Prosjekt2012/profitfixed.png>]
 Underfull \vbox (badness 1052) has occurred while \output is active []
 
- [91 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamlicense.png>] [9
-2 <C:/Users/Line/Documents/GitHub/Prosjekt2012/usagewithwithoutstartprice.png>]
- [93]
-[94] [95 <C:/Users/Line/Documents/GitHub/Prosjekt2012/profitusagefee.png>]
-[96
-
-] (C:\Users\Line\Documents\GitHub\Prosjekt2012\discussion.tex
+ [92 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamlicense.png>] [9
+3 <C:/Users/Line/Documents/GitHub/Prosjekt2012/usagewithwithoutstartprice.png>]
+ [94]
+[95] [96 <C:/Users/Line/Documents/GitHub/Prosjekt2012/profitusagefee.png>]
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\discussion.tex
 Chapter 8.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--20
@@ -1505,6 +1503,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--20
 Underfull \vbox (badness 6078) has occurred while \output is active []
 
  [97
+
 
 ]
 [98] [99] [100] [101] [102]) [103] [104
@@ -2193,11 +2192,11 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Here is how much of TeX's memory you used:
  2189 strings out of 494045
  30422 string characters out of 3147584
- 113879 words of memory out of 3000000
+ 115320 words of memory out of 3000000
  5414 multiletter control sequences out of 15000+200000
  10535 words of font info for 37 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 27i,9n,21p,2760b,271s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,9n,21p,3237b,271s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
 Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
 m Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
@@ -2207,7 +2206,7 @@ nts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/Miktex/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/publ
 ic/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/ams
 fonts/cm/cmtt10.pfb>
-Output written on report.pdf (152 pages, 1006555 bytes).
+Output written on report.pdf (152 pages, 1006731 bytes).
 PDF statistics:
  570 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
