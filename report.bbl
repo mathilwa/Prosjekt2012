@@ -353,6 +353,11 @@ Michael~D. Myers and Michael Newman.
 \newblock The qualitative interview in {IS} research: Examining the craft.
 \newblock {\em Information and Organization}, 17(1), 2007.
 
+\bibitem{conference}
+Velferdsteknologikonferansen 2012.
+\newblock \url{http://www.velferdsteknologikonferansen.no/}.
+\newblock visited: 21/11/12.
+
 \bibitem{pricekinect}
 Komplett.no.
 \newblock
@@ -395,6 +400,11 @@ Carl Shapiro and Hal~R. Varian.
   {E}conomy}.
 \newblock Hardward {B}usiness {S}chool {P}ress, 1999.
 
+\bibitem{scurve}
+Everett~M. Rogers.
+\newblock {\em Diffusion of {I}nnovations}.
+\newblock A Division of Simon \& Schuster Inc., 4 edition, 1995.
+
 \bibitem{elkjopwii}
 Elkj{ø}p.
 \newblock \url{http://www.elkjop.no/search?WFSimpleSearch_NameOrID=wii}.
@@ -418,10 +428,5 @@ AlfaCareAS.
 \newblock
   \url{http://www.alfacare.no/produkter/treningsutstyr/kondisjon/tredemoller/abilica_sportsart_T670}.
 \newblock visited: 05/12/12.
-
-\bibitem{scurve}
-Everett~M. Rogers.
-\newblock {\em Diffusion of {I}nnovations}.
-\newblock A Division of Simon \& Schuster Inc., 4 edition, 1995.
 
 \end{thebibliography}
