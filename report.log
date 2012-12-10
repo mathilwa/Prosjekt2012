@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  10 DEC 2012 16:16
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  10 DEC 2012 16:23
 entering extended mode
 **report.tex
 (C:\Users\Line\Documents\GitHub\Prosjekt2012\report.tex
@@ -665,7 +665,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: pseyetoy.jpg Graphic file (type jpg)
  <use pseyetoy.jpg>
 Package pdftex.def Info: pseyetoy.jpg used on input line 71.
-(pdftex.def)             Requested size: 220.82445pt x 255.45375pt.
+(pdftex.def)             Requested size: 132.49602pt x 153.2738pt.
  [22]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -674,25 +674,25 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: PSmove.jpg Graphic file (type jpg)
  <use PSmove.jpg>
 Package pdftex.def Info: PSmove.jpg used on input line 81.
-(pdftex.def)             Requested size: 150.56212pt x 269.00433pt.
+(pdftex.def)             Requested size: 90.33818pt x 161.40424pt.
  [23 <C:/Users/Line/Documents/GitHub/Prosjekt2012/ddrpad.jpg>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [24 <C:/Users/Line/Documents/GitHub/Prosjekt2012/pseyetoy.jpg>]
-<nintendowii.jpg, id=144, 362.35374pt x 401.5pt>
-File: nintendowii.jpg Graphic file (type jpg)
- <use nintendowii.jpg>
-Package pdftex.def Info: nintendowii.jpg used on input line 92.
-(pdftex.def)             Requested size: 181.17642pt x 200.7495pt.
- [25 <C:/Users/Line/Documents/GitHub/Prosjekt2012/PSmove.jpg>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<wiibalance.jpg, id=148, 410.2828pt x 251.43938pt>
+<nintendowii.jpg, id=141, 362.35374pt x 401.5pt>
+File: nintendowii.jpg Graphic file (type jpg)
+ <use nintendowii.jpg>
+Package pdftex.def Info: nintendowii.jpg used on input line 92.
+(pdftex.def)             Requested size: 108.70695pt x 120.45091pt.
+ [24 <C:/Users/Line/Documents/GitHub/Prosjekt2012/pseyetoy.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25 <C:/Users/Line/Documents/GitHub/Prosjekt2012/PSmove.jpg>]
+<wiibalance.jpg, id=148, 461.725pt x 346.29375pt>
 File: wiibalance.jpg Graphic file (type jpg)
  <use wiibalance.jpg>
 Package pdftex.def Info: wiibalance.jpg used on input line 102.
-(pdftex.def)             Requested size: 205.1409pt x 125.71938pt.
+(pdftex.def)             Requested size: 184.68672pt x 138.51503pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -701,17 +701,16 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: kinect.jpg Graphic file (type jpg)
  <use kinect.jpg>
 Package pdftex.def Info: kinect.jpg used on input line 113.
-(pdftex.def)             Requested size: 318.68985pt x 150.56212pt.
+(pdftex.def)             Requested size: 191.21585pt x 90.33818pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 109--118
 
  []
 
-[26] [27 <C:/Users/Line/Documents/GitHub/Prosjekt2012/nintendowii.jpg> <C:/User
-s/Line/Documents/GitHub/Prosjekt2012/wiibalance.jpg>]
+[26 <C:/Users/Line/Documents/GitHub/Prosjekt2012/nintendowii.jpg>]
+Underfull \vbox (badness 5817) has occurred while \output is active []
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
+ [27 <C:/Users/Line/Documents/GitHub/Prosjekt2012/wiibalance.jpg>]
 Package acronym Info: Label `acro:ee' newly defined as it shall be overridden
 although it is yet undefined on input line 122.
 Package acronym Info: Label `acro:ascm' newly defined as it shall be overridden
@@ -766,12 +765,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--130
 
  []
 
-[28]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[28 <C:/Users/Line/Documents/GitHub/Prosjekt2012/kinect.jpg>] [29] [30]
+[31] [32]) [33] [34
 
- [29 <C:/Users/Line/Documents/GitHub/Prosjekt2012/kinect.jpg>] [30] [31] [32] [
-33])
-[34] (C:\Users\Line\Documents\GitHub\Prosjekt2012\osterwalderbusinessmodel.tex
+]
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\osterwalderbusinessmodel.tex
 Chapter 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
@@ -782,7 +780,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--4
 Underfull \vbox (badness 2698) has occurred while \output is active []
 
  [35
-
 
 ]
 <osterwaldersbmmodified.png, id=185, 716.6775pt x 384.6872pt>
@@ -2196,7 +2193,7 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Here is how much of TeX's memory you used:
  2189 strings out of 494045
  30422 string characters out of 3147584
- 113831 words of memory out of 3000000
+ 113879 words of memory out of 3000000
  5414 multiletter control sequences out of 15000+200000
  10535 words of font info for 37 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
@@ -2210,7 +2207,7 @@ nts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/Miktex/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/publ
 ic/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/ams
 fonts/cm/cmtt10.pfb>
-Output written on report.pdf (152 pages, 1001737 bytes).
+Output written on report.pdf (152 pages, 1006555 bytes).
 PDF statistics:
  570 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

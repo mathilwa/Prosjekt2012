@@ -17,7 +17,7 @@
 \contentsline {subsection}{\numberline {4.2.1}Dance Dance Revolution}{22}
 \contentsline {subsection}{\numberline {4.2.2}PlayStation EyeToy}{23}
 \contentsline {subsection}{\numberline {4.2.3}PlayStation Move}{23}
-\contentsline {subsection}{\numberline {4.2.4}Nintendo Wii}{25}
+\contentsline {subsection}{\numberline {4.2.4}Nintendo Wii}{24}
 \contentsline {subsection}{\numberline {4.2.5}Wii Fit Plus}{26}
 \contentsline {subsection}{\numberline {4.2.6}Microsoft Kinect for Xbox 360 and Windows}{26}
 \contentsline {section}{\numberline {4.3}Using Exergames for Fall Prevention and Rehabilitation: A background Study}{28}
