@@ -56,10 +56,10 @@
 \contentsline {subsection}{\numberline {7.4.1}Cost Structure}{69}
 \contentsline {subsection}{\numberline {7.4.2}Revenue Streams}{76}
 \contentsline {subsection}{\numberline {7.4.3}Financial Analysis}{77}
-\contentsline {chapter}{\numberline {8}Discussion}{93}
-\contentsline {section}{\numberline {8.1}NAV Hjelpemiddelsentralen}{96}
-\contentsline {section}{\numberline {8.2}Discussion}{96}
-\contentsline {chapter}{\numberline {9}Conclusion}{99}
-\contentsline {section}{\numberline {9.1}Future Work}{99}
-\contentsline {chapter}{Bibliography}{108}
-\contentsline {chapter}{Appendix A}{108}
+\contentsline {chapter}{\numberline {8}Discussion}{95}
+\contentsline {section}{\numberline {8.1}NAV Hjelpemiddelsentralen}{98}
+\contentsline {section}{\numberline {8.2}Discussion}{98}
+\contentsline {chapter}{\numberline {9}Conclusion}{101}
+\contentsline {section}{\numberline {9.1}Future Work}{101}
+\contentsline {chapter}{Bibliography}{110}
+\contentsline {chapter}{Appendix A}{110}

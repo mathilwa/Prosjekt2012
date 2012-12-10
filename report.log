@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  10 DEC 2012 09:56
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  10 DEC 2012 10:16
 entering extended mode
 **report.tex
 (C:\Users\Line\Documents\GitHub\Prosjekt2012\report.tex
@@ -1197,139 +1197,165 @@ Overfull \hbox (32.37332pt too wide) in paragraph at lines 276--277
  [] 
  []
 
+<relationpriceandunits.png, id=313, 707.64375pt x 500.62032pt>
+File: relationpriceandunits.png Graphic file (type png)
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--281
+<use relationpriceandunits.png>
+Package pdftex.def Info: relationpriceandunits.png used on input line 283.
+(pdftex.def)             Requested size: 424.58952pt x 300.37451pt.
+
+Overfull \hbox (68.58952pt too wide) in paragraph at lines 283--284
+[][] 
+ []
+
+<profitfixed.png, id=314, 504.38437pt x 351.56343pt>
+File: profitfixed.png Graphic file (type png)
+ <use profitfixed.png>
+Package pdftex.def Info: profitfixed.png used on input line 288.
+(pdftex.def)             Requested size: 403.50804pt x 281.25111pt.
+
+Overfull \hbox (47.50804pt too wide) in paragraph at lines 288--289
+ [] 
+ []
+
+<revenuestreamlicense.png, id=315, 478.78876pt x 295.1025pt>
+File: revenuestreamlicense.png Graphic file (type png)
+
+<use revenuestreamlicense.png>
+Package pdftex.def Info: revenuestreamlicense.png used on input line 298.
+(pdftex.def)             Requested size: 383.03152pt x 236.0823pt.
+
+Overfull \hbox (27.03152pt too wide) in paragraph at lines 298--299
+ [] 
+ []
+
+<usagewithwithoutstartprice.png, id=316, 525.46312pt x 300.3722pt>
+File: usagewithwithoutstartprice.png Graphic file (type png)
+
+<use usagewithwithoutstartprice.png>
+Package pdftex.def Info: usagewithwithoutstartprice.png used on input line 305.
+
+(pdftex.def)             Requested size: 420.37106pt x 240.29807pt.
+
+Overfull \hbox (64.37106pt too wide) in paragraph at lines 305--306
+ [] 
+ []
+
+<profitusagefee.png, id=317, 503.63156pt x 352.31625pt>
+File: profitusagefee.png Graphic file (type png)
+
+<use profitusagefee.png>
+Package pdftex.def Info: profitusagefee.png used on input line 316.
+(pdftex.def)             Requested size: 402.90579pt x 281.85338pt.
+
+Overfull \hbox (46.90579pt too wide) in paragraph at lines 316--317
+ [] 
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 235--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--281
+Underfull \hbox (badness 10000) in paragraph at lines 235--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--281
+Underfull \hbox (badness 10000) in paragraph at lines 235--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--281
+Underfull \hbox (badness 10000) in paragraph at lines 235--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--281
+Underfull \hbox (badness 10000) in paragraph at lines 235--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--281
+Underfull \hbox (badness 10000) in paragraph at lines 235--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--281
+Underfull \hbox (badness 10000) in paragraph at lines 235--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--281
+Underfull \hbox (badness 10000) in paragraph at lines 235--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--281
+Underfull \hbox (badness 10000) in paragraph at lines 235--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--281
+Underfull \hbox (badness 10000) in paragraph at lines 235--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--281
+Underfull \hbox (badness 10000) in paragraph at lines 235--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--281
+Underfull \hbox (badness 10000) in paragraph at lines 235--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--44
 
  []
 
 [77] [78] [79] [80 <C:/Users/Line/Documents/GitHub/Prosjekt2012/scurve.png>]
 [81 <C:/Users/Line/Documents/GitHub/Prosjekt2012/scurve2.png>] [82 <C:/Users/Li
 ne/Documents/GitHub/Prosjekt2012/revenuestreamprice.png>] [83] [84 <C:/Users/Li
-ne/Documents/GitHub/Prosjekt2012/fixedlowprice.png>]
-<relationpriceandunits.png, id=340, 707.64375pt x 500.62032pt>
-File: relationpriceandunits.png Graphic file (type png)
+ne/Documents/GitHub/Prosjekt2012/fixedlowprice.png>] [85] [86 <C:/Users/Line/Do
+cuments/GitHub/Prosjekt2012/revenuestreamquantity.png>] [87 <C:/Users/Line/Docu
+ments/GitHub/Prosjekt2012/relationpriceandunits.png>] [88 <C:/Users/Line/Docume
+nts/GitHub/Prosjekt2012/profitfixed.png>]
+Underfull \vbox (badness 1052) has occurred while \output is active []
 
-<use relationpriceandunits.png>
-Package pdftex.def Info: relationpriceandunits.png used on input line 284.
-(pdftex.def)             Requested size: 424.58952pt x 300.37451pt.
-
-Overfull \hbox (68.58952pt too wide) in paragraph at lines 284--285
-[][] 
- []
-
-<revenuestreamlicense.png, id=341, 478.78876pt x 295.1025pt>
-File: revenuestreamlicense.png Graphic file (type png)
-
-<use revenuestreamlicense.png>
-Package pdftex.def Info: revenuestreamlicense.png used on input line 293.
-(pdftex.def)             Requested size: 383.03152pt x 236.0823pt.
-
-Overfull \hbox (27.03152pt too wide) in paragraph at lines 293--294
- [] 
- []
-
-<usagewithwithoutstartprice.png, id=342, 525.46312pt x 300.3722pt>
-File: usagewithwithoutstartprice.png Graphic file (type png)
-
-<use usagewithwithoutstartprice.png>
-Package pdftex.def Info: usagewithwithoutstartprice.png used on input line 300.
-
-(pdftex.def)             Requested size: 420.37106pt x 240.29807pt.
-
-Overfull \hbox (64.37106pt too wide) in paragraph at lines 300--301
- [] 
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 288--44
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 288--44
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 288--44
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 288--44
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 288--44
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 288--44
-
- []
-
-[85] [86 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamquantity.png
->] [87 <C:/Users/Line/Documents/GitHub/Prosjekt2012/relationpriceandunits.png>]
-[88] [89 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamlicense.png>
-] [90 <C:/Users/Line/Documents/GitHub/Prosjekt2012/usagewithwithoutstartprice.p
-ng>] [91] [92
+ [89 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamlicense.png>] [9
+0 <C:/Users/Line/Documents/GitHub/Prosjekt2012/usagewithwithoutstartprice.png>]
+ [91]
+[92] [93 <C:/Users/Line/Documents/GitHub/Prosjekt2012/profitusagefee.png>]
+[94
 
 ] (C:\Users\Line\Documents\GitHub\Prosjekt2012\discussion.tex
 Chapter 8.
@@ -1376,10 +1402,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--10
 
 Underfull \vbox (badness 6078) has occurred while \output is active []
 
- [93
+ [95
 
 ]
-[94]
+[96]
 Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
  []
@@ -1387,7 +1413,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [95])
+ [97])
 Underfull \hbox (badness 10000) in paragraph at lines 19--46
 
  []
@@ -1407,12 +1433,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--46
 
  []
 
-[96] [97] [98] (C:\Users\Line\Documents\GitHub\Prosjekt2012\conclusion.tex
+[98] [99] [100] (C:\Users\Line\Documents\GitHub\Prosjekt2012\conclusion.tex
 Chapter 9.
-) [99
+) [101
 
 
-] [100
+] [102
 
 ] (C:\Users\Line\Documents\GitHub\Prosjekt2012\report.bbl
 Underfull \hbox (badness 4726) in paragraph at lines 32--37
@@ -1438,7 +1464,7 @@ $\OT1/cmtt/m/n/10.95 regpubl / stmeld / 2010 -[] 2011 / meld -[] st -[] 16 -[]
 20102011 / 2 . html ? id =$
  []
 
-[101
+[103
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 64--67
@@ -1494,7 +1520,7 @@ $\OT1/cmtt/m/n/10.95 http : / / www . microsoft . com / investor / EarningsAndF
 inancials /$
  []
 
-[102] [103]
+[104] [105]
 Underfull \hbox (badness 5787) in paragraph at lines 229--233
 []\OT1/cmr/m/n/10.95 Dance dance rev-o-lu-tion hits 6.5 mil-lion in sales.  $\O
 T1/cmtt/m/n/10.95 http :$
@@ -1512,7 +1538,7 @@ $\OT1/cmtt/m/n/10.95 com / 2010 / 11 / 03 / eyetoy -[] innovation -[] and -[] b
 eyond / comment -[] page -[]$
  []
 
-[104]
+[106]
 Underfull \hbox (badness 5475) in paragraph at lines 254--258
 []\OT1/cmr/m/n/10.95 PlayStation Move: The Ul-ti-mate FAQ.  $\OT1/cmtt/m/n/10.9
 5 http : / / blog . us .$
@@ -1541,7 +1567,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 298--302
 . microsoft . com / en -[]$
  []
 
-[105] [106]
+[107] [108]
 Underfull \hbox (badness 10000) in paragraph at lines 357--361
 []\OT1/cmr/m/n/10.95 Komplett.no.  $\OT1/cmtt/m/n/10.95 http : / / www . komple
 tt . no / k / ki . aspx ? sku =$
@@ -1613,7 +1639,7 @@ $\OT1/cmtt/m/n/10.95 produkter / treningsutstyr / kondisjon / tredemoller / abi
 lica _$
  []
 
-[107]) [108] (C:\Users\Line\Documents\GitHub\Prosjekt2012\appendix.tex
+[109]) [110] (C:\Users\Line\Documents\GitHub\Prosjekt2012\appendix.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--43
 
  []
@@ -1714,31 +1740,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--43
 
  []
 
-[109
+[111
 
 
-] [110] [111] [112]) [113]
-(C:\Users\Line\Documents\GitHub\Prosjekt2012\report.aux) ) 
+] [112] [113] [114]) [115]
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\report.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2109 strings out of 494045
- 29233 string characters out of 3147584
- 102049 words of memory out of 3000000
- 5345 multiletter control sequences out of 15000+200000
+ 2123 strings out of 494045
+ 29510 string characters out of 3147584
+ 113361 words of memory out of 3000000
+ 5357 multiletter control sequences out of 15000+200000
  10535 words of font info for 37 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  27i,9n,21p,2760b,271s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x8
-6)/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/Mik
-tex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/Miktex/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/Miktex/fonts/typ
-e1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/Miktex/fonts/type1/publi
-c/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfon
-ts/cm/cmr9.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmti10.p
-fb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on report.pdf (125 pages, 718316 bytes).
+<C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
+Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
+m Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
+ (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/M
+iktex/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/Miktex/fo
+nts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/Miktex/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/publ
+ic/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/ams
+fonts/cm/cmtt10.pfb>
+Output written on report.pdf (127 pages, 742754 bytes).
 PDF statistics:
- 473 PDF objects out of 1000 (max. 8388607)
+ 482 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
