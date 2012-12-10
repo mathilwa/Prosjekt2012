@@ -17,48 +17,46 @@
 \contentsline {subsection}{\numberline {4.2.1}Dance Dance Revolution}{22}
 \contentsline {subsection}{\numberline {4.2.2}PlayStation EyeToy}{23}
 \contentsline {subsection}{\numberline {4.2.3}PlayStation Move}{23}
-\contentsline {subsection}{\numberline {4.2.4}Nintendo Wii}{23}
-\contentsline {subsection}{\numberline {4.2.5}Wii Fit Plus}{24}
-\contentsline {subsection}{\numberline {4.2.6}Microsoft Kinect for Xbox 360 and Windows}{25}
-\contentsline {section}{\numberline {4.3}Using Exergames for Fall Prevention and Rehabilitation: A background Study}{25}
-\contentsline {chapter}{\numberline {5}Osterwalder's Business Model Ontology}{33}
-\contentsline {section}{\numberline {5.1}Product}{36}
-\contentsline {subsection}{\numberline {5.1.1}Value Proposition}{36}
-\contentsline {section}{\numberline {5.2}Customer Interface}{37}
-\contentsline {subsection}{\numberline {5.2.1}Customer Segments}{37}
-\contentsline {subsection}{\numberline {5.2.2}Channels}{37}
-\contentsline {subsection}{\numberline {5.2.3}Customer Relationships}{40}
-\contentsline {section}{\numberline {5.3}Infrastructure Management}{41}
-\contentsline {subsection}{\numberline {5.3.1}Key Resources}{41}
-\contentsline {subsection}{\numberline {5.3.2}Key Activities}{42}
-\contentsline {subsection}{\numberline {5.3.3}Key Partnerships}{43}
-\contentsline {section}{\numberline {5.4}Financial Aspects}{44}
-\contentsline {subsection}{\numberline {5.4.1}Revenue Streams}{44}
-\contentsline {subsection}{\numberline {5.4.2}Cost Structure}{45}
-\contentsline {chapter}{\numberline {6}Information Gathering}{47}
-\contentsline {section}{\numberline {6.1}Qualitative Research}{47}
-\contentsline {subsection}{\numberline {6.1.1}Interview Methods}{48}
-\contentsline {subsection}{\numberline {6.1.2}Possible Pitfalls}{49}
-\contentsline {section}{\numberline {6.2}Interview Discussion}{50}
-\contentsline {chapter}{\numberline {7}Business Model for the Microsoft Kinect Based Exercise Game}{57}
-\contentsline {section}{\numberline {7.1}Product}{57}
-\contentsline {subsection}{\numberline {7.1.1}Value Proposition}{58}
-\contentsline {section}{\numberline {7.2}Customer Interface}{59}
-\contentsline {subsection}{\numberline {7.2.1}Customer Segments}{59}
-\contentsline {subsection}{\numberline {7.2.2}Channels}{61}
-\contentsline {subsection}{\numberline {7.2.3}Customer Relationships}{64}
-\contentsline {section}{\numberline {7.3}Infrastructure Management}{65}
-\contentsline {subsection}{\numberline {7.3.1}Key Resources}{65}
-\contentsline {subsection}{\numberline {7.3.2}Key Activities}{67}
-\contentsline {subsection}{\numberline {7.3.3}Key Partnerships}{69}
-\contentsline {section}{\numberline {7.4}Financial Aspects}{69}
-\contentsline {subsection}{\numberline {7.4.1}Cost Structure}{69}
-\contentsline {subsection}{\numberline {7.4.2}Revenue Streams}{76}
-\contentsline {subsection}{\numberline {7.4.3}Financial Analysis}{77}
-\contentsline {chapter}{\numberline {8}Discussion}{95}
-\contentsline {section}{\numberline {8.1}NAV Hjelpemiddelsentralen}{98}
-\contentsline {section}{\numberline {8.2}Discussion}{98}
-\contentsline {chapter}{\numberline {9}Conclusion}{101}
-\contentsline {section}{\numberline {9.1}Future Work}{101}
+\contentsline {subsection}{\numberline {4.2.4}Nintendo Wii}{25}
+\contentsline {subsection}{\numberline {4.2.5}Wii Fit Plus}{26}
+\contentsline {subsection}{\numberline {4.2.6}Microsoft Kinect for Xbox 360 and Windows}{26}
+\contentsline {section}{\numberline {4.3}Using Exergames for Fall Prevention and Rehabilitation: A background Study}{28}
+\contentsline {chapter}{\numberline {5}Osterwalder's Business Model Ontology}{35}
+\contentsline {section}{\numberline {5.1}Product}{38}
+\contentsline {subsection}{\numberline {5.1.1}Value Proposition}{38}
+\contentsline {section}{\numberline {5.2}Customer Interface}{39}
+\contentsline {subsection}{\numberline {5.2.1}Customer Segments}{39}
+\contentsline {subsection}{\numberline {5.2.2}Channels}{39}
+\contentsline {subsection}{\numberline {5.2.3}Customer Relationships}{42}
+\contentsline {section}{\numberline {5.3}Infrastructure Management}{43}
+\contentsline {subsection}{\numberline {5.3.1}Key Resources}{43}
+\contentsline {subsection}{\numberline {5.3.2}Key Activities}{44}
+\contentsline {subsection}{\numberline {5.3.3}Key Partnerships}{45}
+\contentsline {section}{\numberline {5.4}Financial Aspects}{46}
+\contentsline {subsection}{\numberline {5.4.1}Revenue Streams}{46}
+\contentsline {subsection}{\numberline {5.4.2}Cost Structure}{47}
+\contentsline {chapter}{\numberline {6}Information Gathering}{49}
+\contentsline {section}{\numberline {6.1}Qualitative Research}{49}
+\contentsline {subsection}{\numberline {6.1.1}Interview Methods}{50}
+\contentsline {subsection}{\numberline {6.1.2}Possible Pitfalls}{51}
+\contentsline {section}{\numberline {6.2}Interview Discussion}{52}
+\contentsline {chapter}{\numberline {7}Business Model for the Microsoft Kinect Based Exercise Game}{59}
+\contentsline {section}{\numberline {7.1}Product}{59}
+\contentsline {subsection}{\numberline {7.1.1}Value Proposition}{60}
+\contentsline {section}{\numberline {7.2}Customer Interface}{61}
+\contentsline {subsection}{\numberline {7.2.1}Customer Segments}{61}
+\contentsline {subsection}{\numberline {7.2.2}Channels}{63}
+\contentsline {subsection}{\numberline {7.2.3}Customer Relationships}{66}
+\contentsline {section}{\numberline {7.3}Infrastructure Management}{67}
+\contentsline {subsection}{\numberline {7.3.1}Key Resources}{67}
+\contentsline {subsection}{\numberline {7.3.2}Key Activities}{69}
+\contentsline {subsection}{\numberline {7.3.3}Key Partnerships}{71}
+\contentsline {section}{\numberline {7.4}Financial Aspects}{71}
+\contentsline {subsection}{\numberline {7.4.1}Cost Structure}{71}
+\contentsline {subsection}{\numberline {7.4.2}Revenue Streams}{78}
+\contentsline {subsection}{\numberline {7.4.3}Financial Analysis}{79}
+\contentsline {chapter}{\numberline {8}Discussion}{97}
+\contentsline {chapter}{\numberline {9}Conclusion}{105}
+\contentsline {section}{\numberline {9.1}Future Work}{105}
 \contentsline {chapter}{Bibliography}{}
-\contentsline {chapter}{Appendix A}{}
+\contentsline {chapter}{Appendix}{}
