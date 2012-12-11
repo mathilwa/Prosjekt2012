@@ -3,6 +3,7 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+<<<<<<< HEAD
 \contentsline {table}{\numberline {5.1}{\ignorespaces Different ways to generate revenue streams}}{49}
 \contentsline {table}{\numberline {5.2}{\ignorespaces Characteristics of cost structures}}{50}
 \addvspace {10\p@ }
@@ -16,5 +17,20 @@
 \contentsline {table}{\numberline {7.7}{\ignorespaces Price and Unit examples with the fixed price model}}{90}
 \contentsline {table}{\numberline {7.8}{\ignorespaces Revenue with use of Fixed Price Model}}{90}
 \contentsline {table}{\numberline {7.9}{\ignorespaces Revenue with use of Usage Fee Model}}{97}
+=======
+\contentsline {table}{\numberline {5.1}{\ignorespaces Different ways to generate revenue streams}}{47}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Characteristics of cost structures}}{48}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {7.1}{\ignorespaces Resources}}{68}
+\contentsline {table}{\numberline {7.2}{\ignorespaces Different types of activities }}{70}
+\contentsline {table}{\numberline {7.3}{\ignorespaces Cost of FTE = 1}}{73}
+\contentsline {table}{\numberline {7.4}{\ignorespaces Investment costs associated to the development of the game}}{74}
+\contentsline {table}{\numberline {7.5}{\ignorespaces Ongoing costs on a per year basis}}{77}
+\contentsline {table}{\numberline {7.6}{\ignorespaces Total Costs}}{77}
+\contentsline {table}{\numberline {7.7}{\ignorespaces Price and Unit examples with the fixed price model}}{88}
+\contentsline {table}{\numberline {7.8}{\ignorespaces Revenue with use of Fixed Price Model}}{89}
+\contentsline {table}{\numberline {7.9}{\ignorespaces Revenue with use of Usage Fee Model}}{93}
+>>>>>>> mathidle
 \addvspace {10\p@ }
 \addvspace {10\p@ }
