@@ -219,6 +219,14 @@ A.E. Staiano and S.L. Calvert.
   cognitive benefits.
 \newblock {\em Child development perspectives}, 5(2):93--98, 2011.
 
+\bibitem{roleofvideogames}
+Brian~A. Primack, Mary~V. Carroll, Megan McNamara, Mary~Lou Klem, Brandy King,
+  Michael Rich, Chun~W. Chan, and Smita Nayak.
+\newblock Role of video games in improving health-related outcomes: A
+  systematic review.
+\newblock {\em American journal of preventive medicine}, 42(6):630--638, June
+  2012.
+
 \bibitem{bogost2005rhetoric}
 I.~Bogost.
 \newblock The rhetoric of exergaming.
@@ -299,14 +307,6 @@ Kinect for {W}indows.
 \newblock
   \url{http://www.microsoft.com/en-us/kinectforwindows/develop/new.aspx}.
 \newblock visited: 23/09/12.
-
-\bibitem{roleofvideogames}
-Brian~A. Primack, Mary~V. Carroll, Megan McNamara, Mary~Lou Klem, Brandy King,
-  Michael Rich, Chun~W. Chan, and Smita Nayak.
-\newblock Role of video games in improving health-related outcomes: A
-  systematic review.
-\newblock {\em American journal of preventive medicine}, 42(6):630--638, June
-  2012.
 
 \bibitem{excell}
 Marie Williams, Roy Soiza, Alison Jenkinson, and Alison Stewart.
@@ -428,5 +428,19 @@ AlfaCareAS.
 \newblock
   \url{http://www.alfacare.no/produkter/treningsutstyr/kondisjon/tredemoller/abilica_sportsart_T670}.
 \newblock visited: 05/12/12.
+
+\bibitem{navhjelpemiddel}
+Hjelpemidler.
+\newblock Nav.
+\newblock
+  \url{http://www.nav.no/Helse/Hjelpemidler/Produkt-+og+prisoversikt/Produkt-+og+prisoversikter/_attachment/304105?_ts=135c99bee70&download=true}.
+\newblock visited: 19/11/12.
+
+\bibitem{navhjelpemiddelsentralen}
+Om~NAV Hjelpemiddelsentral.
+\newblock Nav.
+\newblock
+  \url{http://www.nav.no/Helse/Hjelpemidler/NAV+Hjelpemiddelsentral/Om+NAV+Hjelpemiddelsentral.1073751635.cms}.
+\newblock visited: 19/11/12.
 
 \end{thebibliography}

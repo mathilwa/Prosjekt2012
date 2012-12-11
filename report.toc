@@ -20,43 +20,43 @@
 \contentsline {subsection}{\numberline {4.2.4}Nintendo Wii}{24}
 \contentsline {subsection}{\numberline {4.2.5}Wii Fit Plus}{26}
 \contentsline {subsection}{\numberline {4.2.6}Microsoft Kinect for Xbox 360 and Windows}{26}
-\contentsline {section}{\numberline {4.3}Using Exergames for Fall Prevention and Rehabilitation: A background Study}{28}
-\contentsline {chapter}{\numberline {5}Osterwalder's Business Model Ontology}{35}
-\contentsline {section}{\numberline {5.1}Product}{38}
-\contentsline {subsection}{\numberline {5.1.1}Value Proposition}{38}
-\contentsline {section}{\numberline {5.2}Customer Interface}{39}
-\contentsline {subsection}{\numberline {5.2.1}Customer Segments}{39}
-\contentsline {subsection}{\numberline {5.2.2}Channels}{39}
-\contentsline {subsection}{\numberline {5.2.3}Customer Relationships}{42}
-\contentsline {section}{\numberline {5.3}Infrastructure Management}{43}
-\contentsline {subsection}{\numberline {5.3.1}Key Resources}{43}
-\contentsline {subsection}{\numberline {5.3.2}Key Activities}{44}
-\contentsline {subsection}{\numberline {5.3.3}Key Partnerships}{45}
-\contentsline {section}{\numberline {5.4}Financial Aspects}{46}
-\contentsline {subsection}{\numberline {5.4.1}Revenue Streams}{46}
-\contentsline {subsection}{\numberline {5.4.2}Cost Structure}{47}
-\contentsline {chapter}{\numberline {6}Information Gathering}{49}
-\contentsline {section}{\numberline {6.1}Qualitative Research}{49}
-\contentsline {subsection}{\numberline {6.1.1}Interview Methods}{50}
-\contentsline {subsection}{\numberline {6.1.2}Possible Pitfalls}{51}
-\contentsline {section}{\numberline {6.2}Interview Discussion}{52}
-\contentsline {chapter}{\numberline {7}Business Model for the Microsoft Kinect Based Exergame}{59}
-\contentsline {section}{\numberline {7.1}Product}{59}
-\contentsline {subsection}{\numberline {7.1.1}Value Proposition}{60}
-\contentsline {section}{\numberline {7.2}Customer Interface}{61}
-\contentsline {subsection}{\numberline {7.2.1}Customer Segments}{61}
-\contentsline {subsection}{\numberline {7.2.2}Channels}{63}
-\contentsline {subsection}{\numberline {7.2.3}Customer Relationships}{66}
-\contentsline {section}{\numberline {7.3}Infrastructure Management}{67}
-\contentsline {subsection}{\numberline {7.3.1}Key Resources}{67}
-\contentsline {subsection}{\numberline {7.3.2}Key Activities}{69}
-\contentsline {subsection}{\numberline {7.3.3}Key Partnerships}{71}
-\contentsline {section}{\numberline {7.4}Financial Aspects}{71}
-\contentsline {subsection}{\numberline {7.4.1}Cost Structure}{71}
-\contentsline {subsection}{\numberline {7.4.2}Revenue Streams}{78}
-\contentsline {subsection}{\numberline {7.4.3}Financial Analysis}{79}
-\contentsline {chapter}{\numberline {8}Discussion}{99}
-\contentsline {chapter}{\numberline {9}Conclusion}{107}
-\contentsline {section}{\numberline {9.1}Future Work}{107}
+\contentsline {section}{\numberline {4.3}Using Video Games for Exercising and Rehabilitation: A background Study}{28}
+\contentsline {chapter}{\numberline {5}Osterwalder's Business Model Ontology}{37}
+\contentsline {section}{\numberline {5.1}Product}{40}
+\contentsline {subsection}{\numberline {5.1.1}Value Proposition}{40}
+\contentsline {section}{\numberline {5.2}Customer Interface}{41}
+\contentsline {subsection}{\numberline {5.2.1}Customer Segments}{41}
+\contentsline {subsection}{\numberline {5.2.2}Channels}{41}
+\contentsline {subsection}{\numberline {5.2.3}Customer Relationships}{44}
+\contentsline {section}{\numberline {5.3}Infrastructure Management}{45}
+\contentsline {subsection}{\numberline {5.3.1}Key Resources}{45}
+\contentsline {subsection}{\numberline {5.3.2}Key Activities}{46}
+\contentsline {subsection}{\numberline {5.3.3}Key Partnerships}{47}
+\contentsline {section}{\numberline {5.4}Financial Aspects}{48}
+\contentsline {subsection}{\numberline {5.4.1}Revenue Streams}{48}
+\contentsline {subsection}{\numberline {5.4.2}Cost Structure}{49}
+\contentsline {chapter}{\numberline {6}Information Gathering}{51}
+\contentsline {section}{\numberline {6.1}Qualitative Research}{51}
+\contentsline {subsection}{\numberline {6.1.1}Interview Methods}{52}
+\contentsline {subsection}{\numberline {6.1.2}Possible Pitfalls}{53}
+\contentsline {section}{\numberline {6.2}Interview Discussion}{54}
+\contentsline {chapter}{\numberline {7}Business Model for the Microsoft Kinect Based Exergame}{61}
+\contentsline {section}{\numberline {7.1}Product}{61}
+\contentsline {subsection}{\numberline {7.1.1}Value Proposition}{62}
+\contentsline {section}{\numberline {7.2}Customer Interface}{63}
+\contentsline {subsection}{\numberline {7.2.1}Customer Segments}{63}
+\contentsline {subsection}{\numberline {7.2.2}Channels}{65}
+\contentsline {subsection}{\numberline {7.2.3}Customer Relationships}{68}
+\contentsline {section}{\numberline {7.3}Infrastructure Management}{69}
+\contentsline {subsection}{\numberline {7.3.1}Key Resources}{69}
+\contentsline {subsection}{\numberline {7.3.2}Key Activities}{71}
+\contentsline {subsection}{\numberline {7.3.3}Key Partnerships}{73}
+\contentsline {section}{\numberline {7.4}Financial Aspects}{73}
+\contentsline {subsection}{\numberline {7.4.1}Cost Structure}{73}
+\contentsline {subsection}{\numberline {7.4.2}Revenue Streams}{80}
+\contentsline {subsection}{\numberline {7.4.3}Financial Analysis}{81}
+\contentsline {chapter}{\numberline {8}Discussion}{101}
+\contentsline {chapter}{\numberline {9}Conclusion}{109}
+\contentsline {section}{\numberline {9.1}Future Work}{109}
 \contentsline {chapter}{Bibliography}{}
 \contentsline {chapter}{Appendix}{}
