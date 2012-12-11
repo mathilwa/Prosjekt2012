@@ -40,7 +40,7 @@
 \contentsline {subsection}{\numberline {6.1.1}Interview Methods}{50}
 \contentsline {subsection}{\numberline {6.1.2}Possible Pitfalls}{51}
 \contentsline {section}{\numberline {6.2}Interview Discussion}{52}
-\contentsline {chapter}{\numberline {7}Business Model for the Microsoft Kinect Based Exercise Game}{59}
+\contentsline {chapter}{\numberline {7}Business Model for the Microsoft Kinect Based Exergame}{59}
 \contentsline {section}{\numberline {7.1}Product}{59}
 \contentsline {subsection}{\numberline {7.1.1}Value Proposition}{60}
 \contentsline {section}{\numberline {7.2}Customer Interface}{61}
@@ -55,8 +55,8 @@
 \contentsline {subsection}{\numberline {7.4.1}Cost Structure}{71}
 \contentsline {subsection}{\numberline {7.4.2}Revenue Streams}{78}
 \contentsline {subsection}{\numberline {7.4.3}Financial Analysis}{79}
-\contentsline {chapter}{\numberline {8}Discussion}{97}
-\contentsline {chapter}{\numberline {9}Conclusion}{105}
-\contentsline {section}{\numberline {9.1}Future Work}{105}
+\contentsline {chapter}{\numberline {8}Discussion}{99}
+\contentsline {chapter}{\numberline {9}Conclusion}{107}
+\contentsline {section}{\numberline {9.1}Future Work}{107}
 \contentsline {chapter}{Bibliography}{}
 \contentsline {chapter}{Appendix}{}
