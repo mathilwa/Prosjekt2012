@@ -40,24 +40,24 @@
 \contentsline {section}{\numberline {6.1}Qualitative Research}{55}
 \contentsline {subsection}{\numberline {6.1.1}Interview Methods}{56}
 \contentsline {subsection}{\numberline {6.1.2}Possible Pitfalls}{57}
-\contentsline {section}{\numberline {6.2}Interview Discussion}{58}
-\contentsline {chapter}{\numberline {7}Business Model for the Microsoft Kinect Based Exergame}{65}
-\contentsline {section}{\numberline {7.1}Product}{65}
-\contentsline {subsection}{\numberline {7.1.1}Value Proposition}{66}
-\contentsline {section}{\numberline {7.2}Customer Interface}{67}
-\contentsline {subsection}{\numberline {7.2.1}Customer Segments}{67}
-\contentsline {subsection}{\numberline {7.2.2}Channels}{69}
-\contentsline {subsection}{\numberline {7.2.3}Customer Relationships}{72}
-\contentsline {section}{\numberline {7.3}Infrastructure Management}{73}
-\contentsline {subsection}{\numberline {7.3.1}Key Resources}{73}
-\contentsline {subsection}{\numberline {7.3.2}Key Activities}{75}
-\contentsline {subsection}{\numberline {7.3.3}Key Partnerships}{77}
-\contentsline {section}{\numberline {7.4}Financial Aspects}{77}
-\contentsline {subsection}{\numberline {7.4.1}Cost Structure}{77}
-\contentsline {subsection}{\numberline {7.4.2}Revenue Streams}{84}
-\contentsline {subsection}{\numberline {7.4.3}Financial Analysis}{85}
-\contentsline {chapter}{\numberline {8}Discussion}{107}
-\contentsline {chapter}{\numberline {9}Conclusion}{115}
-\contentsline {section}{\numberline {9.1}Future Work}{115}
+\contentsline {chapter}{\numberline {7}Interview Discussion}{59}
+\contentsline {chapter}{\numberline {8}Business Model for the Microsoft Kinect Based Exergame}{65}
+\contentsline {section}{\numberline {8.1}Product}{65}
+\contentsline {subsection}{\numberline {8.1.1}Value Proposition}{66}
+\contentsline {section}{\numberline {8.2}Customer Interface}{67}
+\contentsline {subsection}{\numberline {8.2.1}Customer Segments}{67}
+\contentsline {subsection}{\numberline {8.2.2}Channels}{69}
+\contentsline {subsection}{\numberline {8.2.3}Customer Relationships}{72}
+\contentsline {section}{\numberline {8.3}Infrastructure Management}{73}
+\contentsline {subsection}{\numberline {8.3.1}Key Resources}{73}
+\contentsline {subsection}{\numberline {8.3.2}Key Activities}{75}
+\contentsline {subsection}{\numberline {8.3.3}Key Partnerships}{77}
+\contentsline {section}{\numberline {8.4}Financial Aspects}{77}
+\contentsline {subsection}{\numberline {8.4.1}Cost Structure}{77}
+\contentsline {subsection}{\numberline {8.4.2}Revenue Streams}{84}
+\contentsline {subsection}{\numberline {8.4.3}Financial Analysis}{85}
+\contentsline {chapter}{\numberline {9}Discussion}{107}
+\contentsline {chapter}{\numberline {10}Conclusion}{115}
+\contentsline {section}{\numberline {10.1}Future Work}{115}
 \contentsline {chapter}{Bibliography}{}
 \contentsline {chapter}{Appendix}{}
