@@ -46,9 +46,9 @@
 \contentsline {subsection}{\numberline {8.1.1}Value Proposition}{66}
 \contentsline {section}{\numberline {8.2}Customer Interface}{67}
 \contentsline {subsection}{\numberline {8.2.1}Customer Segments}{67}
-\contentsline {subsection}{\numberline {8.2.2}Channels}{69}
+\contentsline {subsection}{\numberline {8.2.2}Channels}{68}
 \contentsline {subsection}{\numberline {8.2.3}Customer Relationships}{72}
-\contentsline {section}{\numberline {8.3}Infrastructure Management}{73}
+\contentsline {section}{\numberline {8.3}Infrastructure Management}{72}
 \contentsline {subsection}{\numberline {8.3.1}Key Resources}{73}
 \contentsline {subsection}{\numberline {8.3.2}Key Activities}{75}
 \contentsline {subsection}{\numberline {8.3.3}Key Partnerships}{77}
@@ -57,7 +57,7 @@
 \contentsline {subsection}{\numberline {8.4.2}Revenue Streams}{84}
 \contentsline {subsection}{\numberline {8.4.3}Financial Analysis}{85}
 \contentsline {chapter}{\numberline {9}Discussion}{107}
-\contentsline {chapter}{\numberline {10}Conclusion}{115}
-\contentsline {section}{\numberline {10.1}Future Work}{115}
+\contentsline {chapter}{\numberline {10}Conclusion}{117}
+\contentsline {section}{\numberline {10.1}Future Work}{117}
 \contentsline {chapter}{Bibliography}{}
 \contentsline {chapter}{Appendix}{}
