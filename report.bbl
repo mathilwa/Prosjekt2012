@@ -1,11 +1,5 @@
 \begin{thebibliography}{10}
 
-\bibitem{osterwalder}
-Alexander Osterwalder and Yves Pigneur.
-\newblock {\em Business Model Generation: A Handbook for Visionaries, Game
-  Changers, and Challangers}.
-\newblock John Wiley \& Sons, Inc., Hoboken, New Jersey, 2010.
-
 \bibitem{gameup}
 gameup.
 \newblock \url{http://www.gameupproject.eu/}.
@@ -60,6 +54,7 @@ Helse og~omsorgsdepartementet.
 Helsedirektoratet.
 \newblock Velferdsteknologi. fagrapport om implementering av velferdsteknologi
   i de kommunale helse- og omsorgstjenestene 2013-2030.
+\newblock (In Norwegian).
 
 \bibitem{physiotherapy1}
 Norsk Fysioterapiforbund.
@@ -167,7 +162,8 @@ VGChartz.
 Forbes.
 \newblock New reports forecast global video game industry will reach \$82
   billion by 2017.
-\newblock \url{http://www.vg.no}.
+\newblock
+  \url{http://www.forbes.com/sites/johngaudiosi/2012/07/18/new-reports-forecasts-global-video-game-industry-will-reach-82-billion-by-2017/}.
 \newblock visited: 02/11/12.
 
 \bibitem{aboutdfcint}
@@ -348,6 +344,12 @@ Alexander Osterwalder.
 \newblock {\em The Business Model Ontology: A Proposition in a Design Science
   Approach}.
 \newblock PhD thesis, Universite de Lausanne, 2004.
+
+\bibitem{osterwalder}
+Alexander Osterwalder and Yves Pigneur.
+\newblock {\em Business Model Generation: A Handbook for Visionaries, Game
+  Changers, and Challangers}.
+\newblock John Wiley \& Sons, Inc., Hoboken, New Jersey, 2010.
 
 \bibitem{interview2}
 Gerd Lilledahl, Atle Wehn~Hegnes, Tone Opdahl, Henrik Gi{æ}ver, Finn Johansen,

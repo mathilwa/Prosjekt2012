@@ -23,19 +23,19 @@
 \contentsline {subsection}{\numberline {4.2.6}Microsoft Kinect for Xbox 360 and Windows}{30}
 \contentsline {section}{\numberline {4.3}Using Video Games for Exercising and Rehabilitation: A background Study}{30}
 \contentsline {chapter}{\numberline {5}Osterwalder's Business Model Ontology}{41}
-\contentsline {section}{\numberline {5.1}Product}{44}
-\contentsline {subsection}{\numberline {5.1.1}Value Proposition}{44}
-\contentsline {section}{\numberline {5.2}Customer Interface}{45}
-\contentsline {subsection}{\numberline {5.2.1}Customer Segments}{45}
+\contentsline {section}{\numberline {5.1}Product}{42}
+\contentsline {subsection}{\numberline {5.1.1}Value Proposition}{42}
+\contentsline {section}{\numberline {5.2}Customer Interface}{44}
+\contentsline {subsection}{\numberline {5.2.1}Customer Segments}{44}
 \contentsline {subsection}{\numberline {5.2.2}Channels}{45}
-\contentsline {subsection}{\numberline {5.2.3}Customer Relationships}{48}
-\contentsline {section}{\numberline {5.3}Infrastructure Management}{49}
-\contentsline {subsection}{\numberline {5.3.1}Key Resources}{49}
-\contentsline {subsection}{\numberline {5.3.2}Key Activities}{50}
-\contentsline {subsection}{\numberline {5.3.3}Key Partnerships}{51}
-\contentsline {section}{\numberline {5.4}Financial Aspects}{52}
-\contentsline {subsection}{\numberline {5.4.1}Revenue Streams}{52}
-\contentsline {subsection}{\numberline {5.4.2}Cost Structure}{53}
+\contentsline {subsection}{\numberline {5.2.3}Customer Relationships}{47}
+\contentsline {section}{\numberline {5.3}Infrastructure Management}{48}
+\contentsline {subsection}{\numberline {5.3.1}Key Resources}{48}
+\contentsline {subsection}{\numberline {5.3.2}Key Activities}{49}
+\contentsline {subsection}{\numberline {5.3.3}Key Partnerships}{50}
+\contentsline {section}{\numberline {5.4}Financial Aspects}{51}
+\contentsline {subsection}{\numberline {5.4.1}Revenue Streams}{51}
+\contentsline {subsection}{\numberline {5.4.2}Cost Structure}{52}
 \contentsline {chapter}{\numberline {6}Information Gathering}{55}
 \contentsline {section}{\numberline {6.1}Qualitative Research}{55}
 \contentsline {subsection}{\numberline {6.1.1}Interview Methods}{56}
