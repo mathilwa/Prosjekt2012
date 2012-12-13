@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.3)  13 DEC 2012 19:03
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.7)  13 DEC 2012 20:39
 entering extended mode
 **report.tex
-(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.tex
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\report.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,9 +13,9 @@ an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese,
 romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
 sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
 senglishmax, welsh, loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+("C:\Program Files (x86)\Miktex\tex\latex\base\report.cls"
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+("C:\Program Files (x86)\Miktex\tex\latex\base\size11.clo"
 File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -31,64 +31,64 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\acronym\acronym.sty"
-Package: acronym 2012/09/04 v1.37 Support for acronyms (Tobias Oetiker)
+("C:\Program Files (x86)\Miktex\tex\latex\acronym\acronym.sty"
+Package: acronym 2010/09/08 v1.36 Support for acronyms (Tobias Oetiker)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\bigfoot\suffix.sty"
+("C:\Program Files (x86)\Miktex\tex\latex\bigfoot\suffix.sty"
 Package: suffix 2006/07/15 1.5 Variant command support
 )
 \AC@clearlist=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Program Files (x86)\Miktex\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Program Files (x86)\Miktex\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+("C:\Program Files (x86)\Miktex\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files (x86)\Miktex\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files (x86)\Miktex\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+("C:\Program Files (x86)\Miktex\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+("C:\Program Files (x86)\Miktex\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+("C:\Program Files (x86)\Miktex\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cite\cite.sty"
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 373.
 Package: cite 2010/09/10  v 5.3
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+("C:\Program Files (x86)\Miktex\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+("C:\Program Files (x86)\Miktex\tex\latex\base\utf8.def"
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+("C:\Program Files (x86)\Miktex\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -238,7 +238,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+("C:\Program Files (x86)\Miktex\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -269,7 +269,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+("C:\Program Files (x86)\Miktex\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -293,14 +293,14 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+("C:\Program Files (x86)\Miktex\tex\latex\ltxmisc\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+("C:\Program Files (x86)\Miktex\tex\latex\base\ifthen.sty"
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count89
@@ -309,140 +309,111 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 \rot@float@box=\box26
 \rot@mess@toks=\toks18
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\mh\mathtools.sty"
-Package: mathtools 2012/04/24 v1.12 mathematical typesetting tools
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
-Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count90
-\calc@Bcount=\count91
-\calc@Adimen=\dimen105
-\calc@Bdimen=\dimen106
-\calc@Askip=\skip45
-\calc@Bskip=\skip46
-LaTeX Info: Redefining \setlength on input line 76.
-LaTeX Info: Redefining \addtolength on input line 77.
-\calc@Ccount=\count92
-\calc@Cskip=\skip47
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\mh\mhsetup.sty"
-Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+("C:\Program Files (x86)\Miktex\tex\latex\ams\math\amsmath.sty"
 Package: amsmath 2000/07/18 v2.13 AMS math features
-\@mathmargin=\skip48
+\@mathmargin=\skip45
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+("C:\Program Files (x86)\Miktex\tex\latex\ams\math\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+("C:\Program Files (x86)\Miktex\tex\latex\ams\math\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks19
-\ex@=\dimen107
+\ex@=\dimen105
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+("C:\Program Files (x86)\Miktex\tex\latex\ams\math\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen108
+\pmbraise@=\dimen106
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+("C:\Program Files (x86)\Miktex\tex\latex\ams\math\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count93
+\inf@bad=\count90
 LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count94
-\leftroot@=\count95
+\uproot@=\count91
+\leftroot@=\count92
 LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count96
-\DOTSCASE@=\count97
+\classnum@=\count93
+\DOTSCASE@=\count94
 LaTeX Info: Redefining \ldots on input line 379.
 LaTeX Info: Redefining \dots on input line 382.
 LaTeX Info: Redefining \cdots on input line 467.
 \Mathstrutbox@=\box27
 \strutbox@=\box28
-\big@size=\dimen109
+\big@size=\dimen107
 LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count98
-\c@MaxMatrixCols=\count99
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
 \dotsspace@=\muskip11
-\c@parentequation=\count100
-\dspbrk@lvl=\count101
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
 \tag@help=\toks20
-\row@=\count102
-\column@=\count103
-\maxfields@=\count104
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
 \andhelp@=\toks21
-\eqnshift@=\dimen110
-\alignsep@=\dimen111
-\tagshift@=\dimen112
-\tagwidth@=\dimen113
-\totwidth@=\dimen114
-\lineht@=\dimen115
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
 \@envbody=\toks22
-\multlinegap=\skip49
-\multlinetaggap=\skip50
+\multlinegap=\skip46
+\multlinetaggap=\skip47
 \mathdisplay@stack=\toks23
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-\g_MT_multlinerow_int=\count105
-\l_MT_multwidth_dim=\dimen116
-\origjot=\skip51
-\l_MT_shortvdotswithinadjustabove_dim=\dimen117
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen118
-\l_MT_above_intertext_dim=\dimen119
-\l_MT_below_intertext_dim=\dimen120
-\l_MT_above_shortintertext_dim=\dimen121
-\l_MT_below_shortintertext_dim=\dimen122
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip48
+\f@ncyO@elh=\skip49
+\f@ncyO@erh=\skip50
+\f@ncyO@olh=\skip51
+\f@ncyO@orh=\skip52
+\f@ncyO@elf=\skip53
+\f@ncyO@erf=\skip54
+\f@ncyO@olf=\skip55
+\f@ncyO@orf=\skip56
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
-\fancy@headwidth=\skip52
-\f@ncyO@elh=\skip53
-\f@ncyO@erh=\skip54
-\f@ncyO@olh=\skip55
-\f@ncyO@orh=\skip56
-\f@ncyO@elf=\skip57
-\f@ncyO@erf=\skip58
-\f@ncyO@olf=\skip59
-\f@ncyO@orf=\skip60
-)
-(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\report.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count106
-\scratchdimen=\dimen123
+\scratchcounter=\count102
+\scratchdimen=\dimen114
 \scratchbox=\box29
-\nofMPsegments=\count107
-\nofMParguments=\count108
+\nofMPsegments=\count103
+\nofMParguments=\count104
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count109
-\MPscratchDim=\dimen124
-\MPnumerator=\count110
-\makeMPintoPDFobject=\count111
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen115
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
 \everyMPtoPDFconversion=\toks25
 ) <NTNU-logo.png, id=1, 241.3818pt x 52.998pt>
 File: NTNU-logo.png Graphic file (type png)
  <use NTNU-logo.png>
-Package pdftex.def Info: NTNU-logo.png used on input line 17.
+Package pdftex.def Info: NTNU-logo.png used on input line 16.
 (pdftex.def)             Requested size: 144.83018pt x 31.79903pt.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/kineaasj/Documen
-ts/GitHub/Prosjekt2012/NTNU-logo.png>] [2
+{C:/Users/Line/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Lin
+e/Documents/GitHub/Prosjekt2012/NTNU-logo.png>] [2
 
 ] [1] [2] [3
 
@@ -450,24 +421,24 @@ ts/GitHub/Prosjekt2012/NTNU-logo.png>] [2
 ] [4
 
 ]
-(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.toc [1
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\report.toc [1
 
 ] [2])
 \tf@toc=\write3
- [3]
-[4
+ [3] [4
 
-] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\acronyms.tex) [5
+]
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\acronyms.tex) [5
 
 ] [6
 
 ]
-(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.lof [7
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\report.lof [7
 
 ])
 \tf@lof=\write4
  [8]
-(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.lot)
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\report.lot)
 \tf@lot=\write5
  [9
 
@@ -475,7 +446,7 @@ ts/GitHub/Prosjekt2012/NTNU-logo.png>] [2
 ] [10
 
 ]
-(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\introduction.tex
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\introduction.tex
 Chapter 1.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
@@ -498,7 +469,11 @@ Underfull \vbox (badness 6078) has occurred while \output is active []
  [1
 
 ]
-[2] [3]) [4] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\motivation.tex
+[2]
+Underfull \vbox (badness 2582) has occurred while \output is active []
+
+ [3])
+[4] (C:\Users\Line\Documents\GitHub\Prosjekt2012\motivation.tex
 Chapter 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
@@ -542,7 +517,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--17
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
-[7]) [8] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\healthpolitics.tex
+[7]) [8] (C:\Users\Line\Documents\GitHub\Prosjekt2012\healthpolitics.tex
 Chapter 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
@@ -631,7 +606,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--29
  []
 
 [13] [14] [15]) [16]
-(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\technological.tex
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\technological.tex
 Chapter 4.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
@@ -729,13 +704,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--51
 
  []
 
-[19 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/consolewarwii.png>]
+[19 <C:/Users/Line/Documents/GitHub/Prosjekt2012/consolewarwii.png>]
 Underfull \vbox (badness 6675) has occurred while \output is active []
 
- [20 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/xboxwiisales.png>]
+ [20 <C:/Users/Line/Documents/GitHub/Prosjekt2012/xboxwiisales.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/gamersus.png>]
+ [21 <C:/Users/Line/Documents/GitHub/Prosjekt2012/gamersus.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 53--57
 
  []
@@ -750,10 +725,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--57
 
  []
 
-[22 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/gendergameplayers.png>]
-[23 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/gamestatisticsnorway.png>]
+[22 <C:/Users/Line/Documents/GitHub/Prosjekt2012/gendergameplayers.png>]
+[23 <C:/Users/Line/Documents/GitHub/Prosjekt2012/gamestatisticsnorway.png>]
 Package acronym Info: Label `acro:ddr' newly defined as it shall be overridden
 although it is yet undefined on input line 58.
+
 <ddrpad.jpg, id=140, 301.125pt x 301.125pt>
 File: ddrpad.jpg Graphic file (type jpg)
  <use ddrpad.jpg>
@@ -780,17 +756,18 @@ File: PSmove.jpg Graphic file (type jpg)
  <use PSmove.jpg>
 Package pdftex.def Info: PSmove.jpg used on input line 80.
 (pdftex.def)             Requested size: 90.33818pt x 161.40424pt.
- [25] [26 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/ddrpad.jpg> <C:/User
-s/kineaasj/Documents/GitHub/Prosjekt2012/pseyetoy.jpg>]
-<nintendowii.jpg, id=152, 362.35374pt x 401.5pt>
+ [25] [26 <C:/Users/Line/Documents/GitHub/Prosjekt2012/ddrpad.jpg> <C:/Users/Li
+ne/Documents/GitHub/Prosjekt2012/pseyetoy.jpg>] <nintendowii.jpg, id=152, 362.3
+5374pt x 401.5pt>
 File: nintendowii.jpg Graphic file (type jpg)
- <use nintendowii.jpg>
+
+<use nintendowii.jpg>
 Package pdftex.def Info: nintendowii.jpg used on input line 91.
 (pdftex.def)             Requested size: 108.70695pt x 120.45091pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/PSmove.jpg>]
+ [27 <C:/Users/Line/Documents/GitHub/Prosjekt2012/PSmove.jpg>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -813,8 +790,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 108--116
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/nintendowii.jpg> <C:/User
-s/kineaasj/Documents/GitHub/Prosjekt2012/wiibalance.jpg>]
+ [29 <C:/Users/Line/Documents/GitHub/Prosjekt2012/nintendowii.jpg> <C:/Users/Li
+ne/Documents/GitHub/Prosjekt2012/wiibalance.jpg>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -881,11 +858,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 118--130
 
  []
 
-[30] [31 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/kinect.jpg>] [32]
+[30] [31 <C:/Users/Line/Documents/GitHub/Prosjekt2012/kinect.jpg>] [32]
 [33] [34] [35] [36] [37] [38]) [39] [40
 
 ]
-(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\osterwalderbusinessmodel.tex
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\osterwalderbusinessmodel.tex
 Chapter 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
@@ -909,8 +886,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--20
 
  []
 
-[42] [43 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/osterwaldersbmmodifie
-d.png>]
+[42] [43 <C:/Users/Line/Documents/GitHub/Prosjekt2012/osterwaldersbmmodified.pn
+g>]
 Underfull \hbox (badness 10000) in paragraph at lines 25--27
 
  []
@@ -940,8 +917,8 @@ File: channeltypes.png Graphic file (type png)
 Package pdftex.def Info: channeltypes.png used on input line 42.
 (pdftex.def)             Requested size: 352.01273pt x 143.3345pt.
 
-[45] [46 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/kjopskjede.png>]
-[47 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/channeltypes.png>]
+[45] [46 <C:/Users/Line/Documents/GitHub/Prosjekt2012/kjopskjede.png>] [47 <C:/
+Users/Line/Documents/GitHub/Prosjekt2012/channeltypes.png>]
 <valuechainnew.png, id=229, 609.77812pt x 51.94406pt>
 File: valuechainnew.png Graphic file (type png)
  <use valuechainnew.png>
@@ -962,7 +939,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--77
 
  []
 
-[48] [49 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/valuechainnew.png>]
+[48] [49 <C:/Users/Line/Documents/GitHub/Prosjekt2012/valuechainnew.png>]
 <valueshopnew.png, id=237, 366.61969pt x 181.42781pt>
 File: valueshopnew.png Graphic file (type png)
  <use valueshopnew.png>
@@ -980,12 +957,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--96
 
  []
 
-[50 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/valueshopnew.png>]
+[50 <C:/Users/Line/Documents/GitHub/Prosjekt2012/valueshopnew.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 110--112
 
  []
 
-[51 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/valuenetworknew.png>]
+[51 <C:/Users/Line/Documents/GitHub/Prosjekt2012/valuenetworknew.png>]
 Overfull \hbox (23.91385pt too wide) in paragraph at lines 116--129
  [][] 
  []
@@ -1003,7 +980,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--133
 [52]) [53] [54
 
 ]
-(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\informationgathering.tex
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\informationgathering.tex
 Chapter 6.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
@@ -1032,71 +1009,70 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--25
 
  []
 
-[57]) [58]
-(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\interviewdiscussion.tex
+[57]) [58] (C:\Users\Line\Documents\GitHub\Prosjekt2012\interviewdiscussion.tex
 Chapter 7.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 2--97
+Underfull \hbox (badness 10000) in paragraph at lines 2--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--97
+Underfull \hbox (badness 10000) in paragraph at lines 2--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--97
+Underfull \hbox (badness 10000) in paragraph at lines 2--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--97
+Underfull \hbox (badness 10000) in paragraph at lines 2--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--97
+Underfull \hbox (badness 10000) in paragraph at lines 2--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--97
+Underfull \hbox (badness 10000) in paragraph at lines 2--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--97
+Underfull \hbox (badness 10000) in paragraph at lines 2--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--97
+Underfull \hbox (badness 10000) in paragraph at lines 2--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--97
+Underfull \hbox (badness 10000) in paragraph at lines 2--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--97
+Underfull \hbox (badness 10000) in paragraph at lines 2--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--97
+Underfull \hbox (badness 10000) in paragraph at lines 2--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--97
+Underfull \hbox (badness 10000) in paragraph at lines 2--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--97
+Underfull \hbox (badness 10000) in paragraph at lines 2--96
 
  []
 
@@ -1108,7 +1084,7 @@ Underfull \vbox (badness 6078) has occurred while \output is active []
 
 ]
 [60] [61] [62] [63] [64]
-(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\business-model-of-case.tex
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\business-model-of-case.tex
 Chapter 8.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
@@ -1191,19 +1167,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--41
 
  []
 
-[68] [69 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/channels.png>]
-[70] [71] [72] [73]
-Underfull \hbox (badness 10000) in paragraph at lines 77--81
+[68] [69 <C:/Users/Line/Documents/GitHub/Prosjekt2012/channels.png>] [70]
+[71] [72] [73]
+Underfull \hbox (badness 10000) in paragraph at lines 78--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--81
+Underfull \hbox (badness 10000) in paragraph at lines 78--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--81
+Underfull \hbox (badness 10000) in paragraph at lines 78--82
 
  []
 
@@ -1225,7 +1201,7 @@ Overfull \hbox (30.26547pt too wide) in paragraph at lines 88--89
  [] 
  []
 
-[76 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/valuechaincase.png>]
+[76 <C:/Users/Line/Documents/GitHub/Prosjekt2012/valuechaincase.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
@@ -1435,18 +1411,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 228--281
 
  []
 
-[85] [86] [87] [88 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/scurve.png>
-] [89 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/scurve2.png>] [90 <C:/Us
-ers/kineaasj/Documents/GitHub/Prosjekt2012/revenuestreamprice.png>] [91]
-[92] [93 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/fixedlowprice.png>]
-<revenuestreamquantity.png, id=389, 554.82281pt x 329.73187pt>
+[85] [86] [87] [88 <C:/Users/Line/Documents/GitHub/Prosjekt2012/scurve.png>]
+[89 <C:/Users/Line/Documents/GitHub/Prosjekt2012/scurve2.png>] [90 <C:/Users/Li
+ne/Documents/GitHub/Prosjekt2012/revenuestreamprice.png>] [91] [92] [93 <C:/Use
+rs/Line/Documents/GitHub/Prosjekt2012/fixedlowprice.png>]
+<revenuestreamquantity.png, id=389, 590.95781pt x 330.48468pt>
 File: revenuestreamquantity.png Graphic file (type png)
 
 <use revenuestreamquantity.png>
 Package pdftex.def Info: revenuestreamquantity.png used on input line 297.
-(pdftex.def)             Requested size: 388.37332pt x 230.81071pt.
+(pdftex.def)             Requested size: 413.66765pt x 231.33769pt.
 
-Overfull \hbox (32.37332pt too wide) in paragraph at lines 297--298
+Overfull \hbox (57.66765pt too wide) in paragraph at lines 297--298
  [] 
  []
 
@@ -1500,10 +1476,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 314--319
 Underfull \vbox (badness 6493) has occurred while \output is active []
 
  [94]
-[95] [96 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/revenuestreamquantity
-.png>] [97 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/relationpriceanduni
-ts.png>] [98 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/profitfixed.png>]
-[99] <revenuestreamusage.png, id=414, 478.78876pt x 295.1025pt>
+[95] [96 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamquantity.png
+>] [97 <C:/Users/Line/Documents/GitHub/Prosjekt2012/relationpriceandunits.png>]
+[98 <C:/Users/Line/Documents/GitHub/Prosjekt2012/profitfixed.png>] [99]
+<revenuestreamusage.png, id=414, 478.78876pt x 295.1025pt>
 File: revenuestreamusage.png Graphic file (type png)
 
 <use revenuestreamusage.png>
@@ -1536,9 +1512,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 334--335
 
  []
 
-[100 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/revenuestreamusage.png>]
-[101 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/usagewithwithoutstartpric
-e.png>] <profitusagefee.png, id=424, 492.33937pt x 367.3725pt>
+[100 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuestreamusage.png>]
+[101 <C:/Users/Line/Documents/GitHub/Prosjekt2012/usagewithwithoutstartprice.pn
+g>] <profitusagefee.png, id=424, 492.33937pt x 367.3725pt>
 File: profitusagefee.png Graphic file (type png)
 
 <use profitusagefee.png>
@@ -1575,17 +1551,102 @@ Overfull \hbox (29.19067pt too wide) in paragraph at lines 363--364
  [][] 
  []
 
-) [104] [105 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/profitusagefee.pn
-g>] [106 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/revenueall.png>]
-(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\discussion.tex
+) [104] [105 <C:/Users/Line/Documents/GitHub/Prosjekt2012/profitusagefee.png>]
+[106 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenueall.png>]
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\discussion.tex
 Chapter 9.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--22
 
  []
 
@@ -1596,98 +1657,14 @@ Underfull \vbox (badness 6078) has occurred while \output is active []
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 6--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--24
-
- []
-
 [108] [109] [110] [111] [112] [113] [114]) [115] [116
 
 ]
-(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\conclusion.tex
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\conclusion.tex
 Chapter 10.
 ) [117
 
-] [118] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.bbl
+] [118] (C:\Users\Line\Documents\GitHub\Prosjekt2012\report.bbl
 Underfull \hbox (badness 4726) in paragraph at lines 40--45
 []\OT1/cmr/m/n/10.95 Radmannens forslag til handlings- og konomi-plan 2013-20
 16
@@ -1943,7 +1920,7 @@ V +$
 
 ) [1] [2
 
-] (C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\appendix.tex
+] (C:\Users\Line\Documents\GitHub\Prosjekt2012\appendix.tex
 Overfull \hbox (5.77632pt too wide) in paragraph at lines 8--47
 \OT1/cmr/m/n/10.95 Utdannelse: Hov-edfag og dok-tor-grad i fy-s-ioter-api, ved 
 Uni-ver-sitetet i Bergen. 
@@ -2249,11 +2226,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--158
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--158
-
- []
-
-
 Overfull \hbox (19.63998pt too wide) in paragraph at lines 105--158
 \OT1/cmr/m/it/10.95 -Hva skal til for at dere skal kjpe/ta i bruk nye pro-duk-
 ter/hjelpemidler/verkty? 
@@ -2339,7 +2311,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--158
 
  []
 
-[15] [16] [17] [18] [19]
+[15] [16] [17] [18] [19] [20]
 Underfull \hbox (badness 10000) in paragraph at lines 163--177
 
  []
@@ -2369,7 +2341,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 163--177
 
  []
 
-[20] [21] <calcFTE.png, id=571, 469.755pt x 136.25906pt>
+[21] [22] <calcFTE.png, id=575, 469.755pt x 136.25906pt>
 File: calcFTE.png Graphic file (type png)
  <use calcFTE.png>
 Package pdftex.def Info: calcFTE.png used on input line 183.
@@ -2379,19 +2351,19 @@ Overfull \hbox (19.80452pt too wide) in paragraph at lines 183--185
  [] 
  []
 
-<appendixlonn.png, id=572, 417.05812pt x 492.33937pt>
+<appendixlonn.png, id=576, 417.05812pt x 492.33937pt>
 File: appendixlonn.png Graphic file (type png)
  <use appendixlonn.png>
 Package pdftex.def Info: appendixlonn.png used on input line 196.
 (pdftex.def)             Requested size: 291.93869pt x 344.6352pt.
 
-[22 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/calcFTE.png>] [23 <C:/User
-s/kineaasj/Documents/GitHub/Prosjekt2012/appendixlonn.png>]
+[23 <C:/Users/Line/Documents/GitHub/Prosjekt2012/calcFTE.png>] [24 <C:/Users/Li
+ne/Documents/GitHub/Prosjekt2012/appendixlonn.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 213--218
 
  []
 
-<revenuepvappendixfixed.png, id=583, 475.7775pt x 307.1475pt>
+<revenuepvappendixfixed.png, id=586, 475.7775pt x 307.1475pt>
 File: revenuepvappendixfixed.png Graphic file (type png)
 
 <use revenuepvappendixfixed.png>
@@ -2402,7 +2374,7 @@ Overfull \hbox (24.6225pt too wide) in paragraph at lines 237--238
  [] 
  []
 
-<revenuepvappendixusage.png, id=584, 481.8pt x 347.04657pt>
+<revenuepvappendixusage.png, id=587, 481.8pt x 347.04657pt>
 File: revenuepvappendixusage.png Graphic file (type png)
 
 <use revenuepvappendixusage.png>
@@ -2413,7 +2385,7 @@ Overfull \hbox (29.4405pt too wide) in paragraph at lines 245--246
  [] 
  []
 
-<revenuepvappendixassumptations.png, id=585, 219.82124pt x 51.94406pt>
+<revenuepvappendixassumptations.png, id=588, 219.82124pt x 51.94406pt>
 File: revenuepvappendixassumptations.png Graphic file (type png)
 
 <use revenuepvappendixassumptations.png>
@@ -2421,7 +2393,7 @@ Package pdftex.def Info: revenuepvappendixassumptations.png used on input line
 253.
 (pdftex.def)             Requested size: 175.85722pt x 41.55528pt.
 
-<revenuepvappendixprofitrounded.png, id=586, 226.59656pt x 178.41656pt>
+<revenuepvappendixprofitrounded.png, id=589, 226.59656pt x 178.41656pt>
 File: revenuepvappendixprofitrounded.png Graphic file (type png)
 
 <use revenuepvappendixprofitrounded.png>
@@ -2429,7 +2401,7 @@ Package pdftex.def Info: revenuepvappendixprofitrounded.png used on input line
 261.
 (pdftex.def)             Requested size: 181.27748pt x 142.73343pt.
 
-<revenuepvappendixprofit.png, id=587, 477.28313pt x 183.68625pt>
+<revenuepvappendixprofit.png, id=590, 477.28313pt x 183.68625pt>
 File: revenuepvappendixprofit.png Graphic file (type png)
 
 <use revenuepvappendixprofit.png>
@@ -2440,19 +2412,18 @@ Overfull \hbox (25.82701pt too wide) in paragraph at lines 269--270
  [] 
  []
 
-[24] [25 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/revenuepvappendixfixe
-d.png>] [26 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/revenuepvappendixu
-sage.png> <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/revenuepvappendixass
-umptations.png>] [27 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/revenuepv
-appendixprofitrounded.png> <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/rev
-enuepvappendixprofit.png>]
-<antallklinikker.png, id=604, 264.23718pt x 398.99063pt>
+[25] [26 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuepvappendixfixed.pn
+g>] [27 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuepvappendixusage.png
+> <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuepvappendixassumptations.p
+ng>] [28 <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuepvappendixprofitro
+unded.png> <C:/Users/Line/Documents/GitHub/Prosjekt2012/revenuepvappendixprofit
+.png>] <antallklinikker.png, id=608, 264.23718pt x 398.99063pt>
 File: antallklinikker.png Graphic file (type png)
 
 <use antallklinikker.png>
 Package pdftex.def Info: antallklinikker.png used on input line 283.
 (pdftex.def)             Requested size: 211.39001pt x 319.19293pt.
- <kilder.png, id=605, 447.92343pt x 441.90094pt>
+ <kilder.png, id=609, 447.92343pt x 441.90094pt>
 File: kilder.png Graphic file (type png)
 
 <use kilder.png>
@@ -2463,32 +2434,32 @@ Overfull \hbox (2.33922pt too wide) in paragraph at lines 290--292
  [] 
  []
 
-) [28] [29 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/antallklinikker.png
->] [30 <C:/Users/kineaasj/Documents/GitHub/Prosjekt2012/kilder.png>]
-(C:\Users\kineaasj\Documents\GitHub\Prosjekt2012\report.aux) ) 
+) [29] [30 <C:/Users/Line/Documents/GitHub/Prosjekt2012/antallklinikker.png>]
+[31 <C:/Users/Line/Documents/GitHub/Prosjekt2012/kilder.png>]
+(C:\Users\Line\Documents\GitHub\Prosjekt2012\report.aux) ) 
 Here is how much of TeX's memory you used:
- 3658 strings out of 494045
- 50912 string characters out of 3148379
- 146636 words of memory out of 3000000
- 6830 multiletter control sequences out of 15000+200000
+ 3127 strings out of 494045
+ 41920 string characters out of 3147584
+ 135909 words of memory out of 3000000
+ 6310 multiletter control sequences out of 15000+200000
  11661 words of font info for 42 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 33i,11n,43p,3647b,335s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on report.pdf (171 pages, 1187526 bytes).
+ 27i,11n,43p,3647b,328s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x8
+6)/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/Mik
+tex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/Miktex/fo
+nts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/Miktex/fonts/ty
+pe1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/pu
+blic/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/am
+sfonts/cm/cmr10.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/
+cm/cmr6.pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmr8.
+pfb><C:/Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/
+Program Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
+m Files (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program File
+s (x86)/Miktex/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on report.pdf (172 pages, 1189972 bytes).
 PDF statistics:
- 659 PDF objects out of 1000 (max. 8388607)
+ 662 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  201 words of extra memory for PDF output out of 10000 (max. 10000000)
 
